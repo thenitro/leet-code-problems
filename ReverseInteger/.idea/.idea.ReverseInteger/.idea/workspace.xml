@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45b268cb-55b1-41d5-8db7-151b3bfaa278" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TwoSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TwoSum/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="644000b3-efe0-4ad0-abe6-46d5872bb98c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TwoSum/.idea/.idea.TwoSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TwoSum/.idea/.idea.TwoSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TwoSum/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ReverseInteger/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="84">
+              <caret line="16" selection-start-line="16" selection-end-line="42" selection-end-column="1" />
               <folding>
-                <marker date="1558355569084" expanded="true" signature="16:726" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="45:724" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="98:118" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="171:718" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="231:682" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="299:668" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="349:427" ph="{...}" />
-                <marker date="1558355569084" expanded="true" signature="556:650" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="6:32" ph="..." />
+                <marker date="1558356753546" expanded="true" signature="58:419" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="87:417" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="140:411" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="442:978" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="474:972" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="574:675" ph="{...}" />
+                <marker date="1558356753546" expanded="true" signature="887:947" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TwoSum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReverseInteger/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TwoSum/Program.cs" />
+        <option value="$PROJECT_DIR$/ReverseInteger/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,20 +57,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TwoSum" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,19 +85,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseInteger/bin/Debug/ReverseInteger.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseInteger/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseInteger/ReverseInteger.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -117,17 +108,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45b268cb-55b1-41d5-8db7-151b3bfaa278" name="Default Changelist" comment="" />
-      <created>1558355422195</created>
+      <changelist id="644000b3-efe0-4ad0-abe6-46d5872bb98c" name="Default Changelist" comment="" />
+      <created>1558355749558</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558355422195</updated>
-      <workItem from="1558355423763" duration="925000" />
+      <updated>1558355749558</updated>
+      <workItem from="1558355750784" duration="1016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="1016000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,7 +136,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -154,9 +145,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,19 +177,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TwoSum/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ReverseInteger/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="84">
+          <caret line="16" selection-start-line="16" selection-end-line="42" selection-end-column="1" />
           <folding>
-            <marker date="1558355569084" expanded="true" signature="16:726" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="45:724" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="98:118" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="171:718" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="231:682" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="299:668" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="349:427" ph="{...}" />
-            <marker date="1558355569084" expanded="true" signature="556:650" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="6:32" ph="..." />
+            <marker date="1558356753546" expanded="true" signature="58:419" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="87:417" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="140:411" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="442:978" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="474:972" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="574:675" ph="{...}" />
+            <marker date="1558356753546" expanded="true" signature="887:947" ph="{...}" />
           </folding>
         </state>
       </provider>
