@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d72c1e-0ad5-4a2b-95a5-f1e92ddf8463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ea74bae9-ed18-44af-aaaf-8870f2f36b8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,26 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PalindromeNumber/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RomanToInteger/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="358">
+              <caret line="114" column="42" lean-forward="true" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
               <folding>
-                <marker date="1558416451481" expanded="true" signature="6:32" ph="..." />
-                <marker date="1558416451481" expanded="true" signature="60:398" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="89:396" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="142:390" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="421:783" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="459:781" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="625:753" ph="{...}" />
-                <marker date="1558416451481" expanded="true" signature="685:743" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="39:551" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="68:549" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="121:543" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="574:3277" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="612:3060" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="686:3030" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="825:2929" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="935:1079" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="1152:1296" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="1601:1746" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="1819:1964" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="2271:2386" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="2439:2554" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="3109:3270" ph="{...}" />
+                <marker date="1558418183648" expanded="true" signature="3190:3234" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,13 +45,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PalindromeNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RomanToInteger/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PalindromeNumber/Program.cs" />
+        <option value="$PROJECT_DIR$/RomanToInteger/Program.cs" />
       </list>
     </option>
   </component>
@@ -87,14 +93,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PalindromeNumber/bin/Debug/PalindromeNumber.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RomanToInteger/bin/Debug/RomanToInteger.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PalindromeNumber/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RomanToInteger/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RomanToInteger/RomanToInteger.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +116,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99d72c1e-0ad5-4a2b-95a5-f1e92ddf8463" name="Default Changelist" comment="" />
-      <created>1558416180772</created>
+      <changelist id="ea74bae9-ed18-44af-aaaf-8870f2f36b8c" name="Default Changelist" comment="" />
+      <created>1558417299443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558416180772</updated>
-      <workItem from="1558416182058" duration="1647000" />
+      <updated>1558417299443</updated>
+      <workItem from="1558417300928" duration="884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1647000" />
+    <option name="totallyTimeSpent" value="884000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,26 +185,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs">
+    <entry file="file://$PROJECT_DIR$/RomanToInteger/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="97" column="25" selection-start-line="97" selection-start-column="25" selection-end-line="97" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PalindromeNumber/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="358">
+          <caret line="114" column="42" lean-forward="true" selection-start-line="114" selection-start-column="42" selection-end-line="114" selection-end-column="42" />
           <folding>
-            <marker date="1558416451481" expanded="true" signature="6:32" ph="..." />
-            <marker date="1558416451481" expanded="true" signature="60:398" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="89:396" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="142:390" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="421:783" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="459:781" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="625:753" ph="{...}" />
-            <marker date="1558416451481" expanded="true" signature="685:743" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="39:551" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="68:549" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="121:543" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="574:3277" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="612:3060" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="686:3030" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="825:2929" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="935:1079" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="1152:1296" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="1601:1746" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="1819:1964" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="2271:2386" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="2439:2554" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="3109:3270" ph="{...}" />
+            <marker date="1558418183648" expanded="true" signature="3190:3234" ph="{...}" />
           </folding>
         </state>
       </provider>
