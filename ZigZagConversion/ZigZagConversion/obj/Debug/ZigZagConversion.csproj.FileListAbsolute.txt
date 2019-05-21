@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ZigZagConversion\ZigZagConversion\bin\Debug\ZigZagConversion.exe
+E:\code\leet-code-problems\ZigZagConversion\ZigZagConversion\bin\Debug\ZigZagConversion.pdb
+E:\code\leet-code-problems\ZigZagConversion\ZigZagConversion\obj\Debug\ZigZagConversion.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ZigZagConversion\ZigZagConversion\obj\Debug\ZigZagConversion.exe
+E:\code\leet-code-problems\ZigZagConversion\ZigZagConversion\obj\Debug\ZigZagConversion.pdb

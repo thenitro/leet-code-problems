@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84cf4a52-a4b6-4ea5-8e84-0a611e50cbe7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3526ca1f-341e-41c4-80a2-f3bed69ffa88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LongestPalindromicSubstring/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestPalindromicSubstring/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LongestSubstringWithoutRepeatingCharacters/.idea/.idea.LongestSubstringWithoutRepeatingCharacters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestSubstringWithoutRepeatingCharacters/.idea/.idea.LongestSubstringWithoutRepeatingCharacters/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,30 +14,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LongestPalindromicSubstring/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ZigZagConversion/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+            <state relative-caret-position="195">
+              <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
               <folding>
-                <marker date="1558430214998" expanded="true" signature="6:58" ph="..." />
-                <marker date="1558430214998" expanded="true" signature="97:2913" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="126:2911" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="2941:3776" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="2982:3182" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3031:3154" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3086:3144" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3233:3774" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3337:3733" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3394:3723" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3517:3709" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3598:3691" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3800:4651" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3852:4400" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="3912:3954" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="4045:4350" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="4239:4340" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="4455:4649" ph="{...}" />
-                <marker date="1558430214998" expanded="true" signature="4562:4616" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="6:73" ph="..." />
+                <marker date="1558441629025" expanded="true" signature="101:703" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="130:701" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="183:695" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="727:1620" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="777:1618" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="836:878" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="1037:1440" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="1288:1346" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="1373:1430" ph="{...}" />
+                <marker date="1558441629025" expanded="true" signature="1534:1588" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -45,23 +37,16 @@
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Index and length must refer to a location within the string.</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/ee/01baf611/Environment.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/LongestPalindromicSubstring/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ZigZagConversion/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LongestPalindromicSubstring/Program.cs" />
+        <option value="$PROJECT_DIR$/ZigZagConversion/Program.cs" />
       </list>
     </option>
   </component>
@@ -77,10 +62,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/LongestPalindromicSubstring/bin/Debug/LongestPalindromicSubstring.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ZigZagConversion/bin/Debug/ZigZagConversion.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LongestPalindromicSubstring/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ZigZagConversion/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LongestPalindromicSubstring/LongestPalindromicSubstring.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ZigZagConversion/ZigZagConversion.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -127,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84cf4a52-a4b6-4ea5-8e84-0a611e50cbe7" name="Default Changelist" comment="" />
-      <created>1558426536902</created>
+      <changelist id="3526ca1f-341e-41c4-80a2-f3bed69ffa88" name="Default Changelist" comment="" />
+      <created>1558431008357</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558426536902</updated>
-      <workItem from="1558426538080" duration="4930000" />
+      <updated>1558431008357</updated>
+      <workItem from="1558431009617" duration="7476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4930000" />
+    <option name="totallyTimeSpent" value="7476000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,44 +181,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/ee/01baf611/Environment.cs">
+    <entry file="file://$PROJECT_DIR$/ZigZagConversion/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="883" column="34" selection-start-line="883" selection-start-column="34" selection-end-line="883" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="1054" column="92" selection-start-line="1054" selection-start-column="92" selection-end-line="1054" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestPalindromicSubstring/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="86" column="22" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+        <state relative-caret-position="195">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
           <folding>
-            <marker date="1558430214998" expanded="true" signature="6:58" ph="..." />
-            <marker date="1558430214998" expanded="true" signature="97:2913" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="126:2911" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="2941:3776" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="2982:3182" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3031:3154" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3086:3144" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3233:3774" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3337:3733" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3394:3723" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3517:3709" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3598:3691" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3800:4651" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3852:4400" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="3912:3954" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="4045:4350" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="4239:4340" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="4455:4649" ph="{...}" />
-            <marker date="1558430214998" expanded="true" signature="4562:4616" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="6:73" ph="..." />
+            <marker date="1558441629025" expanded="true" signature="101:703" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="130:701" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="183:695" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="727:1620" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="777:1618" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="836:878" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="1037:1440" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="1288:1346" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="1373:1430" ph="{...}" />
+            <marker date="1558441629025" expanded="true" signature="1534:1588" ph="{...}" />
           </folding>
         </state>
       </provider>

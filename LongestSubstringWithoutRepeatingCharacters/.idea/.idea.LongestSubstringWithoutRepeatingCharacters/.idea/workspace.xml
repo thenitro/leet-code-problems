@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="842a30d9-7034-464a-8817-031e2709c2a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AddTwoNumbers/.idea/.idea.AddTwoNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddTwoNumbers/.idea/.idea.AddTwoNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestPalindromicSubstring/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestPalindromicSubstring/.idea/.idea.LongestPalindromicSubstring/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestSubstringWithoutRepeatingCharacters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestSubstringWithoutRepeatingCharacters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
