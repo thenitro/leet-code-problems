@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea74bae9-ed18-44af-aaaf-8870f2f36b8c" name="Default Changelist" comment="">
+    <list default="true" id="842a30d9-7034-464a-8817-031e2709c2a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddTwoNumbers/.idea/.idea.AddTwoNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddTwoNumbers/.idea/.idea.AddTwoNumbers/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RomanToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RomanToInteger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RomanToInteger/.idea/.idea.RomanToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/.idea.RomanToInteger/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,26 +16,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RomanToInteger/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+            <state relative-caret-position="354">
+              <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
               <folding>
-                <marker date="1558418251076" expanded="true" signature="39:551" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="68:549" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="121:543" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="574:3237" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="612:3020" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="686:2990" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="767:2933" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="877:1021" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="1094:1238" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="1543:1688" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="1761:1906" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="2213:2359" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="2412:2558" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="3069:3230" ph="{...}" />
-                <marker date="1558418251076" expanded="true" signature="3150:3194" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="6:47" ph="..." />
+                <marker date="1558424484591" expanded="true" signature="127:981" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="156:979" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="209:973" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="232:871" ph="/* Console.WriteLine(&quot;abcabcbb 3 {0}&quot;, new Solution().LengthOfLongestSubstring(&quot;abcabcbb&quot;)); ... */" />
+                <marker date="1558424484591" expanded="true" signature="1005:1905" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="1056:1903" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="1231:1872" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="1324:1544" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="1561:1862" ph="{...}" />
+                <marker date="1558424484591" expanded="true" signature="1757:1832" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,12 +43,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RomanToInteger/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RomanToInteger/Program.cs" />
+        <option value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/Program.cs" />
       </list>
     </option>
   </component>
@@ -67,11 +63,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,14 +91,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/RomanToInteger/bin/Debug/RomanToInteger.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/bin/Debug/LongestSubstringWithoutRepeatingCharacters.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RomanToInteger/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RomanToInteger/RomanToInteger.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -118,17 +114,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea74bae9-ed18-44af-aaaf-8870f2f36b8c" name="Default Changelist" comment="" />
-      <created>1558417299443</created>
+      <changelist id="842a30d9-7034-464a-8817-031e2709c2a5" name="Default Changelist" comment="" />
+      <created>1558423114947</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558417299443</updated>
-      <workItem from="1558417300928" duration="2868000" />
+      <updated>1558423114947</updated>
+      <workItem from="1558423116325" duration="1369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2868000" />
+    <option name="totallyTimeSpent" value="1369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,7 +154,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -187,26 +183,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RomanToInteger/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LongestSubstringWithoutRepeatingCharacters/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        <state relative-caret-position="354">
+          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
           <folding>
-            <marker date="1558418251076" expanded="true" signature="39:551" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="68:549" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="121:543" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="574:3237" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="612:3020" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="686:2990" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="767:2933" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="877:1021" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="1094:1238" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="1543:1688" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="1761:1906" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="2213:2359" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="2412:2558" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="3069:3230" ph="{...}" />
-            <marker date="1558418251076" expanded="true" signature="3150:3194" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="6:47" ph="..." />
+            <marker date="1558424484591" expanded="true" signature="127:981" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="156:979" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="209:973" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="232:871" ph="/* Console.WriteLine(&quot;abcabcbb 3 {0}&quot;, new Solution().LengthOfLongestSubstring(&quot;abcabcbb&quot;)); ... */" />
+            <marker date="1558424484591" expanded="true" signature="1005:1905" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="1056:1903" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="1231:1872" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="1324:1544" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="1561:1862" ph="{...}" />
+            <marker date="1558424484591" expanded="true" signature="1757:1832" ph="{...}" />
           </folding>
         </state>
       </provider>
