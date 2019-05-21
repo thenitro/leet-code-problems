@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1c4d1f9-cc12-47de-b012-3f5570d6619d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeNumber/.idea/.idea.PalindromeNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseInteger/.idea/.idea.ReverseInteger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RomanToInteger/.idea/.idea.RomanToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RomanToInteger/.idea/.idea.RomanToInteger/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddTwoNumbers/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding>
+                <marker date="1558422538653" expanded="true" signature="6:47" ph="..." />
+                <marker date="1558422538653" expanded="true" signature="117:1049" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="146:1047" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="199:1041" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="222:691" ph="/* var listA = new ListNode(2) ... */" />
+                <marker date="1558422538653" expanded="true" signature="912:1031" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1073:1162" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1186:2105" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1247:2103" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1440:2075" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1658:1744" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1789:1869" ph="{...}" />
+                <marker date="1558422538653" expanded="true" signature="1886:2002" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="140" column="28" lean-forward="true" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+              <folding>
+                <marker date="1558416374724" expanded="true" signature="0:280" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1558416374724" expanded="false" signature="288:578" ph="..." />
+                <marker date="1558416374724" expanded="true" signature="596:198665" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="601:796" ph="///Represents text as a series of Unicode characters.To browse the .NET Framework source code for this type, see  ... " />
+                <marker date="1558416374724" expanded="true" signature="1003:198663" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="1222:1341" ph="///Represents the empty string. This field is read-only. ... " />
+                <marker date="1558416374724" expanded="true" signature="1500:2325" ph="///Concatenates all the elements of a string array, using the specified separator between each element. ... " />
+                <marker date="1558416374724" expanded="true" signature="2425:2580" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="2586:3368" ph="///Concatenates the elements of an object array, using the specified separator between each element. ... " />
+                <marker date="1558416374724" expanded="true" signature="3493:4203" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="3932:4140" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="4005:4132" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="4209:5080" ph="///Concatenates the members of a collection, using the specified separator between each member. ... " />
+                <marker date="1558416374724" expanded="true" signature="5207:6090" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="5425:6084" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="5608:5737" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="5775:6017" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="5868:6007" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="6096:6981" ph="///Concatenates the members of a constructed &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; collection ... " />
+                <marker date="1558416374724" expanded="true" signature="7110:7796" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="7333:7790" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="7586:7723" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="7825:7896" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="7841:7890" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="7902:9447" ph="///Concatenates the specified elements of a string array, using the specified separator between each element. ... " />
+                <marker date="1558416374724" expanded="true" signature="9601:11156" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="10415:10504" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="10786:11132" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="10997:11124" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="11271:11944" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="11426:11938" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="11538:11884" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="12446:12908" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="12635:12884" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="12700:12874" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="13078:13787" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="13212:13781" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="13333:13589" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="13667:13741" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="13900:14458" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14034:14452" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14150:14419" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14563:16284" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14739:16278" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14856:15595" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="14918:14991" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15053:15126" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15188:15261" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15323:15396" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15458:15531" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15621:15893" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="15967:16041" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="16290:16788" ph="///Determines whether this instance and a specified object, which must also be a &lt;see cref=&quot;T:System.String&quot; /&gt; o ... " />
+                <marker date="1558416374724" expanded="true" signature="16933:17253" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="17259:17729" ph="///Determines whether this instance and another specified &lt;see cref=&quot;T:System.String&quot; /&gt; object have the same val ... " />
+                <marker date="1558416374724" expanded="true" signature="17867:18166" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="18172:18925" ph="///Determines whether this string and a specified &lt;see cref=&quot;T:System.String&quot; /&gt; object have the same value. A pa ... " />
+                <marker date="1558416374724" expanded="true" signature="19051:21064" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="19087:21058" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="19552:20905" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="21070:21601" ph="///Determines whether two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects have the same value. ... " />
+                <marker date="1558416374724" expanded="true" signature="21680:21869" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="21875:22708" ph="///Determines whether two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects have the same value. A parameter speci ... " />
+                <marker date="1558416374724" expanded="true" signature="22847:24792" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="22883:24786" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="23350:24633" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="24798:25207" ph="///Determines whether two specified strings have the same value. ... " />
+                <marker date="1558416374724" expanded="true" signature="25291:25337" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="25343:25757" ph="///Determines whether two specified strings have different values. ... " />
+                <marker date="1558416374724" expanded="true" signature="25841:25888" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="25894:26411" ph="///Gets the &lt;see cref=&quot;T:System.Char&quot; /&gt; object at a specified position in the current &lt;see cref=&quot;T:System.String ... " />
+                <marker date="1558416374724" expanded="true" signature="26612:28134" ph="///Copies a specified number of characters from a specified position in this instance to a specified position in  ... " />
+                <marker date="1558416374724" expanded="true" signature="28315:29334" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="29340:29679" ph="///Copies the characters in this instance to a Unicode character array. ... " />
+                <marker date="1558416374724" expanded="true" signature="29774:30053" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="29875:30025" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="30059:30882" ph="///Copies the characters in a specified substring in this instance to a Unicode character array. ... " />
+                <marker date="1558416374724" expanded="true" signature="31003:31628" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="31435:31600" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="31634:31980" ph="///Indicates whether the specified string is null or an &lt;see cref=&quot;F:System.String.Empty&quot; /&gt; string. ... " />
+                <marker date="1558416374724" expanded="true" signature="32060:32150" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="32156:32536" ph="///Indicates whether a specified string is null, empty, or consists only of white-space characters. ... " />
+                <marker date="1558416374724" expanded="true" signature="32621:32841" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="32730:32816" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="33114:33178" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="33359:33525" ph="///Returns the hash code for this string. ... " />
+                <marker date="1558416374724" expanded="true" signature="33698:34279" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="33863:34273" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="34017:34224" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="34436:34892" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="34476:34886" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="34630:34837" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="34898:35122" ph="///Gets the number of characters in the current &lt;see cref=&quot;T:System.String&quot; /&gt; object. ... " />
+                <marker date="1558416374724" expanded="true" signature="35286:35806" ph="///Splits a string into substrings that are based on the characters in an array. ... " />
+                <marker date="1558416374724" expanded="true" signature="35886:35981" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="35987:36781" ph="///Splits a string into a maximum number of substrings based on the characters in an array. You also specify the  ... " />
+                <marker date="1558416374724" expanded="true" signature="36865:36953" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="36959:37976" ph="///Splits a string into substrings based on the characters in an array. You can specify whether the substrings in ... " />
+                <marker date="1558416374724" expanded="true" signature="38101:38180" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="38186:39360" ph="///Splits a string into a maximum number of substrings based on the characters in an array. ... " />
+                <marker date="1558416374724" expanded="true" signature="39496:39568" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="39686:40691" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="39866:40685" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="40697:41705" ph="///Splits a string into substrings based on the strings in an array. You can specify whether the substrings inclu ... " />
+                <marker date="1558416374724" expanded="true" signature="41832:41903" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="41909:43142" ph="///Splits a string into a maximum number of substrings based on the strings in an array. You can specify whether  ... " />
+                <marker date="1558416374724" expanded="true" signature="43280:44482" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="43460:44476" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="44620:45266" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="44874:45063" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="45404:46461" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="45658:46110" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="45919:46102" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46273:46431" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46567:47628" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46647:46928" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46703:46920" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46798:46910" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="46939:47603" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47117:47595" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47209:47583" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47325:47569" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47399:47503" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47778:48728" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="47927:48701" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="48016:48693" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="48095:48683" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="48208:48671" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="48449:48657" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="48734:49484" ph="///Retrieves a substring from this instance. The substring starts at a specified character position and continues ... " />
+                <marker date="1558416374724" expanded="true" signature="49557:49636" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="49642:50637" ph="///Retrieves a substring from this instance. The substring starts at a specified character position and has a spe ... " />
+                <marker date="1558416374724" expanded="true" signature="50749:51613" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="51709:51945" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="51951:52665" ph="///Removes all leading and trailing occurrences of a set of characters specified in an array from the current &lt;se ... " />
+                <marker date="1558416374724" expanded="true" signature="52742:52887" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="52893:53471" ph="///Removes all leading occurrences of a set of characters specified in an array from the current &lt;see cref=&quot;T:Sys ... " />
+                <marker date="1558416374724" expanded="true" signature="53553:53698" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="53704:54404" ph="///Removes all trailing occurrences of a set of characters specified in an array from the current &lt;see cref=&quot;T:Sy ... " />
+                <marker date="1558416374724" expanded="true" signature="54484:54629" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="54635:55290" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+                <marker date="1558416374724" expanded="true" signature="55440:56555" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+                <marker date="1558416374724" expanded="true" signature="56733:57709" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a pointer to  ... " />
+                <marker date="1558416374724" expanded="true" signature="57860:59446" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+                <marker date="1558416374724" expanded="true" signature="59625:61479" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+                <marker date="1558416374724" expanded="true" signature="61817:62751" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="62435:62522" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="62562:62707" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="62901:63254" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="63407:63559" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="63736:64271" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="64277:64868" ph="///Indicates whether this string is in Unicode normalization form C. ... " />
+                <marker date="1558416374724" expanded="true" signature="64899:64968" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="64974:65723" ph="///Indicates whether this string is in the specified Unicode normalization form. ... " />
+                <marker date="1558416374724" expanded="true" signature="65816:66142" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="66148:66877" ph="///Returns a new string whose textual value is the same as this string, but whose binary representation is in Uni ... " />
+                <marker date="1558416374724" expanded="true" signature="66907:66973" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="66979:67854" ph="///Returns a new string whose textual value is the same as this string, but whose binary representation is in the ... " />
+                <marker date="1558416374724" expanded="true" signature="67946:68266" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="68520:68777" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="68783:69693" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by an array of U ... " />
+                <marker date="1558416374724" expanded="true" signature="69872:70092" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by an array of U ... " />
+                <marker date="1558416374724" expanded="true" signature="70340:70416" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="70498:70781" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="70902:71732" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="71819:72963" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="71846:72751" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="71941:72723" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="71988:72713" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="72221:72509" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="72543:72640" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="73035:73431" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="73189:73336" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="73504:74176" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="73732:73987" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="74027:74170" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="74288:75219" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="74915:75030" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="75070:75213" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="75225:75683" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified U ... " />
+                <marker date="1558416374724" expanded="true" signature="75839:76606" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects and returns an integer that indicates their rela ... " />
+                <marker date="1558416374724" expanded="true" signature="76691:76797" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="76803:77706" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case, and returns an ... " />
+                <marker date="1558416374724" expanded="true" signature="77808:78038" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="78044:79264" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified rules, and returns an intege ... " />
+                <marker date="1558416374724" expanded="true" signature="79409:80986" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="79760:80980" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="80992:82417" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified comparison options and cultu ... " />
+                <marker date="1558416374724" expanded="true" signature="82572:82733" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="82739:83931" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case, and using cult ... " />
+                <marker date="1558416374724" expanded="true" signature="84025:84303" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="84309:86020" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects and returns an integer that indica ... " />
+                <marker date="1558416374724" expanded="true" signature="86141:86533" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="86539:88389" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case,  ... " />
+                <marker date="1558416374724" expanded="true" signature="88535:89085" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="89091:91213" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case a ... " />
+                <marker date="1558416374724" expanded="true" signature="91386:91984" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="91990:94262" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified comparison opt ... " />
+                <marker date="1558416374724" expanded="true" signature="94442:94889" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="94895:96946" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified rules, and ret ... " />
+                <marker date="1558416374724" expanded="true" signature="97164:100218" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="97200:100212" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="97548:97686" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="98865:100059" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="100224:101232" ph="///Compares this instance with a specified &lt;see cref=&quot;T:System.Object&quot; /&gt; and indicates whether this instance pre ... " />
+                <marker date="1558416374724" expanded="true" signature="101271:101528" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="101534:102358" ph="///Compares this instance with a specified &lt;see cref=&quot;T:System.String&quot; /&gt; object and indicates whether this insta ... " />
+                <marker date="1558416374724" expanded="true" signature="102425:102573" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="102579:103299" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects by evaluating the numeric values of the correspo ... " />
+                <marker date="1558416374724" expanded="true" signature="103391:103730" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="103736:105377" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects by evaluating the numeric values o ... " />
+                <marker date="1558416374724" expanded="true" signature="105563:105793" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="105799:106297" ph="///Returns a value indicating whether a specified substring occurs within this string. ... " />
+                <marker date="1558416374724" expanded="true" signature="106365:106442" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="106448:106926" ph="///Determines whether the end of this string instance matches the specified string. ... " />
+                <marker date="1558416374724" expanded="true" signature="106994:107074" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="107080:107897" ph="///Determines whether the end of this string instance matches the specified string when compared using the specif ... " />
+                <marker date="1558416374724" expanded="true" signature="108049:110090" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="108167:110084" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="108598:109931" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="110096:110936" ph="///Determines whether the end of this string instance matches the specified string when compared using the specif ... " />
+                <marker date="1558416374724" expanded="true" signature="111013:111338" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="111378:111489" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="111495:111864" ph="///Reports the zero-based index of the first occurrence of the specified Unicode character in this string. ... " />
+                <marker date="1558416374724" expanded="true" signature="111928:111990" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="111996:112670" ph="///Reports the zero-based index of the first occurrence of the specified Unicode character in this string. The se ... " />
+                <marker date="1558416374724" expanded="true" signature="112750:112834" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="112840:113811" ph="///Reports the zero-based index of the first occurrence of the specified character in this instance. The search s ... " />
+                <marker date="1558416374724" expanded="true" signature="113992:114625" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+                <marker date="1558416374724" expanded="true" signature="114694:114759" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="114765:115746" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+                <marker date="1558416374724" expanded="true" signature="115831:115918" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="115924:117100" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+                <marker date="1558416374724" expanded="true" signature="117286:117841" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. ... " />
+                <marker date="1558416374724" expanded="true" signature="117907:117986" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="117992:118881" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. The search star ... " />
+                <marker date="1558416374724" expanded="true" signature="118963:119054" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="119060:120252" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. The search star ... " />
+                <marker date="1558416374724" expanded="true" signature="120345:120803" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="120809:121723" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+                <marker date="1558416374724" expanded="true" signature="121822:121900" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="121906:123165" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+                <marker date="1558416374724" expanded="true" signature="123280:123380" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="123386:124952" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+                <marker date="1558416374724" expanded="true" signature="125105:126924" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="125583:126918" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="126930:127313" ph="///Reports the zero-based index position of the last occurrence of a specified Unicode character within this inst ... " />
+                <marker date="1558416374724" expanded="true" signature="127381:127461" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="127467:128469" ph="///Reports the zero-based index position of the last occurrence of a specified Unicode character within this inst ... " />
+                <marker date="1558416374724" expanded="true" signature="128553:128631" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="128637:129948" ph="///Reports the zero-based index position of the last occurrence of the specified Unicode character in a substring ... " />
+                <marker date="1558416374724" expanded="true" signature="130133:130757" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+                <marker date="1558416374724" expanded="true" signature="130830:130913" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="130919:132130" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+                <marker date="1558416374724" expanded="true" signature="132219:132300" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="132306:133801" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+                <marker date="1558416374724" expanded="true" signature="133991:134604" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. ... " />
+                <marker date="1558416374724" expanded="true" signature="134674:134787" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="134793:136206" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+                <marker date="1558416374724" expanded="true" signature="136292:136403" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="136409:138416" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+                <marker date="1558416374724" expanded="true" signature="138513:138758" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="138764:139738" ph="///Reports the zero-based index of the last occurrence of a specified string within the current &lt;see cref=&quot;T:Syst ... " />
+                <marker date="1558416374724" expanded="true" signature="139841:139937" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="139943:141740" ph="///Reports the zero-based index of the last occurrence of a specified string within the current &lt;see cref=&quot;T:Syst ... " />
+                <marker date="1558416374724" expanded="true" signature="141859:141953" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="141959:144324" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+                <marker date="1558416374724" expanded="true" signature="144506:146681" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="144924:145109" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="145312:146675" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="146687:147691" ph="///Returns a new string that right-aligns the characters in this instance by padding them with spaces on the left ... " />
+                <marker date="1558416374724" expanded="true" signature="147762:147827" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="147833:148968" ph="///Returns a new string that right-aligns the characters in this instance by padding them on the left with a spec ... " />
+                <marker date="1558416374724" expanded="true" signature="149057:149130" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="149136:150138" ph="///Returns a new string that left-aligns the characters in this string by padding them with spaces on the right,  ... " />
+                <marker date="1558416374724" expanded="true" signature="150210:150274" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="150280:151414" ph="///Returns a new string that left-aligns the characters in this string by padding them on the right with a specif ... " />
+                <marker date="1558416374724" expanded="true" signature="151504:151576" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="151750:152193" ph="///Determines whether the beginning of this string instance matches the specified string. ... " />
+                <marker date="1558416374724" expanded="true" signature="152263:152427" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="152433:153192" ph="///Determines whether the beginning of this string instance matches the specified string when compared using the  ... " />
+                <marker date="1558416374724" expanded="true" signature="153346:155335" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="153464:155329" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="153895:155176" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="155341:156146" ph="///Determines whether the beginning of this string instance matches the specified string when compared using the  ... " />
+                <marker date="1558416374724" expanded="true" signature="156225:156550" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="156556:156969" ph="///Returns a copy of this string converted to lowercase. ... " />
+                <marker date="1558416374724" expanded="true" signature="157026:157093" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="157099:157796" ph="///Returns a copy of this string converted to lowercase, using the casing rules of the specified culture. ... " />
+                <marker date="1558416374724" expanded="true" signature="157843:157986" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="157992:158509" ph="///Returns a copy of this &lt;see cref=&quot;T:System.String&quot; /&gt; object converted to lowercase using the casing rules of  ... " />
+                <marker date="1558416374724" expanded="true" signature="158575:158644" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="158650:159088" ph="///Returns a copy of this string converted to uppercase. ... " />
+                <marker date="1558416374724" expanded="true" signature="159145:159212" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="159218:159915" ph="///Returns a copy of this string converted to uppercase, using the casing rules of the specified culture. ... " />
+                <marker date="1558416374724" expanded="true" signature="159962:160105" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="160111:160628" ph="///Returns a copy of this &lt;see cref=&quot;T:System.String&quot; /&gt; object converted to uppercase using the casing rules of  ... " />
+                <marker date="1558416374724" expanded="true" signature="160694:160763" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="160769:160973" ph="///Returns this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;; no actual conversion is performed. ... " />
+                <marker date="1558416374724" expanded="true" signature="161040:161071" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="161077:161397" ph="///Returns this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;; no actual conversion is performed. ... " />
+                <marker date="1558416374724" expanded="true" signature="161450:161481" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="161487:161700" ph="///Returns a reference to this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="161726:161766" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="161815:161847" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="161853:162283" ph="///Removes all leading and trailing white-space characters from the current &lt;see cref=&quot;T:System.String&quot; /&gt; object ... " />
+                <marker date="1558416374724" expanded="true" signature="162337:162382" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="162454:162952" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="162539:162704" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="162729:162895" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163042:163830" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163127:163437" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163189:163429" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163462:163773" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163527:163765" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="163913:164119" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="164125:164901" ph="///Returns a new string in which a specified string is inserted at a specified index position in this instance. ... " />
+                <marker date="1558416374724" expanded="true" signature="165019:165849" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="165586:165825" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="166003:166713" ph="///Returns a new string in which all occurrences of a specified Unicode character in this instance are replaced w ... " />
+                <marker date="1558416374724" expanded="true" signature="166796:166861" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="167021:167952" ph="///Returns a new string in which all occurrences of a specified string in the current instance are replaced with  ... " />
+                <marker date="1558416374724" expanded="true" signature="168041:168196" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="168202:168957" ph="///Returns a new string in which a specified number of characters in the current instance beginning at a specifie ... " />
+                <marker date="1558416374724" expanded="true" signature="169072:169982" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="169795:169958" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="169988:170650" ph="///Returns a new string in which all the characters in the current instance, beginning at a specified position an ... " />
+                <marker date="1558416374724" expanded="true" signature="170720:171117" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="171123:171863" ph="///Replaces one or more format items in a specified string with the string representation of a specified object. ... " />
+                <marker date="1558416374724" expanded="true" signature="171952:172053" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="172059:172888" ph="///Replaces the format items in a specified string with the string representation of two specified objects. ... " />
+                <marker date="1558416374724" expanded="true" signature="172990:173097" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="173103:174054" ph="///Replaces the format items in a specified string with the string representation of three specified objects. ... " />
+                <marker date="1558416374724" expanded="true" signature="174169:174282" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="174288:175220" ph="///Replaces the format item in a specified string with the string representation of a corresponding object in a s ... " />
+                <marker date="1558416374724" expanded="true" signature="175318:175534" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="175540:176483" ph="///Replaces the format item or items in a specified string with the string representation of the corresponding ob ... " />
+                <marker date="1558416374724" expanded="true" signature="176598:176685" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="176691:177733" ph="///Replaces the format items in a specified string with the string representation of two specified objects. A par ... " />
+                <marker date="1558416374724" expanded="true" signature="177861:177954" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="177960:179134" ph="///Replaces the format items in a specified string with the string representation of three specified objects. An  ... " />
+                <marker date="1558416374724" expanded="true" signature="179306:179405" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="179411:180512" ph="///Replaces the format items in a specified string with the string representations of corresponding objects in a  ... " />
+                <marker date="1558416374724" expanded="true" signature="180636:180838" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="180937:181190" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="181196:181640" ph="///Creates a new instance of &lt;see cref=&quot;T:System.String&quot; /&gt; with the same value as a specified &lt;see cref=&quot;T:Syste ... " />
+                <marker date="1558416374724" expanded="true" signature="181716:182048" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="182054:182419" ph="///Creates the string  representation of a specified object. ... " />
+                <marker date="1558416374724" expanded="true" signature="182493:182588" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="182594:183003" ph="///Concatenates the string representations of two specified objects. ... " />
+                <marker date="1558416374724" expanded="true" signature="183090:183274" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="183280:183787" ph="///Concatenates the string representations of three specified objects. ... " />
+                <marker date="1558416374724" expanded="true" signature="183887:184151" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="184273:184717" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="184723:185314" ph="///Concatenates the string representations of the elements in a specified &lt;see cref=&quot;T:System.Object&quot; /&gt; array. ... " />
+                <marker date="1558416374724" expanded="true" signature="185397:185987" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="185615:185927" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="185993:186559" ph="///Concatenates the members of an &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; implementation. ... " />
+                <marker date="1558416374724" expanded="true" signature="186670:187209" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="186882:187146" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="186928:187138" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="186989:187128" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="187215:187784" ph="///Concatenates the members of a constructed &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; collection ... " />
+                <marker date="1558416374724" expanded="true" signature="187897:188336" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="188114:188273" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="188160:188265" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="188342:188721" ph="///Concatenates two specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="188835:189271" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="188879:188987" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="189277:189754" ph="///Concatenates three specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="189881:190419" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="190425:190997" ph="///Concatenates four specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="191137:191845" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="191945:192238" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="192092:192213" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="192244:192738" ph="///Concatenates the elements of a specified &lt;see cref=&quot;T:System.String&quot; /&gt; array. ... " />
+                <marker date="1558416374724" expanded="true" signature="192823:193341" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="193050:193280" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="193347:193863" ph="///Retrieves the system's reference to the specified &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="193934:194080" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="194086:194548" ph="///Retrieves a reference to a specified &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="194623:194768" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="194774:195019" ph="///Returns the &lt;see cref=&quot;T:System.TypeCode&quot; /&gt; for class &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+                <marker date="1558416374724" expanded="true" signature="195053:195095" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195183:195243" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195328:195385" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195472:195530" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195615:195672" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195759:195817" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="195906:195965" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196050:196108" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196195:196254" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196340:196398" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196486:196545" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196633:196692" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196781:196840" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="196931:196991" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="197084:197145" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="197243:197328" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="197808:198009" ph="///Retrieves an object that can iterate through the individual characters in this string. ... " />
+                <marker date="1558416374724" expanded="true" signature="198051:198102" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="198188:198259" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="198333:198398" ph="{...}" />
+                <marker date="1558416374724" expanded="true" signature="198501:198659" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddTwoNumbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AddTwoNumbers/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AddTwoNumbers/bin/Debug/AddTwoNumbers.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddTwoNumbers/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1c4d1f9-cc12-47de-b012-3f5570d6619d" name="Default Changelist" comment="" />
+      <created>1558419418774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558419418774</updated>
+      <workItem from="1558419419980" duration="3118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3118000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/82/bcddc616/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="140" column="28" lean-forward="true" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+          <folding>
+            <marker date="1558416374724" expanded="true" signature="0:280" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1558416374724" expanded="false" signature="288:578" ph="..." />
+            <marker date="1558416374724" expanded="true" signature="596:198665" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="601:796" ph="///Represents text as a series of Unicode characters.To browse the .NET Framework source code for this type, see  ... " />
+            <marker date="1558416374724" expanded="true" signature="1003:198663" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="1222:1341" ph="///Represents the empty string. This field is read-only. ... " />
+            <marker date="1558416374724" expanded="true" signature="1500:2325" ph="///Concatenates all the elements of a string array, using the specified separator between each element. ... " />
+            <marker date="1558416374724" expanded="true" signature="2425:2580" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="2586:3368" ph="///Concatenates the elements of an object array, using the specified separator between each element. ... " />
+            <marker date="1558416374724" expanded="true" signature="3493:4203" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="3932:4140" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="4005:4132" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="4209:5080" ph="///Concatenates the members of a collection, using the specified separator between each member. ... " />
+            <marker date="1558416374724" expanded="true" signature="5207:6090" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="5425:6084" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="5608:5737" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="5775:6017" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="5868:6007" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="6096:6981" ph="///Concatenates the members of a constructed &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; collection ... " />
+            <marker date="1558416374724" expanded="true" signature="7110:7796" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="7333:7790" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="7586:7723" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="7825:7896" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="7841:7890" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="7902:9447" ph="///Concatenates the specified elements of a string array, using the specified separator between each element. ... " />
+            <marker date="1558416374724" expanded="true" signature="9601:11156" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="10415:10504" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="10786:11132" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="10997:11124" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="11271:11944" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="11426:11938" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="11538:11884" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="12446:12908" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="12635:12884" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="12700:12874" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="13078:13787" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="13212:13781" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="13333:13589" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="13667:13741" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="13900:14458" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14034:14452" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14150:14419" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14563:16284" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14739:16278" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14856:15595" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="14918:14991" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15053:15126" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15188:15261" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15323:15396" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15458:15531" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15621:15893" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="15967:16041" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="16290:16788" ph="///Determines whether this instance and a specified object, which must also be a &lt;see cref=&quot;T:System.String&quot; /&gt; o ... " />
+            <marker date="1558416374724" expanded="true" signature="16933:17253" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="17259:17729" ph="///Determines whether this instance and another specified &lt;see cref=&quot;T:System.String&quot; /&gt; object have the same val ... " />
+            <marker date="1558416374724" expanded="true" signature="17867:18166" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="18172:18925" ph="///Determines whether this string and a specified &lt;see cref=&quot;T:System.String&quot; /&gt; object have the same value. A pa ... " />
+            <marker date="1558416374724" expanded="true" signature="19051:21064" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="19087:21058" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="19552:20905" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="21070:21601" ph="///Determines whether two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects have the same value. ... " />
+            <marker date="1558416374724" expanded="true" signature="21680:21869" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="21875:22708" ph="///Determines whether two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects have the same value. A parameter speci ... " />
+            <marker date="1558416374724" expanded="true" signature="22847:24792" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="22883:24786" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="23350:24633" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="24798:25207" ph="///Determines whether two specified strings have the same value. ... " />
+            <marker date="1558416374724" expanded="true" signature="25291:25337" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="25343:25757" ph="///Determines whether two specified strings have different values. ... " />
+            <marker date="1558416374724" expanded="true" signature="25841:25888" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="25894:26411" ph="///Gets the &lt;see cref=&quot;T:System.Char&quot; /&gt; object at a specified position in the current &lt;see cref=&quot;T:System.String ... " />
+            <marker date="1558416374724" expanded="true" signature="26612:28134" ph="///Copies a specified number of characters from a specified position in this instance to a specified position in  ... " />
+            <marker date="1558416374724" expanded="true" signature="28315:29334" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="29340:29679" ph="///Copies the characters in this instance to a Unicode character array. ... " />
+            <marker date="1558416374724" expanded="true" signature="29774:30053" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="29875:30025" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="30059:30882" ph="///Copies the characters in a specified substring in this instance to a Unicode character array. ... " />
+            <marker date="1558416374724" expanded="true" signature="31003:31628" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="31435:31600" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="31634:31980" ph="///Indicates whether the specified string is null or an &lt;see cref=&quot;F:System.String.Empty&quot; /&gt; string. ... " />
+            <marker date="1558416374724" expanded="true" signature="32060:32150" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="32156:32536" ph="///Indicates whether a specified string is null, empty, or consists only of white-space characters. ... " />
+            <marker date="1558416374724" expanded="true" signature="32621:32841" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="32730:32816" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="33114:33178" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="33359:33525" ph="///Returns the hash code for this string. ... " />
+            <marker date="1558416374724" expanded="true" signature="33698:34279" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="33863:34273" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="34017:34224" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="34436:34892" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="34476:34886" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="34630:34837" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="34898:35122" ph="///Gets the number of characters in the current &lt;see cref=&quot;T:System.String&quot; /&gt; object. ... " />
+            <marker date="1558416374724" expanded="true" signature="35286:35806" ph="///Splits a string into substrings that are based on the characters in an array. ... " />
+            <marker date="1558416374724" expanded="true" signature="35886:35981" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="35987:36781" ph="///Splits a string into a maximum number of substrings based on the characters in an array. You also specify the  ... " />
+            <marker date="1558416374724" expanded="true" signature="36865:36953" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="36959:37976" ph="///Splits a string into substrings based on the characters in an array. You can specify whether the substrings in ... " />
+            <marker date="1558416374724" expanded="true" signature="38101:38180" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="38186:39360" ph="///Splits a string into a maximum number of substrings based on the characters in an array. ... " />
+            <marker date="1558416374724" expanded="true" signature="39496:39568" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="39686:40691" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="39866:40685" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="40697:41705" ph="///Splits a string into substrings based on the strings in an array. You can specify whether the substrings inclu ... " />
+            <marker date="1558416374724" expanded="true" signature="41832:41903" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="41909:43142" ph="///Splits a string into a maximum number of substrings based on the strings in an array. You can specify whether  ... " />
+            <marker date="1558416374724" expanded="true" signature="43280:44482" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="43460:44476" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="44620:45266" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="44874:45063" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="45404:46461" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="45658:46110" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="45919:46102" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46273:46431" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46567:47628" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46647:46928" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46703:46920" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46798:46910" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="46939:47603" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47117:47595" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47209:47583" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47325:47569" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47399:47503" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47778:48728" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="47927:48701" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="48016:48693" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="48095:48683" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="48208:48671" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="48449:48657" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="48734:49484" ph="///Retrieves a substring from this instance. The substring starts at a specified character position and continues ... " />
+            <marker date="1558416374724" expanded="true" signature="49557:49636" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="49642:50637" ph="///Retrieves a substring from this instance. The substring starts at a specified character position and has a spe ... " />
+            <marker date="1558416374724" expanded="true" signature="50749:51613" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="51709:51945" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="51951:52665" ph="///Removes all leading and trailing occurrences of a set of characters specified in an array from the current &lt;se ... " />
+            <marker date="1558416374724" expanded="true" signature="52742:52887" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="52893:53471" ph="///Removes all leading occurrences of a set of characters specified in an array from the current &lt;see cref=&quot;T:Sys ... " />
+            <marker date="1558416374724" expanded="true" signature="53553:53698" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="53704:54404" ph="///Removes all trailing occurrences of a set of characters specified in an array from the current &lt;see cref=&quot;T:Sy ... " />
+            <marker date="1558416374724" expanded="true" signature="54484:54629" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="54635:55290" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+            <marker date="1558416374724" expanded="true" signature="55440:56555" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+            <marker date="1558416374724" expanded="true" signature="56733:57709" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a pointer to  ... " />
+            <marker date="1558416374724" expanded="true" signature="57860:59446" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+            <marker date="1558416374724" expanded="true" signature="59625:61479" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified p ... " />
+            <marker date="1558416374724" expanded="true" signature="61817:62751" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="62435:62522" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="62562:62707" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="62901:63254" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="63407:63559" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="63736:64271" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="64277:64868" ph="///Indicates whether this string is in Unicode normalization form C. ... " />
+            <marker date="1558416374724" expanded="true" signature="64899:64968" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="64974:65723" ph="///Indicates whether this string is in the specified Unicode normalization form. ... " />
+            <marker date="1558416374724" expanded="true" signature="65816:66142" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="66148:66877" ph="///Returns a new string whose textual value is the same as this string, but whose binary representation is in Uni ... " />
+            <marker date="1558416374724" expanded="true" signature="66907:66973" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="66979:67854" ph="///Returns a new string whose textual value is the same as this string, but whose binary representation is in the ... " />
+            <marker date="1558416374724" expanded="true" signature="67946:68266" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="68520:68777" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="68783:69693" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by an array of U ... " />
+            <marker date="1558416374724" expanded="true" signature="69872:70092" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by an array of U ... " />
+            <marker date="1558416374724" expanded="true" signature="70340:70416" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="70498:70781" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="70902:71732" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="71819:72963" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="71846:72751" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="71941:72723" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="71988:72713" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="72221:72509" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="72543:72640" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="73035:73431" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="73189:73336" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="73504:74176" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="73732:73987" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="74027:74170" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="74288:75219" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="74915:75030" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="75070:75213" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="75225:75683" ph="///Initializes a new instance of the &lt;see cref=&quot;T:System.String&quot; /&gt; class to the value indicated by a specified U ... " />
+            <marker date="1558416374724" expanded="true" signature="75839:76606" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects and returns an integer that indicates their rela ... " />
+            <marker date="1558416374724" expanded="true" signature="76691:76797" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="76803:77706" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case, and returns an ... " />
+            <marker date="1558416374724" expanded="true" signature="77808:78038" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="78044:79264" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified rules, and returns an intege ... " />
+            <marker date="1558416374724" expanded="true" signature="79409:80986" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="79760:80980" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="80992:82417" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified comparison options and cultu ... " />
+            <marker date="1558416374724" expanded="true" signature="82572:82733" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="82739:83931" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case, and using cult ... " />
+            <marker date="1558416374724" expanded="true" signature="84025:84303" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="84309:86020" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects and returns an integer that indica ... " />
+            <marker date="1558416374724" expanded="true" signature="86141:86533" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="86539:88389" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case,  ... " />
+            <marker date="1558416374724" expanded="true" signature="88535:89085" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="89091:91213" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects, ignoring or honoring their case a ... " />
+            <marker date="1558416374724" expanded="true" signature="91386:91984" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="91990:94262" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified comparison opt ... " />
+            <marker date="1558416374724" expanded="true" signature="94442:94889" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="94895:96946" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects using the specified rules, and ret ... " />
+            <marker date="1558416374724" expanded="true" signature="97164:100218" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="97200:100212" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="97548:97686" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="98865:100059" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="100224:101232" ph="///Compares this instance with a specified &lt;see cref=&quot;T:System.Object&quot; /&gt; and indicates whether this instance pre ... " />
+            <marker date="1558416374724" expanded="true" signature="101271:101528" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="101534:102358" ph="///Compares this instance with a specified &lt;see cref=&quot;T:System.String&quot; /&gt; object and indicates whether this insta ... " />
+            <marker date="1558416374724" expanded="true" signature="102425:102573" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="102579:103299" ph="///Compares two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects by evaluating the numeric values of the correspo ... " />
+            <marker date="1558416374724" expanded="true" signature="103391:103730" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="103736:105377" ph="///Compares substrings of two specified &lt;see cref=&quot;T:System.String&quot; /&gt; objects by evaluating the numeric values o ... " />
+            <marker date="1558416374724" expanded="true" signature="105563:105793" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="105799:106297" ph="///Returns a value indicating whether a specified substring occurs within this string. ... " />
+            <marker date="1558416374724" expanded="true" signature="106365:106442" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="106448:106926" ph="///Determines whether the end of this string instance matches the specified string. ... " />
+            <marker date="1558416374724" expanded="true" signature="106994:107074" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="107080:107897" ph="///Determines whether the end of this string instance matches the specified string when compared using the specif ... " />
+            <marker date="1558416374724" expanded="true" signature="108049:110090" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="108167:110084" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="108598:109931" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="110096:110936" ph="///Determines whether the end of this string instance matches the specified string when compared using the specif ... " />
+            <marker date="1558416374724" expanded="true" signature="111013:111338" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="111378:111489" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="111495:111864" ph="///Reports the zero-based index of the first occurrence of the specified Unicode character in this string. ... " />
+            <marker date="1558416374724" expanded="true" signature="111928:111990" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="111996:112670" ph="///Reports the zero-based index of the first occurrence of the specified Unicode character in this string. The se ... " />
+            <marker date="1558416374724" expanded="true" signature="112750:112834" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="112840:113811" ph="///Reports the zero-based index of the first occurrence of the specified character in this instance. The search s ... " />
+            <marker date="1558416374724" expanded="true" signature="113992:114625" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+            <marker date="1558416374724" expanded="true" signature="114694:114759" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="114765:115746" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+            <marker date="1558416374724" expanded="true" signature="115831:115918" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="115924:117100" ph="///Reports the zero-based index of the first occurrence in this instance of any character in a specified array of ... " />
+            <marker date="1558416374724" expanded="true" signature="117286:117841" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. ... " />
+            <marker date="1558416374724" expanded="true" signature="117907:117986" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="117992:118881" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. The search star ... " />
+            <marker date="1558416374724" expanded="true" signature="118963:119054" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="119060:120252" ph="///Reports the zero-based index of the first occurrence of the specified string in this instance. The search star ... " />
+            <marker date="1558416374724" expanded="true" signature="120345:120803" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="120809:121723" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+            <marker date="1558416374724" expanded="true" signature="121822:121900" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="121906:123165" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+            <marker date="1558416374724" expanded="true" signature="123280:123380" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="123386:124952" ph="///Reports the zero-based index of the first occurrence of the specified string in the current &lt;see cref=&quot;T:Syste ... " />
+            <marker date="1558416374724" expanded="true" signature="125105:126924" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="125583:126918" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="126930:127313" ph="///Reports the zero-based index position of the last occurrence of a specified Unicode character within this inst ... " />
+            <marker date="1558416374724" expanded="true" signature="127381:127461" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="127467:128469" ph="///Reports the zero-based index position of the last occurrence of a specified Unicode character within this inst ... " />
+            <marker date="1558416374724" expanded="true" signature="128553:128631" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="128637:129948" ph="///Reports the zero-based index position of the last occurrence of the specified Unicode character in a substring ... " />
+            <marker date="1558416374724" expanded="true" signature="130133:130757" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+            <marker date="1558416374724" expanded="true" signature="130830:130913" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="130919:132130" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+            <marker date="1558416374724" expanded="true" signature="132219:132300" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="132306:133801" ph="///Reports the zero-based index position of the last occurrence in this instance of one or more characters specif ... " />
+            <marker date="1558416374724" expanded="true" signature="133991:134604" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. ... " />
+            <marker date="1558416374724" expanded="true" signature="134674:134787" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="134793:136206" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+            <marker date="1558416374724" expanded="true" signature="136292:136403" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="136409:138416" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+            <marker date="1558416374724" expanded="true" signature="138513:138758" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="138764:139738" ph="///Reports the zero-based index of the last occurrence of a specified string within the current &lt;see cref=&quot;T:Syst ... " />
+            <marker date="1558416374724" expanded="true" signature="139841:139937" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="139943:141740" ph="///Reports the zero-based index of the last occurrence of a specified string within the current &lt;see cref=&quot;T:Syst ... " />
+            <marker date="1558416374724" expanded="true" signature="141859:141953" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="141959:144324" ph="///Reports the zero-based index position of the last occurrence of a specified string within this instance. The s ... " />
+            <marker date="1558416374724" expanded="true" signature="144506:146681" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="144924:145109" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="145312:146675" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="146687:147691" ph="///Returns a new string that right-aligns the characters in this instance by padding them with spaces on the left ... " />
+            <marker date="1558416374724" expanded="true" signature="147762:147827" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="147833:148968" ph="///Returns a new string that right-aligns the characters in this instance by padding them on the left with a spec ... " />
+            <marker date="1558416374724" expanded="true" signature="149057:149130" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="149136:150138" ph="///Returns a new string that left-aligns the characters in this string by padding them with spaces on the right,  ... " />
+            <marker date="1558416374724" expanded="true" signature="150210:150274" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="150280:151414" ph="///Returns a new string that left-aligns the characters in this string by padding them on the right with a specif ... " />
+            <marker date="1558416374724" expanded="true" signature="151504:151576" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="151750:152193" ph="///Determines whether the beginning of this string instance matches the specified string. ... " />
+            <marker date="1558416374724" expanded="true" signature="152263:152427" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="152433:153192" ph="///Determines whether the beginning of this string instance matches the specified string when compared using the  ... " />
+            <marker date="1558416374724" expanded="true" signature="153346:155335" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="153464:155329" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="153895:155176" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="155341:156146" ph="///Determines whether the beginning of this string instance matches the specified string when compared using the  ... " />
+            <marker date="1558416374724" expanded="true" signature="156225:156550" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="156556:156969" ph="///Returns a copy of this string converted to lowercase. ... " />
+            <marker date="1558416374724" expanded="true" signature="157026:157093" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="157099:157796" ph="///Returns a copy of this string converted to lowercase, using the casing rules of the specified culture. ... " />
+            <marker date="1558416374724" expanded="true" signature="157843:157986" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="157992:158509" ph="///Returns a copy of this &lt;see cref=&quot;T:System.String&quot; /&gt; object converted to lowercase using the casing rules of  ... " />
+            <marker date="1558416374724" expanded="true" signature="158575:158644" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="158650:159088" ph="///Returns a copy of this string converted to uppercase. ... " />
+            <marker date="1558416374724" expanded="true" signature="159145:159212" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="159218:159915" ph="///Returns a copy of this string converted to uppercase, using the casing rules of the specified culture. ... " />
+            <marker date="1558416374724" expanded="true" signature="159962:160105" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="160111:160628" ph="///Returns a copy of this &lt;see cref=&quot;T:System.String&quot; /&gt; object converted to uppercase using the casing rules of  ... " />
+            <marker date="1558416374724" expanded="true" signature="160694:160763" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="160769:160973" ph="///Returns this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;; no actual conversion is performed. ... " />
+            <marker date="1558416374724" expanded="true" signature="161040:161071" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="161077:161397" ph="///Returns this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;; no actual conversion is performed. ... " />
+            <marker date="1558416374724" expanded="true" signature="161450:161481" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="161487:161700" ph="///Returns a reference to this instance of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="161726:161766" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="161815:161847" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="161853:162283" ph="///Removes all leading and trailing white-space characters from the current &lt;see cref=&quot;T:System.String&quot; /&gt; object ... " />
+            <marker date="1558416374724" expanded="true" signature="162337:162382" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="162454:162952" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="162539:162704" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="162729:162895" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163042:163830" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163127:163437" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163189:163429" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163462:163773" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163527:163765" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="163913:164119" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="164125:164901" ph="///Returns a new string in which a specified string is inserted at a specified index position in this instance. ... " />
+            <marker date="1558416374724" expanded="true" signature="165019:165849" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="165586:165825" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="166003:166713" ph="///Returns a new string in which all occurrences of a specified Unicode character in this instance are replaced w ... " />
+            <marker date="1558416374724" expanded="true" signature="166796:166861" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="167021:167952" ph="///Returns a new string in which all occurrences of a specified string in the current instance are replaced with  ... " />
+            <marker date="1558416374724" expanded="true" signature="168041:168196" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="168202:168957" ph="///Returns a new string in which a specified number of characters in the current instance beginning at a specifie ... " />
+            <marker date="1558416374724" expanded="true" signature="169072:169982" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="169795:169958" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="169988:170650" ph="///Returns a new string in which all the characters in the current instance, beginning at a specified position an ... " />
+            <marker date="1558416374724" expanded="true" signature="170720:171117" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="171123:171863" ph="///Replaces one or more format items in a specified string with the string representation of a specified object. ... " />
+            <marker date="1558416374724" expanded="true" signature="171952:172053" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="172059:172888" ph="///Replaces the format items in a specified string with the string representation of two specified objects. ... " />
+            <marker date="1558416374724" expanded="true" signature="172990:173097" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="173103:174054" ph="///Replaces the format items in a specified string with the string representation of three specified objects. ... " />
+            <marker date="1558416374724" expanded="true" signature="174169:174282" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="174288:175220" ph="///Replaces the format item in a specified string with the string representation of a corresponding object in a s ... " />
+            <marker date="1558416374724" expanded="true" signature="175318:175534" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="175540:176483" ph="///Replaces the format item or items in a specified string with the string representation of the corresponding ob ... " />
+            <marker date="1558416374724" expanded="true" signature="176598:176685" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="176691:177733" ph="///Replaces the format items in a specified string with the string representation of two specified objects. A par ... " />
+            <marker date="1558416374724" expanded="true" signature="177861:177954" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="177960:179134" ph="///Replaces the format items in a specified string with the string representation of three specified objects. An  ... " />
+            <marker date="1558416374724" expanded="true" signature="179306:179405" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="179411:180512" ph="///Replaces the format items in a specified string with the string representations of corresponding objects in a  ... " />
+            <marker date="1558416374724" expanded="true" signature="180636:180838" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="180937:181190" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="181196:181640" ph="///Creates a new instance of &lt;see cref=&quot;T:System.String&quot; /&gt; with the same value as a specified &lt;see cref=&quot;T:Syste ... " />
+            <marker date="1558416374724" expanded="true" signature="181716:182048" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="182054:182419" ph="///Creates the string  representation of a specified object. ... " />
+            <marker date="1558416374724" expanded="true" signature="182493:182588" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="182594:183003" ph="///Concatenates the string representations of two specified objects. ... " />
+            <marker date="1558416374724" expanded="true" signature="183090:183274" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="183280:183787" ph="///Concatenates the string representations of three specified objects. ... " />
+            <marker date="1558416374724" expanded="true" signature="183887:184151" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="184273:184717" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="184723:185314" ph="///Concatenates the string representations of the elements in a specified &lt;see cref=&quot;T:System.Object&quot; /&gt; array. ... " />
+            <marker date="1558416374724" expanded="true" signature="185397:185987" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="185615:185927" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="185993:186559" ph="///Concatenates the members of an &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; implementation. ... " />
+            <marker date="1558416374724" expanded="true" signature="186670:187209" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="186882:187146" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="186928:187138" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="186989:187128" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="187215:187784" ph="///Concatenates the members of a constructed &lt;see cref=&quot;T:System.Collections.Generic.IEnumerable`1&quot; /&gt; collection ... " />
+            <marker date="1558416374724" expanded="true" signature="187897:188336" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="188114:188273" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="188160:188265" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="188342:188721" ph="///Concatenates two specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="188835:189271" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="188879:188987" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="189277:189754" ph="///Concatenates three specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="189881:190419" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="190425:190997" ph="///Concatenates four specified instances of &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="191137:191845" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="191945:192238" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="192092:192213" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="192244:192738" ph="///Concatenates the elements of a specified &lt;see cref=&quot;T:System.String&quot; /&gt; array. ... " />
+            <marker date="1558416374724" expanded="true" signature="192823:193341" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="193050:193280" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="193347:193863" ph="///Retrieves the system's reference to the specified &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="193934:194080" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="194086:194548" ph="///Retrieves a reference to a specified &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="194623:194768" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="194774:195019" ph="///Returns the &lt;see cref=&quot;T:System.TypeCode&quot; /&gt; for class &lt;see cref=&quot;T:System.String&quot; /&gt;. ... " />
+            <marker date="1558416374724" expanded="true" signature="195053:195095" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195183:195243" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195328:195385" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195472:195530" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195615:195672" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195759:195817" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="195906:195965" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196050:196108" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196195:196254" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196340:196398" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196486:196545" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196633:196692" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196781:196840" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="196931:196991" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="197084:197145" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="197243:197328" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="197808:198009" ph="///Retrieves an object that can iterate through the individual characters in this string. ... " />
+            <marker date="1558416374724" expanded="true" signature="198051:198102" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="198188:198259" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="198333:198398" ph="{...}" />
+            <marker date="1558416374724" expanded="true" signature="198501:198659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddTwoNumbers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <marker date="1558422538653" expanded="true" signature="6:47" ph="..." />
+            <marker date="1558422538653" expanded="true" signature="117:1049" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="146:1047" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="199:1041" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="222:691" ph="/* var listA = new ListNode(2) ... */" />
+            <marker date="1558422538653" expanded="true" signature="912:1031" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1073:1162" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1186:2105" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1247:2103" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1440:2075" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1658:1744" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1789:1869" ph="{...}" />
+            <marker date="1558422538653" expanded="true" signature="1886:2002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

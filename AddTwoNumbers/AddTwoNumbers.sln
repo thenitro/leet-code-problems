@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{8411EF8C-064F-42EE-8959-A741C928ADDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8411EF8C-064F-42EE-8959-A741C928ADDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8411EF8C-064F-42EE-8959-A741C928ADDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8411EF8C-064F-42EE-8959-A741C928ADDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8411EF8C-064F-42EE-8959-A741C928ADDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
