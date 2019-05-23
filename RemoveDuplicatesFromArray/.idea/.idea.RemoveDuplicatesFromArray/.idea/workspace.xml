@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44ce7e0c-1684-4643-b6bd-5f50ab314f45" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../MergeTwoSortedLists/.idea/.idea.MergeTwoSortedLists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeTwoSortedLists/.idea/.idea.MergeTwoSortedLists/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +16,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromArray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+            <state relative-caret-position="444">
+              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
               <folding>
-                <marker date="1558603306107" expanded="true" signature="50:988" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="79:986" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="132:749" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="798:980" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="903:970" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="1012:1549" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="1057:1547" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="1093:1135" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="1265:1520" ph="{...}" />
-                <marker date="1558603306107" expanded="true" signature="1305:1510" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="50:1064" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="79:1062" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="132:825" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="874:1056" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="933:1000" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="1088:1570" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="1133:1568" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="1169:1211" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="1341:1541" ph="{...}" />
+                <marker date="1558603449616" expanded="true" signature="1381:1531" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558602642923</updated>
-      <workItem from="1558602644036" duration="663000" />
+      <workItem from="1558602644036" duration="2073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663000" />
+    <option name="totallyTimeSpent" value="2073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,19 +183,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromArray/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="65" column="22" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        <state relative-caret-position="444">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
-            <marker date="1558603306107" expanded="true" signature="50:988" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="79:986" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="132:749" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="798:980" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="903:970" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="1012:1549" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="1057:1547" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="1093:1135" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="1265:1520" ph="{...}" />
-            <marker date="1558603306107" expanded="true" signature="1305:1510" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="50:1064" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="79:1062" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="132:825" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="874:1056" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="933:1000" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="1088:1570" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="1133:1568" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="1169:1211" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="1341:1541" ph="{...}" />
+            <marker date="1558603449616" expanded="true" signature="1381:1531" ph="{...}" />
           </folding>
         </state>
       </provider>
