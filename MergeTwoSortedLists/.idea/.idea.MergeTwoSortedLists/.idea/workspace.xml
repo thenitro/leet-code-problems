@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="daeaa1b3-8aeb-4d54-86eb-379bf0d52abe" name="Default Changelist" comment="">
+    <list default="true" id="9b046b2b-9d08-461b-9ba2-dbf8f8038244" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/.idea.LongestCommonPrefix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestCommonPrefix/.idea/.idea.LongestCommonPrefix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidParentheses/.idea/.idea.ValidParentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidParentheses/.idea/.idea.ValidParentheses/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,25 +14,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ValidParentheses/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+            <state relative-caret-position="399">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding>
-                <marker date="1558595401695" expanded="true" signature="6:47" ph="..." />
-                <marker date="1558595401695" expanded="true" signature="75:498" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="104:496" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="157:490" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="522:1507" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="557:1244" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="644:1197" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="741:798" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="815:1187" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="996:1083" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="1104:1173" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="1281:1342" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="1392:1505" ph="{...}" />
-                <marker date="1558595401695" expanded="true" signature="1430:1474" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="44:1063" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="73:1061" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="126:759" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="239:393" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="305:375" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="443:596" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="508:578" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="815:1055" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="934:1045" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1087:1176" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1200:2268" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1262:2266" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1434:2233" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1529:1630" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1662:1763" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="1839:1940" ph="{...}" />
+                <marker date="1558601826371" expanded="true" signature="2008:2125" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,12 +47,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ValidParentheses/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MergeTwoSortedLists/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ValidParentheses/Program.cs" />
+        <option value="$PROJECT_DIR$/MergeTwoSortedLists/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,11 +67,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,14 +96,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidParentheses/bin/Debug/ValidParentheses.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MergeTwoSortedLists/bin/Debug/MergeTwoSortedLists.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidParentheses/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MergeTwoSortedLists/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidParentheses/ValidParentheses.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MergeTwoSortedLists/MergeTwoSortedLists.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -115,17 +119,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="daeaa1b3-8aeb-4d54-86eb-379bf0d52abe" name="Default Changelist" comment="" />
-      <created>1558594473818</created>
+      <changelist id="9b046b2b-9d08-461b-9ba2-dbf8f8038244" name="Default Changelist" comment="" />
+      <created>1558596838156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558594473818</updated>
-      <workItem from="1558594475006" duration="1625000" />
+      <updated>1558596838156</updated>
+      <workItem from="1558596839334" duration="2593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1625000" />
+    <option name="totallyTimeSpent" value="2593000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,7 +159,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -184,25 +188,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ValidParentheses/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MergeTwoSortedLists/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+        <state relative-caret-position="399">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding>
-            <marker date="1558595401695" expanded="true" signature="6:47" ph="..." />
-            <marker date="1558595401695" expanded="true" signature="75:498" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="104:496" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="157:490" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="522:1507" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="557:1244" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="644:1197" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="741:798" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="815:1187" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="996:1083" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="1104:1173" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="1281:1342" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="1392:1505" ph="{...}" />
-            <marker date="1558595401695" expanded="true" signature="1430:1474" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="44:1063" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="73:1061" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="126:759" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="239:393" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="305:375" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="443:596" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="508:578" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="815:1055" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="934:1045" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1087:1176" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1200:2268" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1262:2266" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1434:2233" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1529:1630" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1662:1763" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="1839:1940" ph="{...}" />
+            <marker date="1558601826371" expanded="true" signature="2008:2125" ph="{...}" />
           </folding>
         </state>
       </provider>
