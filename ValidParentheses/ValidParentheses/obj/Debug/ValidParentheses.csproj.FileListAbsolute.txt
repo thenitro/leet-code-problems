@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.exe
+E:\code\leet-code-problems\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.pdb
+E:\code\leet-code-problems\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.exe
+E:\code\leet-code-problems\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.pdb
