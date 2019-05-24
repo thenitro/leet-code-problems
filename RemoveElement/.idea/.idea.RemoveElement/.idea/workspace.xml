@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="120232cb-c1e5-4d8f-9e5f-b39762097781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RemoveElement/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558675828314</updated>
-      <workItem from="1558675829741" duration="1199000" />
+      <workItem from="1558675829741" duration="2260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1199000" />
+    <option name="totallyTimeSpent" value="2260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
