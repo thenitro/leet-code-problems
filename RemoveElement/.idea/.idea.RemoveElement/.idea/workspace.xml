@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee3b6a8e-df2f-4817-a9a2-aa29fad7ba66" name="Default Changelist" comment="">
+    <list default="true" id="120232cb-c1e5-4d8f-9e5f-b39762097781" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.StringToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringToInteger/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +14,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/StringToInteger/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RemoveElement/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <state relative-caret-position="354">
+              <caret line="40" column="56" selection-start-line="19" selection-end-line="48" selection-end-column="1" />
               <folding>
-                <marker date="1558607352585" expanded="true" signature="6:41" ph="..." />
-                <marker date="1558607352585" expanded="true" signature="68:1294" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="97:1292" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="150:1286" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="1318:2050" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="1354:2048" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="1607:1663" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="1728:2006" ph="{...}" />
-                <marker date="1558607352585" expanded="true" signature="1869:1949" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="6:47" ph="..." />
+                <marker date="1558676808082" expanded="true" signature="72:750" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="101:748" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="154:742" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="774:1460" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="825:1458" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="921:1040" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="963:1030" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="1119:1420" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="1183:1410" ph="{...}" />
+                <marker date="1558676808082" expanded="true" signature="1257:1396" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +41,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/StringToInteger/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveElement/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/StringToInteger/Program.cs" />
+        <option value="$PROJECT_DIR$/RemoveElement/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,11 +61,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,14 +90,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/StringToInteger/bin/Debug/StringToInteger.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RemoveElement/bin/Debug/RemoveElement.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringToInteger/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveElement/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StringToInteger/StringToInteger.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RemoveElement/RemoveElement.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +113,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee3b6a8e-df2f-4817-a9a2-aa29fad7ba66" name="Default Changelist" comment="" />
-      <created>1558604119010</created>
+      <changelist id="120232cb-c1e5-4d8f-9e5f-b39762097781" name="Default Changelist" comment="" />
+      <created>1558675828314</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558604119010</updated>
-      <workItem from="1558604120180" duration="4447000" />
+      <updated>1558675828314</updated>
+      <workItem from="1558675829741" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4447000" />
+    <option name="totallyTimeSpent" value="1199000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,8 +153,8 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -180,20 +182,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/StringToInteger/Program.cs">
+    <entry file="file://$PROJECT_DIR$/RemoveElement/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        <state relative-caret-position="354">
+          <caret line="40" column="56" selection-start-line="19" selection-end-line="48" selection-end-column="1" />
           <folding>
-            <marker date="1558607352585" expanded="true" signature="6:41" ph="..." />
-            <marker date="1558607352585" expanded="true" signature="68:1294" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="97:1292" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="150:1286" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="1318:2050" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="1354:2048" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="1607:1663" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="1728:2006" ph="{...}" />
-            <marker date="1558607352585" expanded="true" signature="1869:1949" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="6:47" ph="..." />
+            <marker date="1558676808082" expanded="true" signature="72:750" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="101:748" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="154:742" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="774:1460" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="825:1458" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="921:1040" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="963:1030" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="1119:1420" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="1183:1410" ph="{...}" />
+            <marker date="1558676808082" expanded="true" signature="1257:1396" ph="{...}" />
           </folding>
         </state>
       </provider>
