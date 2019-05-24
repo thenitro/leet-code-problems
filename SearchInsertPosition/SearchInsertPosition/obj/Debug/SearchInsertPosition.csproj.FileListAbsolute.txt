@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe
+E:\code\leet-code-problems\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.pdb
+E:\code\leet-code-problems\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.exe
+E:\code\leet-code-problems\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.pdb

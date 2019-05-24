@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3b6a8e-df2f-4817-a9a2-aa29fad7ba66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ImplementStrStr/.idea/.idea.ImplementStrStr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplementStrStr/.idea/.idea.ImplementStrStr/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RemoveElement/.idea/.idea.RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveElement/.idea/.idea.RemoveElement/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.StringToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StringToInteger/.idea/workspace.xml" afterDir="false" />
@@ -135,7 +136,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
