@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/../ImplementStrStr/.idea/.idea.ImplementStrStr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplementStrStr/.idea/.idea.ImplementStrStr/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicatesFromArray/.idea/.idea.RemoveDuplicatesFromArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RemoveElement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RemoveElement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchInsertPosition/.idea/.idea.SearchInsertPosition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchInsertPosition/.idea/.idea.SearchInsertPosition/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringToInteger/.idea/.idea.StringToInteger/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +19,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RemoveElement/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="600">
               <caret line="40" column="56" selection-start-line="19" selection-end-line="48" selection-end-column="1" />
               <folding>
                 <marker date="1558676808082" expanded="true" signature="6:47" ph="..." />
@@ -52,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -137,7 +138,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -154,7 +156,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,7 +187,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RemoveElement/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="600">
           <caret line="40" column="56" selection-start-line="19" selection-end-line="48" selection-end-column="1" />
           <folding>
             <marker date="1558676808082" expanded="true" signature="6:47" ph="..." />
