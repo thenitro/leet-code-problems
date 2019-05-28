@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="429b0aeb-5c24-4138-87ce-fae48d5136c6" name="Default Changelist" comment="">
+    <list default="true" id="d7e5483f-1585-49c8-837e-bb2150121d98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AddBinary/.idea/.idea.AddBinary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddBinary/.idea/.idea.AddBinary/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LengthOfLastWord/.idea/.idea.LengthOfLastWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/.idea.LengthOfLastWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlusOne/.idea/.idea.PlusOne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PlusOne/.idea/.idea.PlusOne/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -14,27 +15,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AddBinary/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Sqrt/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="33" column="61" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+            <state relative-caret-position="420">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
-                <marker date="1559020825609" expanded="true" signature="35:386" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="64:384" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="117:378" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="410:2116" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="459:2114" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="606:1962" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="819:907" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="999:1087" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1213:1272" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1324:1352" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1369:1430" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1530:1798" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1582:1655" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1676:1784" ph="{...}" />
-                <marker date="1559020825609" expanded="true" signature="1878:1952" ph="/* Console.WriteLine(preResult); ... */" />
-                <marker date="1559020825609" expanded="true" signature="1983:2038" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="29:537" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="58:535" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="111:529" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="561:958" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="592:956" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="613:655" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="725:929" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="796:847" ph="{...}" />
+                <marker date="1559024471694" expanded="true" signature="864:919" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,13 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AddBinary/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/ff/8d43dc18/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Sqrt/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddBinary/Program.cs" />
+        <option value="$PROJECT_DIR$/Sqrt/Program.cs" />
       </list>
     </option>
   </component>
@@ -67,11 +60,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/AddBinary/bin/Debug/AddBinary.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Sqrt/bin/Debug/Sqrt.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddBinary/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sqrt/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddBinary/AddBinary.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Sqrt/Sqrt.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -119,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="429b0aeb-5c24-4138-87ce-fae48d5136c6" name="Default Changelist" comment="" />
-      <created>1558964064699</created>
+      <changelist id="d7e5483f-1585-49c8-837e-bb2150121d98" name="Default Changelist" comment="" />
+      <created>1559023814544</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558964064699</updated>
-      <workItem from="1558964065807" duration="3313000" />
+      <updated>1559023814544</updated>
+      <workItem from="1559023815841" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3313000" />
+    <option name="totallyTimeSpent" value="695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,34 +181,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/ff/8d43dc18/String.cs">
+    <entry file="file://$PROJECT_DIR$/Sqrt/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="2807" column="89" selection-start-line="2807" selection-start-column="89" selection-end-line="2807" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AddBinary/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="33" column="61" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+        <state relative-caret-position="420">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
-            <marker date="1559020825609" expanded="true" signature="35:386" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="64:384" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="117:378" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="410:2116" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="459:2114" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="606:1962" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="819:907" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="999:1087" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1213:1272" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1324:1352" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1369:1430" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1530:1798" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1582:1655" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1676:1784" ph="{...}" />
-            <marker date="1559020825609" expanded="true" signature="1878:1952" ph="/* Console.WriteLine(preResult); ... */" />
-            <marker date="1559020825609" expanded="true" signature="1983:2038" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="29:537" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="58:535" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="111:529" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="561:958" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="592:956" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="613:655" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="725:929" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="796:847" ph="{...}" />
+            <marker date="1559024471694" expanded="true" signature="864:919" ph="{...}" />
           </folding>
         </state>
       </provider>
