@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827519ea-8098-44f0-b00b-421385ecdbac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClimbingStairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClimbingStairs/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d540b7c8-348f-4ee7-a2af-456a99e00dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ClimbingStairs/.idea/.idea.ClimbingStairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimbingStairs/.idea/.idea.ClimbingStairs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +13,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="90">
+              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="43" selection-end-column="9" />
               <folding>
-                <marker date="1559032876981" expanded="true" signature="39:283" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="68:281" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="121:275" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="307:640" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="343:638" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="364:406" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="492:608" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="6:37" ph="..." />
+                <marker date="1559046001808" expanded="true" signature="79:1244" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="108:1242" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="161:944" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="998:1236" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1117:1226" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1268:1357" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1381:1898" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1434:1896" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1466:1511" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1611:1868" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1662:1732" ph="{...}" />
+                <marker date="1559046001808" expanded="true" signature="1749:1809" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +42,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ClimbingStairs/Program.cs" />
+        <option value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs" />
       </list>
     </option>
   </component>
@@ -56,11 +62,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,14 +91,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ClimbingStairs/bin/Debug/ClimbingStairs.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/bin/Debug/RemoveDuplicatesFromSortedList.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClimbingStairs/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -108,17 +114,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="827519ea-8098-44f0-b00b-421385ecdbac" name="Default Changelist" comment="" />
-      <created>1559032694234</created>
+      <changelist id="d540b7c8-348f-4ee7-a2af-456a99e00dc0" name="Default Changelist" comment="" />
+      <created>1559044995294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559032694234</updated>
-      <workItem from="1559032695499" duration="829000" />
+      <updated>1559044995294</updated>
+      <workItem from="1559044996501" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="1879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +154,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,18 +183,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs">
+    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="43" selection-end-column="9" />
           <folding>
-            <marker date="1559032876981" expanded="true" signature="39:283" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="68:281" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="121:275" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="307:640" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="343:638" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="364:406" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="492:608" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="6:37" ph="..." />
+            <marker date="1559046001808" expanded="true" signature="79:1244" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="108:1242" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="161:944" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="998:1236" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1117:1226" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1268:1357" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1381:1898" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1434:1896" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1466:1511" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1611:1868" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1662:1732" ph="{...}" />
+            <marker date="1559046001808" expanded="true" signature="1749:1809" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827519ea-8098-44f0-b00b-421385ecdbac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ClimbingStairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ClimbingStairs/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c566c402-c6d3-4f22-b08e-14bf29d3dc21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ClimbingStairs/.idea/.idea.ClimbingStairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClimbingStairs/.idea/.idea.ClimbingStairs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +13,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MergeSortedArray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="354">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
-                <marker date="1559032876981" expanded="true" signature="39:283" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="68:281" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="121:275" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="307:640" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="343:638" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="364:406" ph="{...}" />
-                <marker date="1559032876981" expanded="true" signature="492:608" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="6:53" ph="..." />
+                <marker date="1559048022776" expanded="true" signature="81:443" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="110:441" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="163:435" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="356:425" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="467:1340" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="531:934" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="568:928" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="739:808" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="999:1338" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="1069:1313" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="1170:1230" ph="{...}" />
+                <marker date="1559048022776" expanded="true" signature="1247:1303" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +42,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MergeSortedArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ClimbingStairs/Program.cs" />
+        <option value="$PROJECT_DIR$/MergeSortedArray/Program.cs" />
       </list>
     </option>
   </component>
@@ -56,11 +62,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,14 +91,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ClimbingStairs/bin/Debug/ClimbingStairs.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MergeSortedArray/bin/Debug/MergeSortedArray.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClimbingStairs/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MergeSortedArray/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MergeSortedArray/MergeSortedArray.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -108,17 +114,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="827519ea-8098-44f0-b00b-421385ecdbac" name="Default Changelist" comment="" />
-      <created>1559032694234</created>
+      <changelist id="c566c402-c6d3-4f22-b08e-14bf29d3dc21" name="Default Changelist" comment="" />
+      <created>1559046276591</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559032694234</updated>
-      <workItem from="1559032695499" duration="829000" />
+      <updated>1559046276591</updated>
+      <workItem from="1559046277804" duration="1745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="829000" />
+    <option name="totallyTimeSpent" value="1745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,8 +154,8 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,18 +183,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ClimbingStairs/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MergeSortedArray/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="354">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
-            <marker date="1559032876981" expanded="true" signature="39:283" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="68:281" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="121:275" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="307:640" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="343:638" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="364:406" ph="{...}" />
-            <marker date="1559032876981" expanded="true" signature="492:608" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="6:53" ph="..." />
+            <marker date="1559048022776" expanded="true" signature="81:443" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="110:441" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="163:435" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="356:425" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="467:1340" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="531:934" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="568:928" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="739:808" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="999:1338" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="1069:1313" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="1170:1230" ph="{...}" />
+            <marker date="1559048022776" expanded="true" signature="1247:1303" ph="{...}" />
           </folding>
         </state>
       </provider>
