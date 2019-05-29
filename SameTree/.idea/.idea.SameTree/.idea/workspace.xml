@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d540b7c8-348f-4ee7-a2af-456a99e00dc0" name="Default Changelist" comment="">
+    <list default="true" id="1e2f75f7-f7e2-4004-a7b5-41a9fbaabbce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../MergeSortedArray/.idea/.idea.MergeSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MergeSortedArray/.idea/.idea.MergeSortedArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesFromSortedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RemoveDuplicatesFromSortedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveDuplicatesFromSortedList/.idea/.idea.RemoveDuplicatesFromSortedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveDuplicatesFromSortedList/.idea/.idea.RemoveDuplicatesFromSortedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,24 +14,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SameTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="47" selection-end-column="1" />
               <folding>
-                <marker date="1559046001808" expanded="true" signature="6:37" ph="..." />
-                <marker date="1559046001808" expanded="true" signature="79:1244" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="108:1242" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="161:944" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="998:1236" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1117:1226" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1268:1357" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1381:1898" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1434:1896" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1466:1511" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1611:1868" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1662:1732" ph="{...}" />
-                <marker date="1559046001808" expanded="true" signature="1749:1809" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="33:676" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="62:674" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="115:668" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="700:816" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="840:1304" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="892:1302" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="934:979" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="1016:1062" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="1099:1145" ph="{...}" />
+                <marker date="1559049078666" expanded="true" signature="1174:1220" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,12 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SameTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs" />
+        <option value="$PROJECT_DIR$/SameTree/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,10 +60,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -92,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/bin/Debug/RemoveDuplicatesFromSortedList.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SameTree/bin/Debug/SameTree.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SameTree/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SameTree/SameTree.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -115,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d540b7c8-348f-4ee7-a2af-456a99e00dc0" name="Default Changelist" comment="" />
-      <created>1559044995294</created>
+      <changelist id="1e2f75f7-f7e2-4004-a7b5-41a9fbaabbce" name="Default Changelist" comment="" />
+      <created>1559048720501</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559044995294</updated>
-      <workItem from="1559044996501" duration="2485000" />
+      <updated>1559048720501</updated>
+      <workItem from="1559048721723" duration="965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2485000" />
+    <option name="totallyTimeSpent" value="965000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -184,24 +181,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SameTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="47" selection-end-column="1" />
           <folding>
-            <marker date="1559046001808" expanded="true" signature="6:37" ph="..." />
-            <marker date="1559046001808" expanded="true" signature="79:1244" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="108:1242" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="161:944" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="998:1236" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1117:1226" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1268:1357" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1381:1898" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1434:1896" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1466:1511" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1611:1868" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1662:1732" ph="{...}" />
-            <marker date="1559046001808" expanded="true" signature="1749:1809" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="33:676" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="62:674" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="115:668" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="700:816" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="840:1304" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="892:1302" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="934:979" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="1016:1062" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="1099:1145" ph="{...}" />
+            <marker date="1559049078666" expanded="true" signature="1174:1220" ph="{...}" />
           </folding>
         </state>
       </provider>
