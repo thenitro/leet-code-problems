@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6de3d519-268f-4445-8d2b-bf89514a0d80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTreeLevelOrderTraversal2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTreeLevelOrderTraversal2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaximumDepthOfBinaryTree/.idea/.idea.MaximumDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumDepthOfBinaryTree/.idea/.idea.MaximumDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+            <state relative-caret-position="343">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
                 <marker date="1559198791633" expanded="true" signature="6:47" ph="..." />
                 <marker date="1559198791633" expanded="true" signature="89:818" ph="{...}" />
@@ -43,7 +46,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
-              <caret line="2093" column="57" lean-forward="true" selection-start-line="2093" selection-start-column="57" selection-end-line="2093" selection-end-column="57" />
+              <caret line="2093" column="57" selection-start-line="2093" selection-start-column="57" selection-end-line="2093" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -133,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559197871990</updated>
-      <workItem from="1559197873373" duration="2040000" />
+      <workItem from="1559197873373" duration="2731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2040000" />
+    <option name="totallyTimeSpent" value="2731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -168,7 +171,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,7 +203,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="2093" column="57" lean-forward="true" selection-start-line="2093" selection-start-column="57" selection-end-line="2093" selection-end-column="57" />
+          <caret line="2093" column="57" selection-start-line="2093" selection-start-column="57" selection-end-line="2093" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -213,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversal2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+        <state relative-caret-position="343">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <marker date="1559198791633" expanded="true" signature="6:47" ph="..." />
             <marker date="1559198791633" expanded="true" signature="89:818" ph="{...}" />

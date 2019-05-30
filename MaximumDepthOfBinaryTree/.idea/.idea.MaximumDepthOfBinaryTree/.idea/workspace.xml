@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c56bda26-5f5b-489c-8db3-66785e26d593" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BinaryTreeLevelOrderTraversal2/.idea/.idea.BinaryTreeLevelOrderTraversal2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeLevelOrderTraversal2/.idea/.idea.BinaryTreeLevelOrderTraversal2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MaximumDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MaximumDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MaximumDepthOfBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            <state relative-caret-position="450">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <marker date="1559136769718" expanded="true" signature="49:516" ph="{...}" />
                 <marker date="1559136769718" expanded="true" signature="78:514" ph="{...}" />
@@ -125,12 +128,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559136623449</updated>
       <workItem from="1559136625962" duration="285000" />
-      <workItem from="1559136983184" duration="1415000" />
+      <workItem from="1559136983184" duration="2016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1700000" />
+    <option name="totallyTimeSpent" value="2301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +156,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,8 +194,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MaximumDepthOfBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="450">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
             <marker date="1559136769718" expanded="true" signature="49:516" ph="{...}" />
             <marker date="1559136769718" expanded="true" signature="78:514" ph="{...}" />
