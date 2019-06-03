@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63942cad-1893-40d5-b3e3-7f58b09101ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e5898ba4-ae26-4b5c-b5ec-321d80b8eb84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../PopulatingNextRightPointersInEachNode/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PopulatingNextRightPointersInEachNode/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,34 +13,42 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/Program.cs">
+        <entry file="file://$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="94" column="54" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
+            <state relative-caret-position="393">
+              <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
               <folding>
-                <marker date="1559553308654" expanded="true" signature="6:47" ph="..." />
-                <marker date="1559553308654" expanded="true" signature="96:2960" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="125:1282" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="178:954" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="236:844" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="313:591" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="402:457" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="518:573" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="644:829" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="755:811" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1004:1276" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1044:1096" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1305:1656" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1437:1457" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1525:1649" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1684:2958" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1728:2948" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="1776:1845" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="2043:2904" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="2162:2843" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="2428:2581" ph="{...}" />
-                <marker date="1559553308654" expanded="true" signature="2633:2787" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="6:47" ph="..." />
+                <marker date="1559564012109" expanded="true" signature="100:1255" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="129:1253" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="182:1247" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1277:2413" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1425:1507" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1573:1750" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1805:2411" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1845:1898" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="1973:2029" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="2156:2335" ph="{...}" />
+                <marker date="1559564012109" expanded="true" signature="2213:2307" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/00/a73aaf52/SortedDictionary`2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="625" column="37" selection-start-line="625" selection-start-column="24" selection-end-line="625" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/e3/11877ecc/Dictionary`2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="942" column="13" selection-start-line="942" selection-start-column="13" selection-end-line="942" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -51,12 +59,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/00/a73aaf52/SortedDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/e3/11877ecc/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/Program.cs" />
+        <option value="$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs" />
       </list>
     </option>
   </component>
@@ -71,11 +81,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,14 +109,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/bin/Debug/PopulatingNextRightPointersInEachNode.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TimeBasedKeyValueStore/bin/Debug/TimeBasedKeyValueStore.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TimeBasedKeyValueStore/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TimeBasedKeyValueStore/TimeBasedKeyValueStore.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -122,17 +132,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="63942cad-1893-40d5-b3e3-7f58b09101ce" name="Default Changelist" comment="" />
-      <created>1559550936227</created>
+      <changelist id="e5898ba4-ae26-4b5c-b5ec-321d80b8eb84" name="Default Changelist" comment="" />
+      <created>1559560566485</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559550936227</updated>
-      <workItem from="1559550937646" duration="3693000" />
+      <updated>1559560566485</updated>
+      <workItem from="1559560568119" duration="3441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3693000" />
+    <option name="totallyTimeSpent" value="3441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,33 +203,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PopulatingNextRightPointersInEachNode/Program.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/e3/11877ecc/Dictionary`2.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="94" column="54" selection-start-line="94" selection-start-column="54" selection-end-line="94" selection-end-column="54" />
+        <state relative-caret-position="198">
+          <caret line="942" column="13" selection-start-line="942" selection-start-column="13" selection-end-line="942" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/00/a73aaf52/SortedDictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="625" column="37" selection-start-line="625" selection-start-column="24" selection-end-line="625" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
           <folding>
-            <marker date="1559553308654" expanded="true" signature="6:47" ph="..." />
-            <marker date="1559553308654" expanded="true" signature="96:2960" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="125:1282" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="178:954" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="236:844" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="313:591" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="402:457" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="518:573" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="644:829" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="755:811" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1004:1276" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1044:1096" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1305:1656" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1437:1457" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1525:1649" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1684:2958" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1728:2948" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="1776:1845" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="2043:2904" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="2162:2843" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="2428:2581" ph="{...}" />
-            <marker date="1559553308654" expanded="true" signature="2633:2787" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="6:47" ph="..." />
+            <marker date="1559564012109" expanded="true" signature="100:1255" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="129:1253" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="182:1247" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1277:2413" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1425:1507" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1573:1750" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1805:2411" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1845:1898" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="1973:2029" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="2156:2335" ph="{...}" />
+            <marker date="1559564012109" expanded="true" signature="2213:2307" ph="{...}" />
           </folding>
         </state>
       </provider>
