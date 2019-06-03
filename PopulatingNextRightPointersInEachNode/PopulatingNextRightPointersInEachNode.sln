@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulatingNextRightPointersInEachNode", "PopulatingNextRightPointersInEachNode\PopulatingNextRightPointersInEachNode.csproj", "{A1F25C13-ED09-40E0-927F-DC2863DB4011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F25C13-ED09-40E0-927F-DC2863DB4011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F25C13-ED09-40E0-927F-DC2863DB4011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F25C13-ED09-40E0-927F-DC2863DB4011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F25C13-ED09-40E0-927F-DC2863DB4011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

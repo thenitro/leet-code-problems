@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fbdd95b-fe21-4f98-b8a4-18dc146ddf64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4fbdd95b-fe21-4f98-b8a4-18dc146ddf64" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BalancedBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="371">
               <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
               <folding>
                 <marker date="1559545699977" expanded="true" signature="43:1817" ph="{...}" />
@@ -129,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559543024717</updated>
       <workItem from="1559543026107" duration="484000" />
-      <workItem from="1559543520237" duration="2667000" />
+      <workItem from="1559543520237" duration="3028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3151000" />
+    <option name="totallyTimeSpent" value="3512000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -156,7 +153,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -197,7 +194,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BalancedBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="371">
           <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
           <folding>
             <marker date="1559545699977" expanded="true" signature="43:1817" ph="{...}" />
