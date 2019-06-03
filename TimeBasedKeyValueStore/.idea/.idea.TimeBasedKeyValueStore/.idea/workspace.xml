@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e5898ba4-ae26-4b5c-b5ec-321d80b8eb84" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../PopulatingNextRightPointersInEachNode/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PopulatingNextRightPointersInEachNode/.idea/.idea.PopulatingNextRightPointersInEachNode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TimeBasedKeyValueStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TimeBasedKeyValueStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VerticalOrderTraversalOfABinaryTree/.idea/.idea.VerticalOrderTraversalOfABinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VerticalOrderTraversalOfABinaryTree/.idea/.idea.VerticalOrderTraversalOfABinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="663">
               <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
               <folding>
                 <marker date="1559564012109" expanded="true" signature="6:47" ph="..." />
@@ -137,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559560566485</updated>
-      <workItem from="1559560568119" duration="3441000" />
+      <workItem from="1559560568119" duration="4656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3441000" />
+    <option name="totallyTimeSpent" value="4656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -173,7 +175,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,7 +221,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TimeBasedKeyValueStore/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="663">
           <caret line="77" column="39" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
           <folding>
             <marker date="1559564012109" expanded="true" signature="6:47" ph="..." />
