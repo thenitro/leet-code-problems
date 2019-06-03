@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ConvertSortedArrayToBinarySearchTree.562196433.00" t="ExcludeRecursive" />
-    <e p="E:\code\leet-code-problems\ConvertSortedArrayToBinarySearchTree" t="IncludeFlat">
+    <e p="C:\Users\thenitro\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thenitro\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ConvertSortedArrayToBinarySearchTree.179251881.00" t="ExcludeRecursive" />
+    <e p="D:\leet-code-problems\ConvertSortedArrayToBinarySearchTree" t="IncludeFlat">
       <e p="ConvertSortedArrayToBinarySearchTree" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="ConvertSortedArrayToBinarySearchTree.csproj" t="IncludeRecursive" />

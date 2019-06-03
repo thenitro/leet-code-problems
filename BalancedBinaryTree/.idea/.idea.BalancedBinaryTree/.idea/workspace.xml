@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fbdd95b-fe21-4f98-b8a4-18dc146ddf64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertSortedArrayToBinarySearchTree/.idea/.idea.ConvertSortedArrayToBinarySearchTree/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BalancedBinaryTree/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+              <folding>
+                <marker date="1559545699977" expanded="true" signature="43:1817" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="72:1815" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="125:1809" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="241:492" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="352:473" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="614:1020" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="679:956" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="752:884" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1146:1796" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1211:1538" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1284:1363" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1437:1516" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1604:1778" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1677:1756" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1841:1957" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="1981:2507" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="2024:2149" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="2056:2101" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="2186:2505" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="2218:2260" ph="{...}" />
+                <marker date="1559545699977" expanded="true" signature="2405:2448" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BalancedBinaryTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BalancedBinaryTree/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BalancedBinaryTree/bin/Debug/BalancedBinaryTree.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BalancedBinaryTree/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fbdd95b-fe21-4f98-b8a4-18dc146ddf64" name="Default Changelist" comment="" />
+      <created>1559543024717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559543024717</updated>
+      <workItem from="1559543026107" duration="484000" />
+      <workItem from="1559543520237" duration="2667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3151000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25159913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BalancedBinaryTree/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+          <folding>
+            <marker date="1559545699977" expanded="true" signature="43:1817" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="72:1815" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="125:1809" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="241:492" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="352:473" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="614:1020" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="679:956" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="752:884" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1146:1796" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1211:1538" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1284:1363" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1437:1516" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1604:1778" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1677:1756" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1841:1957" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="1981:2507" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="2024:2149" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="2056:2101" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="2186:2505" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="2218:2260" ph="{...}" />
+            <marker date="1559545699977" expanded="true" signature="2405:2448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
