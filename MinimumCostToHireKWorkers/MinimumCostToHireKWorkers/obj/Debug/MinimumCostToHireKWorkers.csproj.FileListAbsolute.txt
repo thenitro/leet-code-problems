@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MinimumCostToHireKWorkers\MinimumCostToHireKWorkers\bin\Debug\MinimumCostToHireKWorkers.exe
+E:\code\leet-code-problems\MinimumCostToHireKWorkers\MinimumCostToHireKWorkers\bin\Debug\MinimumCostToHireKWorkers.pdb
+E:\code\leet-code-problems\MinimumCostToHireKWorkers\MinimumCostToHireKWorkers\obj\Debug\MinimumCostToHireKWorkers.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MinimumCostToHireKWorkers\MinimumCostToHireKWorkers\obj\Debug\MinimumCostToHireKWorkers.exe
+E:\code\leet-code-problems\MinimumCostToHireKWorkers\MinimumCostToHireKWorkers\obj\Debug\MinimumCostToHireKWorkers.pdb
