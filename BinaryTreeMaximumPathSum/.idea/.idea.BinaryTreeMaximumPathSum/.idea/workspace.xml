@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff5ded19-de5f-4625-a8a8-17cbb92b8f33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,6 +137,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />

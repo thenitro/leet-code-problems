@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MinDepthOfBinaryTree\MinDepthOfBinaryTree\bin\Debug\MinDepthOfBinaryTree.exe
+E:\code\leet-code-problems\MinDepthOfBinaryTree\MinDepthOfBinaryTree\bin\Debug\MinDepthOfBinaryTree.pdb
+E:\code\leet-code-problems\MinDepthOfBinaryTree\MinDepthOfBinaryTree\obj\Debug\MinDepthOfBinaryTree.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MinDepthOfBinaryTree\MinDepthOfBinaryTree\obj\Debug\MinDepthOfBinaryTree.exe
+E:\code\leet-code-problems\MinDepthOfBinaryTree\MinDepthOfBinaryTree\obj\Debug\MinDepthOfBinaryTree.pdb

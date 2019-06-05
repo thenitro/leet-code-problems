@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a605464-745b-4099-97e0-54b0a3bcab8e" name="Default Changelist" comment="">
+    <list default="true" id="20e83748-7e41-4604-993f-0764074ac3ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,18 +12,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+              <folding>
+                <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="127:756" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="220:442" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="319:428" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="541:595" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="788:904" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="928:1421" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="969:1419" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="996:1038" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="1092:1200" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="1228:1293" ph="{...}" />
+                <marker date="1559736296176" expanded="true" signature="1330:1394" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CustomSortString/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CustomSortString/Program.cs" />
+        <option value="$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs" />
       </list>
     </option>
   </component>
@@ -67,14 +92,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/CustomSortString/bin/Debug/CustomSortString.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MinDepthOfBinaryTree/bin/Debug/MinDepthOfBinaryTree.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CustomSortString/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinDepthOfBinaryTree/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CustomSortString/CustomSortString.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinDepthOfBinaryTree/MinDepthOfBinaryTree.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -90,17 +115,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3a605464-745b-4099-97e0-54b0a3bcab8e" name="Default Changelist" comment="" />
-      <created>1559731936854</created>
+      <changelist id="20e83748-7e41-4604-993f-0764074ac3ed" name="Default Changelist" comment="" />
+      <created>1559735984328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559731936854</updated>
-      <workItem from="1559731938220" duration="2009000" />
+      <updated>1559735984328</updated>
+      <workItem from="1559735985583" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2009000" />
+    <option name="totallyTimeSpent" value="317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,21 +184,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CustomSortString/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
           <folding>
-            <marker date="1559732387944" expanded="true" signature="6:84" ph="..." />
-            <marker date="1559732387944" expanded="true" signature="112:301" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="141:299" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="194:293" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="325:974" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="381:972" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="468:743" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="627:691" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="783:925" ph="{...}" />
-            <marker date="1559732387944" expanded="true" signature="835:915" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="127:756" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="220:442" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="319:428" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="541:595" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="788:904" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="928:1421" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="969:1419" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="996:1038" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="1092:1200" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="1228:1293" ph="{...}" />
+            <marker date="1559736296176" expanded="true" signature="1330:1394" ph="{...}" />
           </folding>
         </state>
       </provider>
