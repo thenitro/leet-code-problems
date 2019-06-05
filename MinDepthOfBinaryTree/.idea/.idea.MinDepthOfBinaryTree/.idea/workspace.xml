@@ -4,6 +4,7 @@
     <list default="true" id="20e83748-7e41-4604-993f-0764074ac3ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+            <state relative-caret-position="129">
+              <caret line="36" selection-start-line="36" selection-end-line="57" selection-end-column="1" />
               <folding>
                 <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
                 <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
@@ -120,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559735984328</updated>
-      <workItem from="1559735985583" duration="317000" />
+      <workItem from="1559735985583" duration="1532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="317000" />
+    <option name="totallyTimeSpent" value="1532000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,8 +187,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        <state relative-caret-position="129">
+          <caret line="36" selection-start-line="36" selection-end-line="57" selection-end-column="1" />
           <folding>
             <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
             <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
