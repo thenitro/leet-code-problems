@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.exe
+E:\code\leet-code-problems\MergeIntervals\MergeIntervals\bin\Debug\MergeIntervals.pdb
+E:\code\leet-code-problems\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.exe
+E:\code\leet-code-problems\MergeIntervals\MergeIntervals\obj\Debug\MergeIntervals.pdb
