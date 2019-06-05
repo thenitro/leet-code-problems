@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.exe
+E:\code\leet-code-problems\MinimumWindowSubstring\MinimumWindowSubstring\bin\Debug\MinimumWindowSubstring.pdb
+E:\code\leet-code-problems\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.exe
+E:\code\leet-code-problems\MinimumWindowSubstring\MinimumWindowSubstring\obj\Debug\MinimumWindowSubstring.pdb
