@@ -11,6 +11,7 @@
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangleII/.idea/.idea.PascalsTriangleII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangleII/.idea/.idea.PascalsTriangleII/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -121,7 +122,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -138,7 +138,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
