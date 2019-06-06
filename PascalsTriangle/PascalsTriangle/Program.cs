@@ -7,7 +7,7 @@ namespace PascalsTriangle
     {
         public static void Main(string[] args)
         {
-            var result = new Solution().Generate(5);
+            var result = new Solution().Generate(10);
 
             foreach (var i in result)
             {

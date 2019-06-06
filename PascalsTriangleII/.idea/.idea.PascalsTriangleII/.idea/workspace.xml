@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20e83748-7e41-4604-993f-0764074ac3ed" name="Default Changelist" comment="">
+    <list default="true" id="761ef74b-8b3b-47d5-83c1-058926bea7a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/.idea/.idea.PascalsTriangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/.idea/.idea.PascalsTriangle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.exe" afterDir="false" />
@@ -22,24 +22,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
+        <entry file="file://$PROJECT_DIR$/PascalsTriangleII/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="36" selection-start-line="36" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="369">
+              <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
               <folding>
-                <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="127:756" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="220:442" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="319:428" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="541:595" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="788:904" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="928:1421" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="969:1419" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="996:1038" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="1092:1200" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="1228:1293" ph="{...}" />
-                <marker date="1559736296176" expanded="true" signature="1330:1394" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="6:47" ph="..." />
+                <marker date="1559801414240" expanded="true" signature="76:979" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="105:977" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="158:749" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="804:971" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="847:915" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="1002:1386" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="1047:1384" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="1166:1354" ph="{...}" />
+                <marker date="1559801414240" expanded="true" signature="1217:1344" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,12 +48,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PascalsTriangleII/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs" />
+        <option value="$PROJECT_DIR$/PascalsTriangleII/Program.cs" />
       </list>
     </option>
   </component>
@@ -71,11 +68,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,14 +97,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MinDepthOfBinaryTree/bin/Debug/MinDepthOfBinaryTree.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PascalsTriangleII/bin/Debug/PascalsTriangleII.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinDepthOfBinaryTree/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PascalsTriangleII/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinDepthOfBinaryTree/MinDepthOfBinaryTree.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PascalsTriangleII/PascalsTriangleII.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -123,17 +120,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="20e83748-7e41-4604-993f-0764074ac3ed" name="Default Changelist" comment="" />
-      <created>1559735984328</created>
+      <changelist id="761ef74b-8b3b-47d5-83c1-058926bea7a7" name="Default Changelist" comment="" />
+      <created>1559800131425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559735984328</updated>
-      <workItem from="1559735985583" duration="1532000" />
+      <updated>1559800131425</updated>
+      <workItem from="1559800133331" duration="1281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1532000" />
+    <option name="totallyTimeSpent" value="1281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -164,7 +161,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -192,24 +189,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinDepthOfBinaryTree/Program.cs">
+    <entry file="file://$PROJECT_DIR$/PascalsTriangleII/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="36" selection-start-line="36" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="369">
+          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
-            <marker date="1559736296176" expanded="true" signature="45:764" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="74:762" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="127:756" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="220:442" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="319:428" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="541:595" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="788:904" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="928:1421" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="969:1419" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="996:1038" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="1092:1200" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="1228:1293" ph="{...}" />
-            <marker date="1559736296176" expanded="true" signature="1330:1394" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="6:47" ph="..." />
+            <marker date="1559801414240" expanded="true" signature="76:979" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="105:977" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="158:749" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="804:971" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="847:915" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="1002:1386" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="1047:1384" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="1166:1354" ph="{...}" />
+            <marker date="1559801414240" expanded="true" signature="1217:1344" ph="{...}" />
           </folding>
         </state>
       </provider>

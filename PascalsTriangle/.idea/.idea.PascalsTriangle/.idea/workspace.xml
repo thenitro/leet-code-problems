@@ -5,6 +5,12 @@
       <change beforePath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomSortString/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PascalsTriangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PascalsTriangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalsTriangle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PascalsTriangle/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalsTriangle/bin/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PascalsTriangle/bin/Debug/PascalsTriangle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalsTriangle/obj/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PascalsTriangle/obj/Debug/PascalsTriangle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +24,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PascalsTriangle/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+            <state relative-caret-position="-285">
+              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding>
-                <marker date="1559738924367" expanded="true" signature="6:47" ph="..." />
-                <marker date="1559738924367" expanded="true" signature="74:224" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="103:222" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="156:216" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="248:1267" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="301:1265" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="442:1223" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="551:1148" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="793:873" ph="{...}" />
-                <marker date="1559738924367" expanded="true" signature="918:1000" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="6:47" ph="..." />
+                <marker date="1559800915690" expanded="true" signature="74:476" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="103:474" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="156:468" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="259:458" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="310:390" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="500:1602" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="553:1600" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="634:681" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="781:1558" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="890:1483" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="1132:1212" ph="{...}" />
+                <marker date="1559800915690" expanded="true" signature="1253:1335" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -119,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559738525528</updated>
-      <workItem from="1559738526794" duration="402000" />
+      <workItem from="1559738526794" duration="3544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="402000" />
+    <option name="totallyTimeSpent" value="3544000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,11 +146,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -150,9 +160,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,19 +194,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PascalsTriangle/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" column="34" lean-forward="true" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="-285">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding>
-            <marker date="1559738924367" expanded="true" signature="6:47" ph="..." />
-            <marker date="1559738924367" expanded="true" signature="74:224" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="103:222" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="156:216" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="248:1267" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="301:1265" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="442:1223" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="551:1148" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="793:873" ph="{...}" />
-            <marker date="1559738924367" expanded="true" signature="918:1000" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="6:47" ph="..." />
+            <marker date="1559800915690" expanded="true" signature="74:476" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="103:474" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="156:468" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="259:458" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="310:390" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="500:1602" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="553:1600" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="634:681" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="781:1558" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="890:1483" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="1132:1212" ph="{...}" />
+            <marker date="1559800915690" expanded="true" signature="1253:1335" ph="{...}" />
           </folding>
         </state>
       </provider>

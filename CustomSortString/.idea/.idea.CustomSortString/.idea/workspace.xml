@@ -5,6 +5,12 @@
       <change beforePath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeMaximumPathSum/.idea/.idea.BinaryTreeMaximumPathSum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomSortString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomSortString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinDepthOfBinaryTree/.idea/.idea.MinDepthOfBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/.idea/.idea.PascalsTriangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/.idea/.idea.PascalsTriangle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSum/.idea/.idea.PathSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,6 +121,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
