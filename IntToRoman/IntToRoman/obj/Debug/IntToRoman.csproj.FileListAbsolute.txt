@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\IntToRoman\IntToRoman\obj\Debug\IntToRoman.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\IntToRoman\IntToRoman\bin\Debug\IntToRoman.exe
+E:\code\leet-code-problems\IntToRoman\IntToRoman\bin\Debug\IntToRoman.pdb
+E:\code\leet-code-problems\IntToRoman\IntToRoman\obj\Debug\IntToRoman.exe
+E:\code\leet-code-problems\IntToRoman\IntToRoman\obj\Debug\IntToRoman.pdb
