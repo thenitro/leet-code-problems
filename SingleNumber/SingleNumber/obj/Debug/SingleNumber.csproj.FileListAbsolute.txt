@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SingleNumber\SingleNumber\bin\Debug\SingleNumber.exe
+E:\code\leet-code-problems\SingleNumber\SingleNumber\bin\Debug\SingleNumber.pdb
+E:\code\leet-code-problems\SingleNumber\SingleNumber\obj\Debug\SingleNumber.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SingleNumber\SingleNumber\obj\Debug\SingleNumber.exe
+E:\code\leet-code-problems\SingleNumber\SingleNumber\obj\Debug\SingleNumber.pdb

@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="646ffa8b-6731-47ed-806f-0099fd372604" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BestTimeToBuyAndSellStock/.idea/.idea.BestTimeToBuyAndSellStock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BestTimeToBuyAndSellStock/.idea/.idea.BestTimeToBuyAndSellStock/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BestTimeToBuyAndSellStockII/.idea/.idea.BestTimeToBuyAndSellStockII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BestTimeToBuyAndSellStockII/.idea/.idea.BestTimeToBuyAndSellStockII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,18 +17,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ValidPalindrome/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
               <folding>
-                <marker date="1559817396430" expanded="true" signature="6:51" ph="..." />
-                <marker date="1559817396430" expanded="true" signature="78:356" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="107:354" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="160:348" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="380:890" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="420:888" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="532:577" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="734:860" ph="{...}" />
-                <marker date="1559817396430" expanded="true" signature="792:850" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="6:51" ph="..." />
+                <marker date="1559817534770" expanded="true" signature="78:522" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="107:520" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="160:514" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="546:1005" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="586:1003" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="690:735" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="849:975" ph="{...}" />
+                <marker date="1559817534770" expanded="true" signature="907:965" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -116,12 +118,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559817142507</updated>
-      <workItem from="1559817143725" duration="254000" />
+      <workItem from="1559817143725" duration="1611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254000" />
+    <option name="totallyTimeSpent" value="1611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,8 +135,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -151,7 +152,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,18 +190,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ValidPalindrome/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <marker date="1559817396430" expanded="true" signature="6:51" ph="..." />
-            <marker date="1559817396430" expanded="true" signature="78:356" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="107:354" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="160:348" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="380:890" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="420:888" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="532:577" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="734:860" ph="{...}" />
-            <marker date="1559817396430" expanded="true" signature="792:850" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="6:51" ph="..." />
+            <marker date="1559817534770" expanded="true" signature="78:522" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="107:520" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="160:514" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="546:1005" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="586:1003" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="690:735" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="849:975" ph="{...}" />
+            <marker date="1559817534770" expanded="true" signature="907:965" ph="{...}" />
           </folding>
         </state>
       </provider>
