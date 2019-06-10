@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="503ca8b3-4e9f-4f17-b8f5-7fa2b4593d91" name="Default Changelist" comment="">
+    <list default="true" id="df80502e-1151-4f2c-80df-ee352e742476" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,26 +13,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WordBreakII/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LinkedListCycle/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+            <state relative-caret-position="673">
+              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding>
-                <marker date="1560165102653" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560165102653" expanded="true" signature="70:1068" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="99:1066" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="152:1060" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="320:392" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="636:708" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="932:1004" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1092:2028" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1162:1247" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1349:2026" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1387:1434" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1511:1596" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1636:1962" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1682:1952" ph="{...}" />
-                <marker date="1560165102653" expanded="true" signature="1817:1938" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560169983986" expanded="true" signature="74:560" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="103:558" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="156:552" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="333:458" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="391:444" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="584:706" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="659:704" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="729:1077" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="771:1075" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="875:1046" ph="{...}" />
+                <marker date="1560169983986" expanded="true" signature="921:978" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,12 +41,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordBreakII/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedListCycle/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordBreakII/Program.cs" />
+        <option value="$PROJECT_DIR$/LinkedListCycle/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,19 +55,17 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -95,14 +90,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordBreakII/bin/Debug/WordBreakII.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinkedListCycle/bin/Debug/LinkedListCycle.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordBreakII/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedListCycle/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordBreakII/WordBreakII.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -118,17 +113,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="503ca8b3-4e9f-4f17-b8f5-7fa2b4593d91" name="Default Changelist" comment="" />
-      <created>1560157324552</created>
+      <changelist id="df80502e-1151-4f2c-80df-ee352e742476" name="Default Changelist" comment="" />
+      <created>1560169651606</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560157324552</updated>
-      <workItem from="1560157325817" duration="2492000" />
+      <updated>1560169651606</updated>
+      <workItem from="1560169652923" duration="336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2492000" />
+    <option name="totallyTimeSpent" value="336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,7 +140,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -154,10 +149,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,26 +180,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WordBreakII/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LinkedListCycle/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        <state relative-caret-position="673">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
           <folding>
-            <marker date="1560165102653" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560165102653" expanded="true" signature="70:1068" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="99:1066" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="152:1060" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="320:392" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="636:708" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="932:1004" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1092:2028" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1162:1247" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1349:2026" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1387:1434" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1511:1596" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1636:1962" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1682:1952" ph="{...}" />
-            <marker date="1560165102653" expanded="true" signature="1817:1938" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560169983986" expanded="true" signature="74:560" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="103:558" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="156:552" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="333:458" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="391:444" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="584:706" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="659:704" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="729:1077" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="771:1075" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="875:1046" ph="{...}" />
+            <marker date="1560169983986" expanded="true" signature="921:978" ph="{...}" />
           </folding>
         </state>
       </provider>

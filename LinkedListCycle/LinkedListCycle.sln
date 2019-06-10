@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListCycle", "LinkedListCycle\LinkedListCycle.csproj", "{BB57353B-B6C1-4E71-806E-404CA71127BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB57353B-B6C1-4E71-806E-404CA71127BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB57353B-B6C1-4E71-806E-404CA71127BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB57353B-B6C1-4E71-806E-404CA71127BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB57353B-B6C1-4E71-806E-404CA71127BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
