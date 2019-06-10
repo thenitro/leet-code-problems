@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ThreeSum/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+            <state relative-caret-position="-395">
+              <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
               <folding>
                 <marker date="1559908449497" expanded="true" signature="6:47" ph="..." />
                 <marker date="1559908449497" expanded="true" signature="67:20647" ph="{...}" />
@@ -142,12 +142,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559905752357</updated>
-      <workItem from="1559905753457" duration="2697000" />
+      <workItem from="1559905753457" duration="3321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2697000" />
+    <option name="totallyTimeSpent" value="3321000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,8 +208,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ThreeSum/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+        <state relative-caret-position="-395">
+          <caret line="75" column="26" lean-forward="true" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
           <folding>
             <marker date="1559908449497" expanded="true" signature="6:47" ph="..." />
             <marker date="1559908449497" expanded="true" signature="67:20647" ph="{...}" />

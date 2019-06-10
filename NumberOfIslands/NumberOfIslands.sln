@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{0D4E4750-7ED4-4752-9108-DCC468B0169A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D4E4750-7ED4-4752-9108-DCC468B0169A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D4E4750-7ED4-4752-9108-DCC468B0169A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D4E4750-7ED4-4752-9108-DCC468B0169A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D4E4750-7ED4-4752-9108-DCC468B0169A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
