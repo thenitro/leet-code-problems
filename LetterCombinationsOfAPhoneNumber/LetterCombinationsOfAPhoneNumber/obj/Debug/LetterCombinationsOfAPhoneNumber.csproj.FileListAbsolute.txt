@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.exe
+E:\code\leet-code-problems\LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber\bin\Debug\LetterCombinationsOfAPhoneNumber.pdb
+E:\code\leet-code-problems\LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.exe
+E:\code\leet-code-problems\LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber\obj\Debug\LetterCombinationsOfAPhoneNumber.pdb

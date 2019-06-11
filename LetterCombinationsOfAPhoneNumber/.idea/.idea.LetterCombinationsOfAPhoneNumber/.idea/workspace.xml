@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f3c6ea6-85a4-4a3b-8661-5bfde35287ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TreeSumClosest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TreeSumClosest/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dcdfb1bd-b81a-4bb8-9a87-f0166e8fb247" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TreeSumClosest/.idea/.idea.TreeSumClosest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSumClosest/.idea/.idea.TreeSumClosest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +13,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+            <state relative-caret-position="234">
+              <caret line="77" column="79" selection-start-line="77" selection-start-column="79" selection-end-line="77" selection-end-column="79" />
               <folding>
-                <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="129:593" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="182:587" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="619:1813" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="676:1811" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="790:1275" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="920:1265" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="1073:1134" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="1139:1200" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="1332:1778" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="1490:1732" ph="{...}" />
-                <marker date="1560235106366" expanded="true" signature="1615:1718" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560237629309" expanded="true" signature="144:700" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="173:698" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="226:692" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="341:409" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="568:636" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="723:2090" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="801:1415" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="838:876" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="913:951" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="988:1026" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1063:1101" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1138:1176" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1213:1255" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1292:1329" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1366:1408" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1481:1614" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1703:2006" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1741:1816" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="1911:2000" ph="{...}" />
+                <marker date="1560237629309" expanded="true" signature="2046:2088" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,12 +50,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TreeSumClosest/Program.cs" />
+        <option value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" />
       </list>
     </option>
   </component>
@@ -62,10 +70,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -91,14 +99,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TreeSumClosest/bin/Debug/TreeSumClosest.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/bin/Debug/LetterCombinationsOfAPhoneNumber.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreeSumClosest/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TreeSumClosest/TreeSumClosest.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -114,17 +122,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3f3c6ea6-85a4-4a3b-8661-5bfde35287ad" name="Default Changelist" comment="" />
-      <created>1560233978304</created>
+      <changelist id="dcdfb1bd-b81a-4bb8-9a87-f0166e8fb247" name="Default Changelist" comment="" />
+      <created>1560236713226</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560233978304</updated>
-      <workItem from="1560233979395" duration="2440000" />
+      <updated>1560236713226</updated>
+      <workItem from="1560236714413" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2440000" />
+    <option name="totallyTimeSpent" value="925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +162,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27193934" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,24 +191,32 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        <state relative-caret-position="234">
+          <caret line="77" column="79" selection-start-line="77" selection-start-column="79" selection-end-line="77" selection-end-column="79" />
           <folding>
-            <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="129:593" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="182:587" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="619:1813" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="676:1811" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="790:1275" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="920:1265" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="1073:1134" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="1139:1200" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="1332:1778" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="1490:1732" ph="{...}" />
-            <marker date="1560235106366" expanded="true" signature="1615:1718" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560237629309" expanded="true" signature="144:700" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="173:698" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="226:692" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="341:409" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="568:636" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="723:2090" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="801:1415" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="838:876" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="913:951" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="988:1026" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1063:1101" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1138:1176" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1213:1255" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1292:1329" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1366:1408" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1481:1614" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1703:2006" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1741:1816" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="1911:2000" ph="{...}" />
+            <marker date="1560237629309" expanded="true" signature="2046:2088" ph="{...}" />
           </folding>
         </state>
       </provider>
