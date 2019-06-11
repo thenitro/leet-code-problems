@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcdfb1bd-b81a-4bb8-9a87-f0166e8fb247" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" afterDir="false" />
+    <list default="true" id="53378e84-cc89-446d-9592-a9ae3cff11bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TreeSumClosest/.idea/.idea.TreeSumClosest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeSumClosest/.idea/.idea.TreeSumClosest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,35 +15,31 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FourSum/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state relative-caret-position="684">
+              <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
               <folding>
-                <marker date="1560238821562" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560238821562" expanded="true" signature="91:1103" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="120:1101" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="173:1095" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="288:356" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="515:583" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="743:811" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="971:1039" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1126:2593" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1204:1818" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1241:1279" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1316:1354" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1391:1429" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1466:1504" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1541:1579" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1616:1658" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1695:1732" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1769:1811" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1884:2117" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="1917:1976" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="2206:2509" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="2244:2319" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="2414:2503" ph="{...}" />
-                <marker date="1560238821562" expanded="true" signature="2549:2591" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560241928400" expanded="true" signature="66:1335" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="95:1333" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="148:1327" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="341:540" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="392:472" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="566:927" ph="/* result = new Solution().FourSum(new int[] { 0, 0, 0, 0 }, 0); ... */" />
+                <marker date="1560241928400" expanded="true" signature="1118:1317" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1169:1249" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1359:3101" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1422:3099" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1492:1550" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1694:3068" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="1872:3058" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2107:3044" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2419:2492" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2515:2588" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2613:3026" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2769:2854" ph="{...}" />
+                <marker date="1560241928400" expanded="true" signature="2919:3004" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -55,12 +51,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FourSum/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs" />
+        <option value="$PROJECT_DIR$/FourSum/Program.cs" />
       </list>
     </option>
   </component>
@@ -75,11 +71,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,14 +100,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/bin/Debug/LetterCombinationsOfAPhoneNumber.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FourSum/bin/Debug/FourSum.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FourSum/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FourSum/FourSum.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -127,17 +123,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dcdfb1bd-b81a-4bb8-9a87-f0166e8fb247" name="Default Changelist" comment="" />
-      <created>1560236713226</created>
+      <changelist id="53378e84-cc89-446d-9592-a9ae3cff11bf" name="Default Changelist" comment="" />
+      <created>1560238842381</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560236713226</updated>
-      <workItem from="1560236714413" duration="2315000" />
+      <updated>1560238842381</updated>
+      <workItem from="1560238843867" duration="2881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2315000" />
+    <option name="totallyTimeSpent" value="2881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,35 +192,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LetterCombinationsOfAPhoneNumber/Program.cs">
+    <entry file="file://$PROJECT_DIR$/FourSum/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="684">
+          <caret line="103" column="60" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
           <folding>
-            <marker date="1560238821562" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560238821562" expanded="true" signature="91:1103" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="120:1101" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="173:1095" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="288:356" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="515:583" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="743:811" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="971:1039" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1126:2593" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1204:1818" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1241:1279" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1316:1354" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1391:1429" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1466:1504" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1541:1579" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1616:1658" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1695:1732" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1769:1811" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1884:2117" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="1917:1976" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="2206:2509" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="2244:2319" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="2414:2503" ph="{...}" />
-            <marker date="1560238821562" expanded="true" signature="2549:2591" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560241928400" expanded="true" signature="66:1335" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="95:1333" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="148:1327" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="341:540" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="392:472" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="566:927" ph="/* result = new Solution().FourSum(new int[] { 0, 0, 0, 0 }, 0); ... */" />
+            <marker date="1560241928400" expanded="true" signature="1118:1317" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1169:1249" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1359:3101" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1422:3099" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1492:1550" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1694:3068" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="1872:3058" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2107:3044" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2419:2492" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2515:2588" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2613:3026" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2769:2854" ph="{...}" />
+            <marker date="1560241928400" expanded="true" signature="2919:3004" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f3c6ea6-85a4-4a3b-8661-5bfde35287ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/.idea/.idea.LetterCombinationsOfAPhoneNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../LetterCombinationsOfAPhoneNumber/LetterCombinationsOfAPhoneNumber/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TreeSumClosest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TreeSumClosest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+            <state relative-caret-position="330">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
                 <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />
@@ -51,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -119,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560233978304</updated>
-      <workItem from="1560233979395" duration="2440000" />
+      <workItem from="1560233979395" duration="3044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2440000" />
+    <option name="totallyTimeSpent" value="3044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,8 +187,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        <state relative-caret-position="330">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
             <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />

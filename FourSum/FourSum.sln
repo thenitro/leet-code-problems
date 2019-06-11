@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSum", "FourSum\FourSum.csproj", "{384D5A62-4AE5-4720-B9F5-755D774C91B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{384D5A62-4AE5-4720-B9F5-755D774C91B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384D5A62-4AE5-4720-B9F5-755D774C91B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384D5A62-4AE5-4720-B9F5-755D774C91B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384D5A62-4AE5-4720-B9F5-755D774C91B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
