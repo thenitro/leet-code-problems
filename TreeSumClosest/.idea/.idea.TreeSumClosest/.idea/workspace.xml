@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ab77d28-8804-491e-886f-bc7ae2c3b74d" name="Default Changelist" comment="">
+    <list default="true" id="3f3c6ea6-85a4-4a3b-8661-5bfde35287ad" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../TwoSumII/.idea/.idea.TwoSumII/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedListCycle/.idea/.idea.LinkedListCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListCycle/.idea/.idea.LinkedListCycle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordBreakII/.idea/.idea.WordBreakII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordBreakII/.idea/.idea.WordBreakII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WordLadderII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordLadderII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,54 +14,62 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="18" selection-start-line="18" selection-end-line="72" selection-end-column="1" />
+              <folding>
+                <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="129:593" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="182:587" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="619:1813" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="676:1811" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="790:1275" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="920:1265" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="1073:1134" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="1139:1200" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="1332:1778" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="1490:1732" ph="{...}" />
+                <marker date="1560235106366" expanded="true" signature="1615:1718" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordLadderII/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordLadderII/Program.cs" />
+        <option value="$PROJECT_DIR$/TreeSumClosest/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,14 +94,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordLadderII/bin/Debug/WordLadderII.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TreeSumClosest/bin/Debug/TreeSumClosest.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordLadderII/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TreeSumClosest/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordLadderII/WordLadderII.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TreeSumClosest/TreeSumClosest.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -109,17 +117,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ab77d28-8804-491e-886f-bc7ae2c3b74d" name="Default Changelist" comment="" />
-      <created>1560152566452</created>
+      <changelist id="3f3c6ea6-85a4-4a3b-8661-5bfde35287ad" name="Default Changelist" comment="" />
+      <created>1560233978304</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560152566452</updated>
-      <workItem from="1560152568766" duration="4246000" />
+      <updated>1560233978304</updated>
+      <workItem from="1560233979395" duration="1130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4246000" />
+    <option name="totallyTimeSpent" value="1130000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,13 +139,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -149,7 +157,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27193934" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,46 +186,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs">
+    <entry file="file://$PROJECT_DIR$/TreeSumClosest/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1244">
-          <caret line="862" column="16" selection-start-line="862" selection-start-column="16" selection-end-line="862" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WordLadderII/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="132" column="5" lean-forward="true" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="18" selection-start-line="18" selection-end-line="72" selection-end-column="1" />
           <folding>
-            <marker date="1560154914677" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560154914677" expanded="true" signature="71:921" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="100:919" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="153:913" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="333:532" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="384:464" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="704:903" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="755:835" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="945:4376" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1049:1531" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1691:2996" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1731:1807" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1960:2990" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2088:2980" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2321:2870" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2455:2852" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2597:2696" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2725:2830" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2903:2966" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3070:3661" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3202:3631" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3263:3621" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3497:3570" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3875:4374" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3946:4019" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4032:4320" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4099:4310" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4174:4296" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560235106366" expanded="true" signature="100:595" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="129:593" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="182:587" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="619:1813" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="676:1811" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="790:1275" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="920:1265" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="1073:1134" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="1139:1200" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="1332:1778" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="1490:1732" ph="{...}" />
+            <marker date="1560235106366" expanded="true" signature="1615:1718" ph="{...}" />
           </folding>
         </state>
       </provider>

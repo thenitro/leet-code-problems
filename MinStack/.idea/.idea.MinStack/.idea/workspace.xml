@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ab77d28-8804-491e-886f-bc7ae2c3b74d" name="Default Changelist" comment="">
+    <list default="true" id="9bdc203c-cce0-4a7a-a1e7-f923a9ee0ccd" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../TwoSumII/.idea/.idea.TwoSumII/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LinkedListCycle/.idea/.idea.LinkedListCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedListCycle/.idea/.idea.LinkedListCycle/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordBreakII/.idea/.idea.WordBreakII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordBreakII/.idea/.idea.WordBreakII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WordLadderII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordLadderII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordLadderII/.idea/.idea.WordLadderII/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +14,47 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MinStack/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <marker date="1560171937003" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560171937003" expanded="true" signature="49:73" ph="/* namespace MinStack ... */" />
+                <marker date="1560171937003" expanded="true" signature="100:506" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="153:500" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="533:1563" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="664:734" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="768:863" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="815:857" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="891:1338" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="923:963" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1087:1332" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1182:1322" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1234:1308" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1364:1499" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1401:1443" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1528:1561" ph="{...}" />
+                <marker date="1560171937003" expanded="true" signature="1565:1760" ph="/* Your MinStack object will be instantiated and called as such: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordLadderII/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinStack/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordLadderII/Program.cs" />
+        <option value="$PROJECT_DIR$/MinStack/Program.cs" />
       </list>
     </option>
   </component>
@@ -35,31 +63,15 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="WordLadderII" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
     </panes>
@@ -86,14 +98,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordLadderII/bin/Debug/WordLadderII.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MinStack/bin/Debug/MinStack.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordLadderII/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinStack/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordLadderII/WordLadderII.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinStack/MinStack.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -109,17 +121,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7ab77d28-8804-491e-886f-bc7ae2c3b74d" name="Default Changelist" comment="" />
-      <created>1560152566452</created>
+      <changelist id="9bdc203c-cce0-4a7a-a1e7-f923a9ee0ccd" name="Default Changelist" comment="" />
+      <created>1560171539349</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560152566452</updated>
-      <workItem from="1560152568766" duration="4246000" />
+      <updated>1560171539349</updated>
+      <workItem from="1560171540970" duration="1625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4246000" />
+    <option name="totallyTimeSpent" value="1625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,7 +149,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -178,46 +190,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs">
+    <entry file="file://$PROJECT_DIR$/MinStack/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1244">
-          <caret line="862" column="16" selection-start-line="862" selection-start-column="16" selection-end-line="862" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WordLadderII/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="132" column="5" lean-forward="true" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+        <state relative-caret-position="88">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
-            <marker date="1560154914677" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560154914677" expanded="true" signature="71:921" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="100:919" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="153:913" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="333:532" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="384:464" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="704:903" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="755:835" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="945:4376" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1049:1531" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1691:2996" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1731:1807" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="1960:2990" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2088:2980" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2321:2870" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2455:2852" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2597:2696" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2725:2830" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="2903:2966" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3070:3661" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3202:3631" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3263:3621" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3497:3570" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3875:4374" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="3946:4019" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4032:4320" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4099:4310" ph="{...}" />
-            <marker date="1560154914677" expanded="true" signature="4174:4296" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560171937003" expanded="true" signature="49:73" ph="/* namespace MinStack ... */" />
+            <marker date="1560171937003" expanded="true" signature="100:506" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="153:500" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="533:1563" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="664:734" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="768:863" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="815:857" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="891:1338" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="923:963" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1087:1332" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1182:1322" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1234:1308" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1364:1499" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1401:1443" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1528:1561" ph="{...}" />
+            <marker date="1560171937003" expanded="true" signature="1565:1760" ph="/* Your MinStack object will be instantiated and called as such: ... */" />
           </folding>
         </state>
       </provider>

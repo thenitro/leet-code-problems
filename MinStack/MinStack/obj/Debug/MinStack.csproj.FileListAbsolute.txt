@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MinStack\MinStack\bin\Debug\MinStack.exe
+E:\code\leet-code-problems\MinStack\MinStack\bin\Debug\MinStack.pdb
+E:\code\leet-code-problems\MinStack\MinStack\obj\Debug\MinStack.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MinStack\MinStack\obj\Debug\MinStack.exe
+E:\code\leet-code-problems\MinStack\MinStack\obj\Debug\MinStack.pdb
