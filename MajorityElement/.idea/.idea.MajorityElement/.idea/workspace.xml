@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2ffae87-cb31-435c-a594-7594f227250a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExcelSheetColumnTitle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExcelSheetColumnTitle/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7682d881-fce8-4f8b-91b0-0a0ea0eca251" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ExcelSheetColumnTitle/.idea/.idea.ExcelSheetColumnTitle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExcelSheetColumnTitle/.idea/.idea.ExcelSheetColumnTitle/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExcelSheetColumnTitle/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MajorityElement/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="26" column="66" lean-forward="true" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
               <folding>
-                <marker date="1560260197843" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560260197843" expanded="true" signature="80:559" ph="{...}" />
-                <marker date="1560260197843" expanded="true" signature="109:557" ph="{...}" />
-                <marker date="1560260197843" expanded="true" signature="162:551" ph="{...}" />
-                <marker date="1560260197843" expanded="true" signature="582:865" ph="{...}" />
-                <marker date="1560260197843" expanded="true" signature="624:863" ph="{...}" />
-                <marker date="1560260197843" expanded="true" signature="700:804" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560320155452" expanded="true" signature="74:473" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="103:471" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="156:465" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="497:1026" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="541:1024" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="736:991" ph="{...}" />
+                <marker date="1560320155452" expanded="true" signature="925:981" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ExcelSheetColumnTitle/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MajorityElement/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExcelSheetColumnTitle/Program.cs" />
+        <option value="$PROJECT_DIR$/MajorityElement/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,8 +60,8 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ExcelSheetColumnTitle/bin/Debug/ExcelSheetColumnTitle.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MajorityElement/bin/Debug/MajorityElement.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExcelSheetColumnTitle/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MajorityElement/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExcelSheetColumnTitle/ExcelSheetColumnTitle.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MajorityElement/MajorityElement.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -108,17 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2ffae87-cb31-435c-a594-7594f227250a" name="Default Changelist" comment="" />
-      <created>1560258462066</created>
+      <changelist id="7682d881-fce8-4f8b-91b0-0a0ea0eca251" name="Default Changelist" comment="" />
+      <created>1560319770570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560258462066</updated>
-      <workItem from="1560258463255" duration="2629000" />
+      <updated>1560319770570</updated>
+      <workItem from="1560319772056" duration="491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2629000" />
+    <option name="totallyTimeSpent" value="491000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,18 +178,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExcelSheetColumnTitle/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MajorityElement/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="26" column="66" lean-forward="true" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
           <folding>
-            <marker date="1560260197843" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560260197843" expanded="true" signature="80:559" ph="{...}" />
-            <marker date="1560260197843" expanded="true" signature="109:557" ph="{...}" />
-            <marker date="1560260197843" expanded="true" signature="162:551" ph="{...}" />
-            <marker date="1560260197843" expanded="true" signature="582:865" ph="{...}" />
-            <marker date="1560260197843" expanded="true" signature="624:863" ph="{...}" />
-            <marker date="1560260197843" expanded="true" signature="700:804" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560320155452" expanded="true" signature="74:473" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="103:471" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="156:465" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="497:1026" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="541:1024" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="736:991" ph="{...}" />
+            <marker date="1560320155452" expanded="true" signature="925:981" ph="{...}" />
           </folding>
         </state>
       </provider>
