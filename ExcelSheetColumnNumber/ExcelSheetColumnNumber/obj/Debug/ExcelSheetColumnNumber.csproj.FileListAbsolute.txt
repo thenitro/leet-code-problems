@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ExcelSheetColumnNumber\ExcelSheetColumnNumber\bin\Debug\ExcelSheetColumnNumber.exe
+E:\code\leet-code-problems\ExcelSheetColumnNumber\ExcelSheetColumnNumber\bin\Debug\ExcelSheetColumnNumber.pdb
+E:\code\leet-code-problems\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.exe
+E:\code\leet-code-problems\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.pdb

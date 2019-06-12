@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\FactorialTrailingZeroes\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+E:\code\leet-code-problems\FactorialTrailingZeroes\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+E:\code\leet-code-problems\FactorialTrailingZeroes\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\FactorialTrailingZeroes\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+E:\code\leet-code-problems\FactorialTrailingZeroes\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb
