@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf97b669-8990-499f-9e26-6ca3eb44ead4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseBits/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -115,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560339169522</updated>
-      <workItem from="1560339170774" duration="1352000" />
+      <workItem from="1560339170774" duration="1447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1352000" />
+    <option name="totallyTimeSpent" value="1447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

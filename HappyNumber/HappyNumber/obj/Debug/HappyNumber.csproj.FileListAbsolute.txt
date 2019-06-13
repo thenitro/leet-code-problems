@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\HappyNumber\HappyNumber\bin\Debug\HappyNumber.exe
+E:\code\leet-code-problems\HappyNumber\HappyNumber\bin\Debug\HappyNumber.pdb
+E:\code\leet-code-problems\HappyNumber\HappyNumber\obj\Debug\HappyNumber.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\HappyNumber\HappyNumber\obj\Debug\HappyNumber.exe
+E:\code\leet-code-problems\HappyNumber\HappyNumber\obj\Debug\HappyNumber.pdb
