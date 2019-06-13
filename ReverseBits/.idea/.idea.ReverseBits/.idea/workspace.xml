@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf97b669-8990-499f-9e26-6ca3eb44ead4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseBits/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +131,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />

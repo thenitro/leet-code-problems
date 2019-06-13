@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbefd232-d3c1-4f2f-8883-42008afc0e40" name="Default Changelist" comment="">
+    <list default="true" id="3bbe9e10-1174-4448-a0e1-e8fcd881142a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,21 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HappyNumber/Program.cs">
+        <entry file="file://$PROJECT_DIR$/CountPrimes/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="14" selection-start-line="14" selection-end-line="52" selection-end-column="1" />
+            <state relative-caret-position="480">
+              <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding>
-                <marker date="1560353351085" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560353351085" expanded="true" signature="70:239" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="99:237" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="152:231" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="263:972" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="295:760" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="362:731" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="500:609" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="803:970" ph="{...}" />
-                <marker date="1560353351085" expanded="true" signature="868:942" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="36:214" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="65:212" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="118:206" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="238:646" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="273:644" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="375:615" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="423:605" ph="{...}" />
+                <marker date="1560415629182" expanded="true" signature="511:591" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/HappyNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CountPrimes/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HappyNumber/Program.cs" />
+        <option value="$PROJECT_DIR$/CountPrimes/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,8 +57,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -72,7 +70,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -89,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/HappyNumber/bin/Debug/HappyNumber.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CountPrimes/bin/Debug/CountPrimes.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HappyNumber/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CountPrimes/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HappyNumber/HappyNumber.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CountPrimes/CountPrimes.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bbefd232-d3c1-4f2f-8883-42008afc0e40" name="Default Changelist" comment="" />
-      <created>1560352912592</created>
+      <changelist id="3bbe9e10-1174-4448-a0e1-e8fcd881142a" name="Default Changelist" comment="" />
+      <created>1560412881503</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560352912592</updated>
-      <workItem from="1560352913692" duration="1526000" />
+      <updated>1560412881503</updated>
+      <workItem from="1560412883352" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1526000" />
+    <option name="totallyTimeSpent" value="811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +136,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -148,10 +145,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -180,21 +176,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HappyNumber/Program.cs">
+    <entry file="file://$PROJECT_DIR$/CountPrimes/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" selection-start-line="14" selection-end-line="52" selection-end-column="1" />
+        <state relative-caret-position="480">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
           <folding>
-            <marker date="1560353351085" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560353351085" expanded="true" signature="70:239" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="99:237" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="152:231" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="263:972" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="295:760" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="362:731" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="500:609" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="803:970" ph="{...}" />
-            <marker date="1560353351085" expanded="true" signature="868:942" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="36:214" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="65:212" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="118:206" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="238:646" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="273:644" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="375:615" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="423:605" ph="{...}" />
+            <marker date="1560415629182" expanded="true" signature="511:591" ph="{...}" />
           </folding>
         </state>
       </provider>
