@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87032a15-19e3-4dd9-878a-3116f7d8f8c8" name="Default Changelist" comment="">
+    <list default="true" id="1c6dd98d-5fbe-4db1-92c6-16faac6bdaef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CountPrimes/.idea/.idea.CountPrimes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountPrimes/.idea/.idea.CountPrimes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HappyNumber/.idea/.idea.HappyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HappyNumber/.idea/.idea.HappyNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HouseRobber/.idea/.idea.HouseRobber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HouseRobber/.idea/.idea.HouseRobber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseBits/.idea/.idea.ReverseBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseBits/.idea/.idea.ReverseBits/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RotateArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,27 +20,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RotateArray/Program.cs">
+        <entry file="file://$PROJECT_DIR$/IsomorphicString/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="54" selection-start-line="54" selection-end-line="80" selection-end-column="1" />
+            <state relative-caret-position="249">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding>
-                <marker date="1560337738594" expanded="true" signature="6:39" ph="..." />
-                <marker date="1560337738594" expanded="true" signature="103:41245" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="132:41243" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="185:1145" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="352:420" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="615:683" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="971:1039" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="1194:41237" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41268:41795" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41312:41793" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41422:41787" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41822:42278" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41866:42276" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="41902:41942" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="42037:42270" ph="{...}" />
-                <marker date="1560337738594" expanded="true" signature="42144:42232" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560496197731" expanded="true" signature="105:513" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="134:511" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="187:505" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="537:1381" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="587:1379" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="736:1351" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="848:1018" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="934:1004" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="1053:1221" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="1137:1207" ph="{...}" />
+                <marker date="1560496197731" expanded="true" signature="1238:1341" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -51,12 +48,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RotateArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IsomorphicString/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RotateArray/Program.cs" />
+        <option value="$PROJECT_DIR$/IsomorphicString/Program.cs" />
       </list>
     </option>
   </component>
@@ -74,8 +71,8 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,14 +97,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/RotateArray/bin/Debug/RotateArray.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IsomorphicString/bin/Debug/IsomorphicString.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RotateArray/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IsomorphicString/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RotateArray/RotateArray.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IsomorphicString/IsomorphicString.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -123,17 +120,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="87032a15-19e3-4dd9-878a-3116f7d8f8c8" name="Default Changelist" comment="" />
-      <created>1560329757555</created>
+      <changelist id="1c6dd98d-5fbe-4db1-92c6-16faac6bdaef" name="Default Changelist" comment="" />
+      <created>1560495181449</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560329757555</updated>
-      <workItem from="1560329758948" duration="2895000" />
+      <updated>1560495181449</updated>
+      <workItem from="1560495182764" duration="1679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2895000" />
+    <option name="totallyTimeSpent" value="1679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -163,7 +160,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,27 +189,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RotateArray/Program.cs">
+    <entry file="file://$PROJECT_DIR$/IsomorphicString/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="54" selection-start-line="54" selection-end-line="80" selection-end-column="1" />
+        <state relative-caret-position="249">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
           <folding>
-            <marker date="1560337738594" expanded="true" signature="6:39" ph="..." />
-            <marker date="1560337738594" expanded="true" signature="103:41245" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="132:41243" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="185:1145" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="352:420" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="615:683" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="971:1039" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="1194:41237" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41268:41795" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41312:41793" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41422:41787" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41822:42278" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41866:42276" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="41902:41942" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="42037:42270" ph="{...}" />
-            <marker date="1560337738594" expanded="true" signature="42144:42232" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560496197731" expanded="true" signature="105:513" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="134:511" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="187:505" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="537:1381" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="587:1379" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="736:1351" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="848:1018" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="934:1004" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="1053:1221" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="1137:1207" ph="{...}" />
+            <marker date="1560496197731" expanded="true" signature="1238:1341" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69e39809-7caa-4f23-99a7-b3ec9a0951be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactorialTrailingZeroes/.idea/.idea.FactorialTrailingZeroes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HappyNumber/.idea/.idea.HappyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HappyNumber/.idea/.idea.HappyNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HouseRobber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HouseRobber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfOneBits/.idea/.idea.NumberOfOneBits/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RemoveLinkedListElements/.idea/.idea.RemoveLinkedListElements/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseBits/.idea/.idea.ReverseBits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseBits/.idea/.idea.ReverseBits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/.idea/.idea.RotateArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +136,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -146,7 +153,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
