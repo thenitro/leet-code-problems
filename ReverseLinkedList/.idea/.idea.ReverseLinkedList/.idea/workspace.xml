@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38c2924d-56a5-4dd3-8a06-719d5f64de6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560842159477</updated>
-      <workItem from="1560842160995" duration="2257000" />
+      <workItem from="1560842160995" duration="2627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2257000" />
+    <option name="totallyTimeSpent" value="2627000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,6 +144,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />

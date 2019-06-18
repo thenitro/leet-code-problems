@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ec475728-cfdd-4ea0-8a36-26b82f48977c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ContainsDuplicateII/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
-                <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560847164692" expanded="true" signature="78:501" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="107:499" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="160:493" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="525:918" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="585:916" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="685:887" ph="{...}" />
+                <marker date="1560847164692" expanded="true" signature="791:848" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContainsDuplicateII/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ContainsDuplicate/Program.cs" />
+        <option value="$PROJECT_DIR$/ContainsDuplicateII/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,11 +58,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,14 +87,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug/ContainsDuplicate.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ContainsDuplicateII/bin/Debug/ContainsDuplicateII.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContainsDuplicateII/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContainsDuplicateII/ContainsDuplicateII.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="" />
-      <created>1560846090022</created>
+      <changelist id="ec475728-cfdd-4ea0-8a36-26b82f48977c" name="Default Changelist" comment="" />
+      <created>1560846914311</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560846090022</updated>
-      <workItem from="1560846091216" duration="1421000" />
+      <updated>1560846914311</updated>
+      <workItem from="1560846915916" duration="1543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1421000" />
+    <option name="totallyTimeSpent" value="1543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,19 +179,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ContainsDuplicateII/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="195">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
-            <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560847164692" expanded="true" signature="78:501" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="107:499" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="160:493" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="525:918" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="585:916" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="685:887" ph="{...}" />
+            <marker date="1560847164692" expanded="true" signature="791:848" ph="{...}" />
           </folding>
         </state>
       </provider>

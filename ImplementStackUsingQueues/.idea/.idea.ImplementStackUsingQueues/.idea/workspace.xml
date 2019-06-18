@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e8b3a1b-2676-42a2-aa8e-3e9dca8cd77a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,19 +14,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="459">
+              <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
               <folding>
-                <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
-                <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560848457254" expanded="true" signature="84:1831" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="113:544" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="166:538" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="570:1829" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="724:783" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="858:1117" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1004:1107" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1224:1370" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1268:1337" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1432:1685" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1476:1640" ph="{...}" />
+                <marker date="1560848457254" expanded="true" signature="1765:1823" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +43,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/a4/7ebf4572/Queue`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ContainsDuplicate/Program.cs" />
+        <option value="$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,10 +65,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,14 +93,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug/ContainsDuplicate.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ImplementStackUsingQueues/bin/Debug/ImplementStackUsingQueues.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImplementStackUsingQueues/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ImplementStackUsingQueues/ImplementStackUsingQueues.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +116,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="" />
-      <created>1560846090022</created>
+      <changelist id="5e8b3a1b-2676-42a2-aa8e-3e9dca8cd77a" name="Default Changelist" comment="" />
+      <created>1560847935036</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560846090022</updated>
-      <workItem from="1560846091216" duration="1421000" />
+      <updated>1560847935036</updated>
+      <workItem from="1560847936267" duration="523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1421000" />
+    <option name="totallyTimeSpent" value="523000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,19 +185,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/978BB286-3A1E-4C66-A74B-72341E3A291D/a4/7ebf4572/Queue`1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="-2420">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
           <folding>
-            <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
-            <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560848457254" expanded="true" signature="84:1831" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="113:544" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="166:538" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="570:1829" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="724:783" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="858:1117" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1004:1107" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1224:1370" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1268:1337" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1432:1685" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1476:1640" ph="{...}" />
+            <marker date="1560848457254" expanded="true" signature="1765:1823" ph="{...}" />
           </folding>
         </state>
       </provider>
