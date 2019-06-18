@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38c2924d-56a5-4dd3-8a06-719d5f64de6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,30 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReverseLinkedList/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="16" selection-start-line="16" selection-end-line="34" selection-end-column="1" />
               <folding>
-                <marker date="1560842916336" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560842916336" expanded="true" signature="76:1773" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="105:1771" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="158:1765" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="220:547" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="277:533" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="342:515" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="415:493" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="658:776" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="963:1081" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1175:1229" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1335:1453" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1604:1722" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1797:1886" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1910:2478" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1959:2476" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="1986:2031" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="2149:2238" ph="{...}" />
-                <marker date="1560842916336" expanded="true" signature="2311:2407" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
+                <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
+                <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ReverseLinkedList/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReverseLinkedList/Program.cs" />
+        <option value="$PROJECT_DIR$/ContainsDuplicate/Program.cs" />
       </list>
     </option>
   </component>
@@ -68,11 +57,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -97,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseLinkedList/bin/Debug/ReverseLinkedList.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug/ContainsDuplicate.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseLinkedList/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContainsDuplicate/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -120,17 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="38c2924d-56a5-4dd3-8a06-719d5f64de6d" name="Default Changelist" comment="" />
-      <created>1560842159477</created>
+      <changelist id="3b275728-e2f2-41ba-aba9-b267735bc4f0" name="Default Changelist" comment="" />
+      <created>1560846090022</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560842159477</updated>
-      <workItem from="1560842160995" duration="2257000" />
+      <updated>1560846090022</updated>
+      <workItem from="1560846091216" duration="299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2257000" />
+    <option name="totallyTimeSpent" value="299000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,6 +132,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -188,30 +178,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReverseLinkedList/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ContainsDuplicate/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+        <state relative-caret-position="474">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
-            <marker date="1560842916336" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560842916336" expanded="true" signature="76:1773" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="105:1771" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="158:1765" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="220:547" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="277:533" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="342:515" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="415:493" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="658:776" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="963:1081" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1175:1229" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1335:1453" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1604:1722" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1797:1886" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1910:2478" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1959:2476" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="1986:2031" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="2149:2238" ph="{...}" />
-            <marker date="1560842916336" expanded="true" signature="2311:2407" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560846316031" expanded="true" signature="76:496" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="105:494" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="158:488" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="519:836" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="567:834" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="658:805" ph="{...}" />
+            <marker date="1560846316031" expanded="true" signature="707:764" ph="{...}" />
           </folding>
         </state>
       </provider>
