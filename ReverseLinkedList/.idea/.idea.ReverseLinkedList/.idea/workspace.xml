@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="38c2924d-56a5-4dd3-8a06-719d5f64de6d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplementStackUsingQueues/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplementStackUsingQueues/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReverseLinkedList/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="523">
               <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
               <folding>
                 <marker date="1560842916336" expanded="true" signature="6:47" ph="..." />
@@ -144,7 +146,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -161,7 +162,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,7 +193,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ReverseLinkedList/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="523">
           <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
           <folding>
             <marker date="1560842916336" expanded="true" signature="6:47" ph="..." />

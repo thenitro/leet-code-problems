@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\GenerateParentheses\GenerateParentheses\bin\Debug\GenerateParentheses.exe
+E:\code\leet-code-problems\GenerateParentheses\GenerateParentheses\bin\Debug\GenerateParentheses.pdb
+E:\code\leet-code-problems\GenerateParentheses\GenerateParentheses\obj\Debug\GenerateParentheses.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\GenerateParentheses\GenerateParentheses\obj\Debug\GenerateParentheses.exe
+E:\code\leet-code-problems\GenerateParentheses\GenerateParentheses\obj\Debug\GenerateParentheses.pdb

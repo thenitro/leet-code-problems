@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5e8b3a1b-2676-42a2-aa8e-3e9dca8cd77a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+            <state relative-caret-position="429">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
                 <marker date="1560848457254" expanded="true" signature="6:47" ph="..." />
                 <marker date="1560848457254" expanded="true" signature="84:1831" ph="{...}" />
@@ -121,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560847935036</updated>
-      <workItem from="1560847936267" duration="523000" />
+      <workItem from="1560847936267" duration="1389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="523000" />
+    <option name="totallyTimeSpent" value="1389000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +141,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -156,7 +157,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -194,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ImplementStackUsingQueues/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        <state relative-caret-position="429">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
             <marker date="1560848457254" expanded="true" signature="6:47" ph="..." />
             <marker date="1560848457254" expanded="true" signature="84:1831" ph="{...}" />
