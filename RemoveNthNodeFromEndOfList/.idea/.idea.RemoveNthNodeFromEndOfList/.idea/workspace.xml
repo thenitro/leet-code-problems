@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="824685b0-3fdd-4bd7-9e12-e4b08f68639e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicate/.idea/.idea.ContainsDuplicate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContainsDuplicateII/.idea/.idea.ContainsDuplicateII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImplementStackUsingQueues/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplementStackUsingQueues/.idea/.idea.ImplementStackUsingQueues/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseLinkedList/.idea/.idea.ReverseLinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenerateParentheses/.idea/.idea.GenerateParentheses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GenerateParentheses/.idea/.idea.GenerateParentheses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RemoveNthNodeFromEndOfList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RemoveNthNodeFromEndOfList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndOfList/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="388">
               <caret line="104" column="35" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
               <folding>
                 <marker date="1560863139059" expanded="false" signature="6:41" ph="..." />
@@ -132,12 +130,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560862300894</updated>
       <workItem from="1560862302260" duration="223000" />
-      <workItem from="1560862605266" duration="2049000" />
+      <workItem from="1560862605266" duration="2178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2272000" />
+    <option name="totallyTimeSpent" value="2401000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,7 +148,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -160,7 +157,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,7 +195,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RemoveNthNodeFromEndOfList/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="388">
           <caret line="104" column="35" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
           <folding>
             <marker date="1560863139059" expanded="false" signature="6:41" ph="..." />
