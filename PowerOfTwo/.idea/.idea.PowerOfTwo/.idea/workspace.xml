@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef10bb5b-278f-474e-81e9-5277860c5347" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b6978d12-8319-43f1-8096-fa1a5e20b088" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,25 +11,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FindMinimumInRotatedSortedArray/Program.cs">
+        <entry file="file://$PROJECT_DIR$/PowerOfTwo/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="465">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
               <folding>
-                <marker date="1560932876913" expanded="true" signature="56:407" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="85:405" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="138:399" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="431:1215" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="467:1213" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="503:551" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="647:695" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="726:1187" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="829:895" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="939:1001" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="1039:1099" ph="{...}" />
-                <marker date="1560932876913" expanded="true" signature="1116:1177" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="35:434" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="64:432" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="117:426" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="458:728" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="495:726" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="571:697" ph="{...}" />
+                <marker date="1561010498885" expanded="true" signature="605:662" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,12 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FindMinimumInRotatedSortedArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PowerOfTwo/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/Program.cs" />
+        <option value="$PROJECT_DIR$/PowerOfTwo/Program.cs" />
       </list>
     </option>
   </component>
@@ -90,14 +85,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/bin/Debug/FindMinimumInRotatedSortedArray.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PowerOfTwo/bin/Debug/PowerOfTwo.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PowerOfTwo/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PowerOfTwo/PowerOfTwo.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,18 +108,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef10bb5b-278f-474e-81e9-5277860c5347" name="Default Changelist" comment="" />
-      <created>1560931913548</created>
+      <changelist id="b6978d12-8319-43f1-8096-fa1a5e20b088" name="Default Changelist" comment="" />
+      <created>1561010222856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560931913548</updated>
-      <workItem from="1560931914884" duration="206000" />
-      <workItem from="1560932147373" duration="2558000" />
+      <updated>1561010222856</updated>
+      <workItem from="1561010224633" duration="276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2764000" />
+    <option name="totallyTimeSpent" value="276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,11 +133,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -152,25 +153,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,23 +177,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FindMinimumInRotatedSortedArray/Program.cs">
+    <entry file="file://$PROJECT_DIR$/PowerOfTwo/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="465">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
           <folding>
-            <marker date="1560932876913" expanded="true" signature="56:407" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="85:405" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="138:399" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="431:1215" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="467:1213" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="503:551" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="647:695" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="726:1187" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="829:895" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="939:1001" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="1039:1099" ph="{...}" />
-            <marker date="1560932876913" expanded="true" signature="1116:1177" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="35:434" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="64:432" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="117:426" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="458:728" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="495:726" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="571:697" ph="{...}" />
+            <marker date="1561010498885" expanded="true" signature="605:662" ph="{...}" />
           </folding>
         </state>
       </provider>

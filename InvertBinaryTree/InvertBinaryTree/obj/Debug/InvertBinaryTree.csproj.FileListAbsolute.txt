@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\InvertBinaryTree\InvertBinaryTree\bin\Debug\InvertBinaryTree.exe
+E:\code\leet-code-problems\InvertBinaryTree\InvertBinaryTree\bin\Debug\InvertBinaryTree.pdb
+E:\code\leet-code-problems\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.exe
+E:\code\leet-code-problems\InvertBinaryTree\InvertBinaryTree\obj\Debug\InvertBinaryTree.pdb
