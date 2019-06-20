@@ -10,6 +10,7 @@ namespace PowerOfTwo
             Console.WriteLine(true == new Solution().IsPowerOfTwo(16));
             Console.WriteLine(false == new Solution().IsPowerOfTwo(218));
             Console.WriteLine(false == new Solution().IsPowerOfTwo(0));
+            Console.WriteLine(false == new Solution().IsPowerOfTwo(6));
         }
     }
 }

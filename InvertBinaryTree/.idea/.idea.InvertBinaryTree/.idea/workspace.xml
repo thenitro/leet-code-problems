@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="7dc25173-938a-4318-87b4-704017e6c88d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/.idea/.idea.PowerOfTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/.idea/.idea.PowerOfTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/obj/Debug/PowerOfTwo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/obj/Debug/PowerOfTwo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/obj/Debug/PowerOfTwo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/obj/Debug/PowerOfTwo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchA2dMatrix/.idea/.idea.SearchA2dMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchA2dMatrix/.idea/.idea.SearchA2dMatrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchInRotatedSortedArray/.idea/.idea.SearchInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchInRotatedSortedArray/.idea/.idea.SearchInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +25,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/InvertBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="508">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <marker date="1561009846815" expanded="true" signature="26:580" ph="{...}" />
@@ -117,12 +127,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561009664890</updated>
-      <workItem from="1561009666183" duration="834000" />
+      <workItem from="1561009666183" duration="1609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="834000" />
+    <option name="totallyTimeSpent" value="1609000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,7 +145,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -152,7 +161,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,7 +192,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/InvertBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="508">
           <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <marker date="1561009846815" expanded="true" signature="26:580" ph="{...}" />

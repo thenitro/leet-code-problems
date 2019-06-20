@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b6978d12-8319-43f1-8096-fa1a5e20b088" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InvertBinaryTree/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InvertBinaryTree/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PowerOfTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PowerOfTwo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo/bin/Debug/PowerOfTwo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo/bin/Debug/PowerOfTwo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo/bin/Debug/PowerOfTwo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo/bin/Debug/PowerOfTwo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo/obj/Debug/PowerOfTwo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo/obj/Debug/PowerOfTwo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo/obj/Debug/PowerOfTwo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo/obj/Debug/PowerOfTwo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchA2dMatrix/.idea/.idea.SearchA2dMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchA2dMatrix/.idea/.idea.SearchA2dMatrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SearchInRotatedSortedArray/.idea/.idea.SearchInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SearchInRotatedSortedArray/.idea/.idea.SearchInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,16 +25,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PowerOfTwo/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="300">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding>
-                <marker date="1561010498885" expanded="true" signature="35:434" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="64:432" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="117:426" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="458:728" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="495:726" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="571:697" ph="{...}" />
-                <marker date="1561010498885" expanded="true" signature="605:662" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="35:506" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="64:504" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="117:498" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="530:858" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="567:856" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="637:850" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="671:728" ph="{...}" />
+                <marker date="1561010685785" expanded="true" signature="757:815" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -113,12 +124,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561010222856</updated>
-      <workItem from="1561010224633" duration="276000" />
+      <workItem from="1561010224633" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276000" />
+    <option name="totallyTimeSpent" value="1893000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,7 +142,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -148,7 +158,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -179,16 +189,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PowerOfTwo/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="300">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding>
-            <marker date="1561010498885" expanded="true" signature="35:434" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="64:432" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="117:426" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="458:728" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="495:726" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="571:697" ph="{...}" />
-            <marker date="1561010498885" expanded="true" signature="605:662" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="35:506" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="64:504" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="117:498" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="530:858" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="567:856" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="637:850" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="671:728" ph="{...}" />
+            <marker date="1561010685785" expanded="true" signature="757:815" ph="{...}" />
           </folding>
         </state>
       </provider>

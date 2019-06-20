@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4435310-6cea-441b-be84-83bb4759f3e4" name="Default Changelist" comment="">
+    <list default="true" id="d441b42d-5f36-4161-baf3-59f463f18003" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindMinimumInRotatedSortedArray/.idea/.idea.FindMinimumInRotatedSortedArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../InvertBinaryTree/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InvertBinaryTree/.idea/.idea.InvertBinaryTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KthSmallestElementInASortedMatrix/.idea/.idea.KthSmallestElementInASortedMatrix/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PowerOfTwo/.idea/.idea.PowerOfTwo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/.idea/.idea.PowerOfTwo/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfTwo/PowerOfTwo/bin/Debug/PowerOfTwo.exe" afterDir="false" />
@@ -23,20 +23,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KthSmallestElementInASortedMatrix/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ImplementQueueUsingStack/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" selection-start-line="19" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="643">
+              <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
               <folding>
-                <marker date="1560948867501" expanded="true" signature="6:47" ph="..." />
-                <marker date="1560948867501" expanded="true" signature="92:431" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="121:429" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="174:423" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="272:407" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="455:760" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="506:758" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="583:693" ph="{...}" />
-                <marker date="1560948867501" expanded="true" signature="626:683" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="6:47" ph="..." />
+                <marker date="1561012665591" expanded="true" signature="83:469" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="112:467" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="165:461" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="491:1350" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="594:641" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="718:988" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="797:856" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="923:982" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="1090:1131" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="1188:1230" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="1302:1348" ph="{...}" />
+                <marker date="1561012665591" expanded="true" signature="1352:1559" ph="/* Your MyQueue object will be instantiated and called as such: ... */" />
               </folding>
             </state>
           </provider>
@@ -48,12 +52,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/KthSmallestElementInASortedMatrix/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ImplementQueueUsingStack/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/KthSmallestElementInASortedMatrix/Program.cs" />
+        <option value="$PROJECT_DIR$/ImplementQueueUsingStack/Program.cs" />
       </list>
     </option>
   </component>
@@ -69,10 +73,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -97,14 +101,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/KthSmallestElementInASortedMatrix/bin/Debug/KthSmallestElementInASortedMatrix.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ImplementQueueUsingStack/bin/Debug/ImplementQueueUsingStack.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KthSmallestElementInASortedMatrix/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ImplementQueueUsingStack/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ImplementQueueUsingStack/ImplementQueueUsingStack.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -120,17 +124,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d4435310-6cea-441b-be84-83bb4759f3e4" name="Default Changelist" comment="" />
-      <created>1560948647671</created>
+      <changelist id="d441b42d-5f36-4161-baf3-59f463f18003" name="Default Changelist" comment="" />
+      <created>1561011846985</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560948647671</updated>
-      <workItem from="1560948648954" duration="1443000" />
+      <updated>1561011846985</updated>
+      <workItem from="1561011848276" duration="823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1443000" />
+    <option name="totallyTimeSpent" value="823000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,11 +147,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -156,10 +161,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -188,20 +192,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KthSmallestElementInASortedMatrix/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ImplementQueueUsingStack/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="23" selection-start-line="19" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="643">
+          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
-            <marker date="1560948867501" expanded="true" signature="6:47" ph="..." />
-            <marker date="1560948867501" expanded="true" signature="92:431" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="121:429" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="174:423" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="272:407" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="455:760" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="506:758" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="583:693" ph="{...}" />
-            <marker date="1560948867501" expanded="true" signature="626:683" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="6:47" ph="..." />
+            <marker date="1561012665591" expanded="true" signature="83:469" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="112:467" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="165:461" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="491:1350" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="594:641" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="718:988" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="797:856" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="923:982" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="1090:1131" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="1188:1230" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="1302:1348" ph="{...}" />
+            <marker date="1561012665591" expanded="true" signature="1352:1559" ph="/* Your MyQueue object will be instantiated and called as such: ... */" />
           </folding>
         </state>
       </provider>
