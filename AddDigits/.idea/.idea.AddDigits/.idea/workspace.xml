@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59813518-ae0c-4664-b7f9-e3c2be4cb363" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ede7141c-b7bc-4387-a3c5-f798528fcc19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +13,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ValidAnagram/Program.cs">
+        <entry file="file://$PROJECT_DIR$/AddDigits/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="68">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <marker date="1561279517033" expanded="true" signature="6:47" ph="..." />
-                <marker date="1561279517033" expanded="true" signature="71:425" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="100:423" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="153:417" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="449:969" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="496:967" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="536:582" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="669:750" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="780:939" ph="{...}" />
-                <marker date="1561279517033" expanded="true" signature="844:902" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="34:210" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="63:208" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="116:202" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="234:610" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="269:608" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="369:581" ph="{...}" />
+                <marker date="1561280498306" expanded="true" signature="448:538" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ValidAnagram/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddDigits/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ValidAnagram/Program.cs" />
+        <option value="$PROJECT_DIR$/AddDigits/Program.cs" />
       </list>
     </option>
   </component>
@@ -60,11 +57,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,14 +85,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidAnagram/bin/Debug/ValidAnagram.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AddDigits/bin/Debug/AddDigits.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidAnagram/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddDigits/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidAnagram/ValidAnagram.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddDigits/AddDigits.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +108,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59813518-ae0c-4664-b7f9-e3c2be4cb363" name="Default Changelist" comment="" />
-      <created>1561279178476</created>
+      <changelist id="ede7141c-b7bc-4387-a3c5-f798528fcc19" name="Default Changelist" comment="" />
+      <created>1561280164089</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561279178476</updated>
-      <workItem from="1561279181990" duration="1594000" />
+      <updated>1561280164089</updated>
+      <workItem from="1561280165522" duration="2038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1594000" />
+    <option name="totallyTimeSpent" value="2038000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,21 +179,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ValidAnagram/Program.cs">
+    <entry file="file://$PROJECT_DIR$/AddDigits/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="68">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <marker date="1561279517033" expanded="true" signature="6:47" ph="..." />
-            <marker date="1561279517033" expanded="true" signature="71:425" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="100:423" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="153:417" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="449:969" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="496:967" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="536:582" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="669:750" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="780:939" ph="{...}" />
-            <marker date="1561279517033" expanded="true" signature="844:902" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="34:210" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="63:208" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="116:202" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="234:610" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="269:608" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="369:581" ph="{...}" />
+            <marker date="1561280498306" expanded="true" signature="448:538" ph="{...}" />
           </folding>
         </state>
       </provider>

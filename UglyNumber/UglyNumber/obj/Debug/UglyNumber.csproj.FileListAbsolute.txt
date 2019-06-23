@@ -1,0 +1,6 @@
+D:\leet-code-problems\UglyNumber\UglyNumber\bin\Debug\UglyNumber.exe
+D:\leet-code-problems\UglyNumber\UglyNumber\bin\Debug\UglyNumber.pdb
+D:\leet-code-problems\UglyNumber\UglyNumber\obj\Debug\UglyNumber.csprojAssemblyReference.cache
+D:\leet-code-problems\UglyNumber\UglyNumber\obj\Debug\UglyNumber.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\UglyNumber\UglyNumber\obj\Debug\UglyNumber.exe
+D:\leet-code-problems\UglyNumber\UglyNumber\obj\Debug\UglyNumber.pdb
