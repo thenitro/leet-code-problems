@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede7141c-b7bc-4387-a3c5-f798528fcc19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AddDigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AddDigits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

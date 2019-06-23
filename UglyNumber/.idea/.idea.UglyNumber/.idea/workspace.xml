@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a0f84e3-3005-490a-bb01-372499703009" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UglyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UglyNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/UglyNumber/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="45" selection-end-column="1" />
+              <caret line="16" selection-start-line="16" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <marker date="1561282388429" expanded="true" signature="35:408" ph="{...}" />
                 <marker date="1561282388429" expanded="true" signature="64:406" ph="{...}" />
@@ -117,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561281768410</updated>
-      <workItem from="1561281769702" duration="1209000" />
+      <workItem from="1561281769702" duration="1620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1209000" />
+    <option name="totallyTimeSpent" value="1620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,7 +188,7 @@
     <entry file="file://$PROJECT_DIR$/UglyNumber/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="45" selection-end-column="1" />
+          <caret line="16" selection-start-line="16" selection-end-line="45" selection-end-column="1" />
           <folding>
             <marker date="1561282388429" expanded="true" signature="35:408" ph="{...}" />
             <marker date="1561282388429" expanded="true" signature="64:406" ph="{...}" />
