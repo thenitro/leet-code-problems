@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59813518-ae0c-4664-b7f9-e3c2be4cb363" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MissingNumber/.idea/.idea.MissingNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MissingNumber/.idea/.idea.MissingNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -17,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ValidAnagram/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
+            <state relative-caret-position="205">
               <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
               <folding>
                 <marker date="1561279517033" expanded="true" signature="6:47" ph="..." />
@@ -136,7 +137,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -154,7 +154,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,7 +186,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ValidAnagram/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
+        <state relative-caret-position="205">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
             <marker date="1561279517033" expanded="true" signature="6:47" ph="..." />

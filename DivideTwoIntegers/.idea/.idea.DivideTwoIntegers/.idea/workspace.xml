@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e8fe46-e7be-4e51-93fd-06f195589d39" name="Default Changelist" comment="">
+    <list default="true" id="c8fd07de-e80e-43eb-bb4c-98af6c9f2016" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddDigits/.idea/.idea.AddDigits/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MissingNumber/.idea/.idea.MissingNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MissingNumber/.idea/.idea.MissingNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UglyNumber/.idea/.idea.UglyNumber/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidAnagram/.idea/.idea.ValidAnagram/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,19 +16,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MissingNumber/Program.cs">
+        <entry file="file://$PROJECT_DIR$/DivideTwoIntegers/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="245">
+              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
               <folding>
-                <marker date="1561283398138" expanded="true" signature="38:324" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="67:322" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="120:316" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="348:773" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="390:771" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="487:561" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="607:746" ph="{...}" />
-                <marker date="1561283398138" expanded="true" signature="647:701" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="42:520" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="71:518" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="124:512" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="544:1506" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="594:1504" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="725:1005" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="766:831" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="873:927" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="1043:1085" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="1199:1465" ph="{...}" />
+                <marker date="1561356882164" expanded="true" signature="1310:1394" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +43,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MissingNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/60/a41d48b1/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DivideTwoIntegers/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MissingNumber/Program.cs" />
+        <option value="$PROJECT_DIR$/DivideTwoIntegers/Program.cs" />
       </list>
     </option>
   </component>
@@ -88,14 +93,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MissingNumber/bin/Debug/MissingNumber.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DivideTwoIntegers/bin/Debug/DivideTwoIntegers.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MissingNumber/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DivideTwoIntegers/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MissingNumber/MissingNumber.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DivideTwoIntegers/DivideTwoIntegers.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +116,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="49e8fe46-e7be-4e51-93fd-06f195589d39" name="Default Changelist" comment="" />
-      <created>1561283061047</created>
+      <changelist id="c8fd07de-e80e-43eb-bb4c-98af6c9f2016" name="Default Changelist" comment="" />
+      <created>1561352457661</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561283061047</updated>
-      <workItem from="1561283062562" duration="944000" />
+      <updated>1561352457661</updated>
+      <workItem from="1561352462849" duration="4651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="944000" />
+    <option name="totallyTimeSpent" value="4651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +157,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,19 +187,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MissingNumber/Program.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/60/a41d48b1/Math.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="659">
+          <caret line="298" column="22" selection-start-line="298" selection-start-column="22" selection-end-line="298" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DivideTwoIntegers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
           <folding>
-            <marker date="1561283398138" expanded="true" signature="38:324" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="67:322" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="120:316" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="348:773" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="390:771" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="487:561" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="607:746" ph="{...}" />
-            <marker date="1561283398138" expanded="true" signature="647:701" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="42:520" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="71:518" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="124:512" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="544:1506" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="594:1504" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="725:1005" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="766:831" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="873:927" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="1043:1085" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="1199:1465" ph="{...}" />
+            <marker date="1561356882164" expanded="true" signature="1310:1394" ph="{...}" />
           </folding>
         </state>
       </provider>
