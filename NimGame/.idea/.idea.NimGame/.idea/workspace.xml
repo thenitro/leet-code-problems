@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b190fb6-aee7-444d-8ef4-f27bb20131f5" name="Default Changelist" comment="">
+    <list default="true" id="732b0264-e1e9-4efb-92f5-1f651ca2ffb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../MoveZeroes/.idea/.idea.MoveZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MoveZeroes/.idea/.idea.MoveZeroes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WordPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordPattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WordPattern/.idea/.idea.WordPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPattern/.idea/.idea.WordPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,55 +14,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WordPattern/Program.cs">
+        <entry file="file://$PROJECT_DIR$/NimGame/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="17" selection-start-line="17" selection-end-line="59" selection-end-column="1" />
+            <state relative-caret-position="249">
+              <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
               <folding>
-                <marker date="1561964387643" expanded="true" signature="6:47" ph="..." />
-                <marker date="1561964387643" expanded="true" signature="70:560" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="99:558" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="152:552" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="584:1860" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="641:1858" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="789:835" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="1009:1830" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="1206:1517" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="1433:1503" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="1615:1745" ph="{...}" />
-                <marker date="1561964387643" expanded="true" signature="1762:1820" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="6:47" ph="..." />
+                <marker date="1561966685530" expanded="true" signature="66:394" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="95:392" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="148:386" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="418:1626" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="452:1513" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="516:1484" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="584:845" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="677:746" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="767:831" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="881:1142" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="974:1043" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="1064:1128" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="1170:1431" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="1263:1332" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="1353:1417" ph="{...}" />
+                <marker date="1561966685530" expanded="true" signature="1557:1624" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/ff/8d43dc18/String.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="767" column="5" selection-start-line="767" selection-start-column="5" selection-end-line="767" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>)</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordPattern/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/ff/8d43dc18/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NimGame/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordPattern/Program.cs" />
+        <option value="$PROJECT_DIR$/NimGame/Program.cs" />
       </list>
     </option>
   </component>
@@ -77,11 +67,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,14 +96,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordPattern/bin/Debug/WordPattern.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/NimGame/bin/Debug/NimGame.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordPattern/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NimGame/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordPattern/WordPattern.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NimGame/NimGame.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -129,17 +119,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b190fb6-aee7-444d-8ef4-f27bb20131f5" name="Default Changelist" comment="" />
-      <created>1561963565062</created>
+      <changelist id="732b0264-e1e9-4efb-92f5-1f651ca2ffb5" name="Default Changelist" comment="" />
+      <created>1561964577940</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561963565062</updated>
-      <workItem from="1561963566257" duration="1611000" />
+      <updated>1561964577940</updated>
+      <workItem from="1561964579180" duration="2109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1611000" />
+    <option name="totallyTimeSpent" value="2109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,30 +188,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/ff/8d43dc18/String.cs">
+    <entry file="file://$PROJECT_DIR$/NimGame/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="767" column="5" selection-start-line="767" selection-start-column="5" selection-end-line="767" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WordPattern/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="17" selection-start-line="17" selection-end-line="59" selection-end-column="1" />
+        <state relative-caret-position="249">
+          <caret line="62" column="27" lean-forward="true" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
           <folding>
-            <marker date="1561964387643" expanded="true" signature="6:47" ph="..." />
-            <marker date="1561964387643" expanded="true" signature="70:560" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="99:558" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="152:552" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="584:1860" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="641:1858" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="789:835" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="1009:1830" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="1206:1517" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="1433:1503" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="1615:1745" ph="{...}" />
-            <marker date="1561964387643" expanded="true" signature="1762:1820" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="6:47" ph="..." />
+            <marker date="1561966685530" expanded="true" signature="66:394" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="95:392" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="148:386" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="418:1626" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="452:1513" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="516:1484" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="584:845" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="677:746" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="767:831" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="881:1142" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="974:1043" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="1064:1128" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="1170:1431" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="1263:1332" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="1353:1417" ph="{...}" />
+            <marker date="1561966685530" expanded="true" signature="1557:1624" ph="{...}" />
           </folding>
         </state>
       </provider>

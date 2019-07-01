@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\NimGame\NimGame\bin\Debug\NimGame.exe
+E:\code\leet-code-problems\NimGame\NimGame\bin\Debug\NimGame.pdb
+E:\code\leet-code-problems\NimGame\NimGame\obj\Debug\NimGame.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\NimGame\NimGame\obj\Debug\NimGame.exe
+E:\code\leet-code-problems\NimGame\NimGame\obj\Debug\NimGame.pdb
