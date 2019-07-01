@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc9df648-07a4-4bc7-bfb4-2b9c383e20d5" name="Default Changelist" comment="">
+    <list default="true" id="5239358e-5eaa-419c-995b-a631e862a4c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ImplementQueueUsingStack/.idea/.idea.ImplementQueueUsingStack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImplementQueueUsingStack/.idea/.idea.ImplementQueueUsingStack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PalindromeLinkedList/.idea/.idea.PalindromeLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PalindromeLinkedList/.idea/.idea.PalindromeLinkedList/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,23 +14,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PalindromeLinkedList/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SwapNodesInPairs/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
-                <marker date="1561014919252" expanded="true" signature="45:616" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="74:614" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="127:608" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="640:729" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="753:1759" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="798:1757" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="888:965" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="1195:1721" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="1238:1397" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="1313:1383" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="1414:1494" ph="{...}" />
-                <marker date="1561014919252" expanded="true" signature="1593:1662" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="41:468" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="70:466" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="123:460" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="324:450" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="492:581" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="605:884" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="651:882" ph="{...}" />
+                <marker date="1561105459506" expanded="true" signature="704:749" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PalindromeLinkedList/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SwapNodesInPairs/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PalindromeLinkedList/Program.cs" />
+        <option value="$PROJECT_DIR$/SwapNodesInPairs/Program.cs" />
       </list>
     </option>
   </component>
@@ -90,14 +87,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PalindromeLinkedList/bin/Debug/PalindromeLinkedList.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SwapNodesInPairs/bin/Debug/SwapNodesInPairs.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PalindromeLinkedList/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SwapNodesInPairs/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PalindromeLinkedList/PalindromeLinkedList.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SwapNodesInPairs/SwapNodesInPairs.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc9df648-07a4-4bc7-bfb4-2b9c383e20d5" name="Default Changelist" comment="" />
-      <created>1561013683724</created>
+      <changelist id="5239358e-5eaa-419c-995b-a631e862a4c6" name="Default Changelist" comment="" />
+      <created>1561102983327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561013683724</updated>
-      <workItem from="1561013685043" duration="2340000" />
+      <updated>1561102983327</updated>
+      <workItem from="1561102984825" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2340000" />
+    <option name="totallyTimeSpent" value="3198000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,7 +133,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -154,7 +150,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -182,23 +178,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PalindromeLinkedList/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SwapNodesInPairs/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
-            <marker date="1561014919252" expanded="true" signature="45:616" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="74:614" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="127:608" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="640:729" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="753:1759" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="798:1757" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="888:965" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="1195:1721" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="1238:1397" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="1313:1383" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="1414:1494" ph="{...}" />
-            <marker date="1561014919252" expanded="true" signature="1593:1662" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="41:468" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="70:466" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="123:460" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="324:450" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="492:581" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="605:884" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="651:882" ph="{...}" />
+            <marker date="1561105459506" expanded="true" signature="704:749" ph="{...}" />
           </folding>
         </state>
       </provider>

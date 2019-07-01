@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MoveZeroes\MoveZeroes\bin\Debug\MoveZeroes.exe
+E:\code\leet-code-problems\MoveZeroes\MoveZeroes\bin\Debug\MoveZeroes.pdb
+E:\code\leet-code-problems\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.exe
+E:\code\leet-code-problems\MoveZeroes\MoveZeroes\obj\Debug\MoveZeroes.pdb

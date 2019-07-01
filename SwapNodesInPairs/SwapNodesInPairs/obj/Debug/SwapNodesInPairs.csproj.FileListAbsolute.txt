@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SwapNodesInPairs\SwapNodesInPairs\bin\Debug\SwapNodesInPairs.exe
+E:\code\leet-code-problems\SwapNodesInPairs\SwapNodesInPairs\bin\Debug\SwapNodesInPairs.pdb
+E:\code\leet-code-problems\SwapNodesInPairs\SwapNodesInPairs\obj\Debug\SwapNodesInPairs.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SwapNodesInPairs\SwapNodesInPairs\obj\Debug\SwapNodesInPairs.exe
+E:\code\leet-code-problems\SwapNodesInPairs\SwapNodesInPairs\obj\Debug\SwapNodesInPairs.pdb
