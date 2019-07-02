@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b190fb6-aee7-444d-8ef4-f27bb20131f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MoveZeroes/.idea/.idea.MoveZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MoveZeroes/.idea/.idea.MoveZeroes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NimGame/.idea/.idea.NimGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NimGame/.idea/.idea.NimGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WordPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordPattern/.idea/workspace.xml" afterDir="false" />
@@ -17,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WordPattern/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="148">
               <caret line="17" selection-start-line="17" selection-end-line="59" selection-end-column="1" />
               <folding>
                 <marker date="1561964387643" expanded="true" signature="6:47" ph="..." />
@@ -170,7 +171,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,7 +209,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WordPattern/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="148">
           <caret line="17" selection-start-line="17" selection-end-line="59" selection-end-column="1" />
           <folding>
             <marker date="1561964387643" expanded="true" signature="6:47" ph="..." />

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dd5fa75-1a3c-4b96-ac9f-431ff005d5d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MoveZeroes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MoveZeroes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NimGame/.idea/.idea.NimGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NimGame/.idea/.idea.NimGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordPattern/.idea/.idea.WordPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordPattern/.idea/.idea.WordPattern/.idea/workspace.xml" afterDir="false" />
@@ -17,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MoveZeroes/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="553">
+              <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
               <folding>
                 <marker date="1561963467510" expanded="true" signature="35:637" ph="{...}" />
                 <marker date="1561963467510" expanded="true" signature="64:635" ph="{...}" />
@@ -119,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561962447648</updated>
-      <workItem from="1561962449173" duration="1714000" />
+      <workItem from="1561962449173" duration="2921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1714000" />
+    <option name="totallyTimeSpent" value="2921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +155,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,8 +186,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MoveZeroes/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="553">
+          <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
           <folding>
             <marker date="1561963467510" expanded="true" signature="35:637" ph="{...}" />
             <marker date="1561963467510" expanded="true" signature="64:635" ph="{...}" />

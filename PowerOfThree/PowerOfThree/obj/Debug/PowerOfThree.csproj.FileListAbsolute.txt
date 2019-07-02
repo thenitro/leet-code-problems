@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\PowerOfThree\PowerOfThree\bin\Debug\PowerOfThree.exe
+E:\code\leet-code-problems\PowerOfThree\PowerOfThree\bin\Debug\PowerOfThree.pdb
+E:\code\leet-code-problems\PowerOfThree\PowerOfThree\obj\Debug\PowerOfThree.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\PowerOfThree\PowerOfThree\obj\Debug\PowerOfThree.exe
+E:\code\leet-code-problems\PowerOfThree\PowerOfThree\obj\Debug\PowerOfThree.pdb
