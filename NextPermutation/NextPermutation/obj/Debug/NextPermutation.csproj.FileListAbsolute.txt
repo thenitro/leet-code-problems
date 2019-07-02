@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\NextPermutation\NextPermutation\bin\Debug\NextPermutation.exe
+E:\code\leet-code-problems\NextPermutation\NextPermutation\bin\Debug\NextPermutation.pdb
+E:\code\leet-code-problems\NextPermutation\NextPermutation\obj\Debug\NextPermutation.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\NextPermutation\NextPermutation\obj\Debug\NextPermutation.exe
+E:\code\leet-code-problems\NextPermutation\NextPermutation\obj\Debug\NextPermutation.pdb

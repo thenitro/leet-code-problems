@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78fb851b-576c-4033-a38b-923a8100e48c" name="Default Changelist" comment="">
+    <list default="true" id="8988ef50-0093-404b-b00d-a16206a0988b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +15,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PowerOfThree/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ReverseString/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="459">
+              <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
               <folding>
-                <marker date="1562046561186" expanded="true" signature="37:812" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="66:810" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="119:804" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="836:1140" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="875:1138" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="902:1132" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="936:993" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="1040:1098" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="38:1464" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="67:1462" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="120:1456" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="286:354" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="569:637" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="827:895" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1090:1158" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1345:1413" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1488:1870" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1529:1868" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1579:1619" ph="{...}" />
+                <marker date="1562047445374" expanded="true" signature="1705:1862" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +43,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PowerOfThree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReverseString/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PowerOfThree/Program.cs" />
+        <option value="$PROJECT_DIR$/ReverseString/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,11 +63,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,14 +92,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseString/bin/Debug/ReverseString.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PowerOfThree/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseString/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PowerOfThree/PowerOfThree.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseString/ReverseString.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +115,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78fb851b-576c-4033-a38b-923a8100e48c" name="Default Changelist" comment="" />
-      <created>1562046115547</created>
+      <changelist id="8988ef50-0093-404b-b00d-a16206a0988b" name="Default Changelist" comment="" />
+      <created>1562047187392</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562046115547</updated>
-      <workItem from="1562046116818" duration="1140000" />
+      <updated>1562047187392</updated>
+      <workItem from="1562047188669" duration="1508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1140000" />
+    <option name="totallyTimeSpent" value="1508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -180,19 +184,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PowerOfThree/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ReverseString/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="459">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
           <folding>
-            <marker date="1562046561186" expanded="true" signature="37:812" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="66:810" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="119:804" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="836:1140" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="875:1138" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="902:1132" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="936:993" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="1040:1098" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="38:1464" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="67:1462" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="120:1456" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="286:354" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="569:637" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="827:895" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1090:1158" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1345:1413" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1488:1870" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1529:1868" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1579:1619" ph="{...}" />
+            <marker date="1562047445374" expanded="true" signature="1705:1862" ph="{...}" />
           </folding>
         </state>
       </provider>

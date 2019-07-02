@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="456e6233-4975-4150-8df0-3b6d122cfe35" name="Default Changelist" comment="" />
+    <list default="true" id="456e6233-4975-4150-8df0-3b6d122cfe35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,6 +165,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
