@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9003ecb2-2935-438c-8558-9c131333ed01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NextPermutation/.idea/.idea.NextPermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NextPermutation/.idea/.idea.NextPermutation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseString/.idea/.idea.ReverseString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString/.idea/.idea.ReverseString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,12 +117,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562135212536</updated>
-      <workItem from="1562135214266" duration="2067000" />
+      <workItem from="1562135214266" duration="2389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2067000" />
+    <option name="totallyTimeSpent" value="2389000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,7 +151,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

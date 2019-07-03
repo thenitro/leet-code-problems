@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2242268-11b7-4bd0-9dd0-7617d4ceb871" name="Default Changelist" comment="">
+    <list default="true" id="5ce7e0e1-0121-4872-9659-de5dc3fb0ed1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseVowelsOfString/.idea/.idea.ReverseVowelsOfString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseVowelsOfString/.idea/.idea.ReverseVowelsOfString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,25 +12,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs">
+        <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="279">
+              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
               <folding>
-                <marker date="1562137278770" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562137278770" expanded="true" signature="82:658" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="111:656" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="164:650" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="300:368" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="539:607" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="682:1176" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="739:1174" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="831:1134" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="942:1124" ph="{...}" />
-                <marker date="1562137278770" expanded="true" signature="1032:1110" ph="{...}" />
+                <marker date="1562142058431" expanded="false" signature="6:47" ph="..." />
+                <marker date="1562142058431" expanded="true" signature="83:653" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="112:651" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="165:645" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="298:366" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="534:602" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="677:1494" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="731:1492" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="914:998" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="1040:1124" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="1165:1452" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="1215:1442" ph="{...}" />
+                <marker date="1562142058431" expanded="true" signature="1326:1428" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="333" column="23" selection-start-line="333" selection-start-column="23" selection-end-line="333" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -41,12 +53,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs" />
+        <option value="$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,11 +73,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -90,14 +102,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays/bin/Debug/IntersectionOfTwoArrays.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays2/bin/Debug/IntersectionOfTwoArrays2.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntersectionOfTwoArrays/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntersectionOfTwoArrays2/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays/IntersectionOfTwoArrays.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays2/IntersectionOfTwoArrays2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +125,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e2242268-11b7-4bd0-9dd0-7617d4ceb871" name="Default Changelist" comment="" />
-      <created>1562137005087</created>
+      <changelist id="5ce7e0e1-0121-4872-9659-de5dc3fb0ed1" name="Default Changelist" comment="" />
+      <created>1562137494844</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562137005087</updated>
-      <workItem from="1562137006308" duration="622000" />
+      <updated>1562137494844</updated>
+      <workItem from="1562137496090" duration="132000" />
+      <workItem from="1562137724626" duration="3099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="622000" />
+    <option name="totallyTimeSpent" value="3231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,39 +149,40 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,27 +197,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="1447" column="20" selection-start-line="1447" selection-start-column="20" selection-end-line="1447" selection-end-column="20" />
+        <state relative-caret-position="333">
+          <caret line="333" column="23" selection-start-line="333" selection-start-column="23" selection-end-line="333" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs">
+    <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="279">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
-            <marker date="1562137278770" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562137278770" expanded="true" signature="82:658" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="111:656" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="164:650" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="300:368" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="539:607" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="682:1176" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="739:1174" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="831:1134" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="942:1124" ph="{...}" />
-            <marker date="1562137278770" expanded="true" signature="1032:1110" ph="{...}" />
+            <marker date="1562142058431" expanded="false" signature="6:47" ph="..." />
+            <marker date="1562142058431" expanded="true" signature="83:653" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="112:651" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="165:645" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="298:366" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="534:602" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="677:1494" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="731:1492" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="914:998" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="1040:1124" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="1165:1452" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="1215:1442" ph="{...}" />
+            <marker date="1562142058431" expanded="true" signature="1326:1428" ph="{...}" />
           </folding>
         </state>
       </provider>
