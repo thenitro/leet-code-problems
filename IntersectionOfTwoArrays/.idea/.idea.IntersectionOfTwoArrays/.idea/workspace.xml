@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78fb851b-576c-4033-a38b-923a8100e48c" name="Default Changelist" comment="">
+    <list default="true" id="e2242268-11b7-4bd0-9dd0-7617d4ceb871" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AllNodesDistanceKinBinaryTree/.idea/.idea.AllNodesDistanceKinBinaryTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NextPermutation/.idea/.idea.NextPermutation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NextPermutation/.idea/.idea.NextPermutation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfFour/.idea/.idea.PowerOfFour/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PowerOfThree/.idea/.idea.PowerOfThree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ReverseString/.idea/.idea.ReverseString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString/.idea/.idea.ReverseString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,19 +17,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PowerOfThree/Program.cs">
+        <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="690">
+              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding>
-                <marker date="1562046561186" expanded="true" signature="37:812" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="66:810" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="119:804" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="836:1140" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="875:1138" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="902:1132" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="936:993" ph="{...}" />
-                <marker date="1562046561186" expanded="true" signature="1040:1098" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562137278770" expanded="true" signature="82:658" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="111:656" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="164:650" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="300:368" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="539:607" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="682:1176" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="739:1174" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="831:1134" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="942:1124" ph="{...}" />
+                <marker date="1562137278770" expanded="true" signature="1032:1110" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,12 +44,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/PowerOfThree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PowerOfThree/Program.cs" />
+        <option value="$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs" />
       </list>
     </option>
   </component>
@@ -60,11 +65,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,14 +94,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/PowerOfThree/bin/Debug/PowerOfThree.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays/bin/Debug/IntersectionOfTwoArrays.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PowerOfThree/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntersectionOfTwoArrays/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PowerOfThree/PowerOfThree.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntersectionOfTwoArrays/IntersectionOfTwoArrays.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +117,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78fb851b-576c-4033-a38b-923a8100e48c" name="Default Changelist" comment="" />
-      <created>1562046115547</created>
+      <changelist id="e2242268-11b7-4bd0-9dd0-7617d4ceb871" name="Default Changelist" comment="" />
+      <created>1562137005087</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562046115547</updated>
-      <workItem from="1562046116818" duration="1140000" />
+      <updated>1562137005087</updated>
+      <workItem from="1562137006308" duration="276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1140000" />
+    <option name="totallyTimeSpent" value="276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,12 +140,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -149,10 +153,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,19 +184,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PowerOfThree/Program.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b5/9fb4fcc9/Array.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="299">
+          <caret line="1447" column="20" selection-start-line="1447" selection-start-column="20" selection-end-line="1447" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
           <folding>
-            <marker date="1562046561186" expanded="true" signature="37:812" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="66:810" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="119:804" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="836:1140" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="875:1138" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="902:1132" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="936:993" ph="{...}" />
-            <marker date="1562046561186" expanded="true" signature="1040:1098" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562137278770" expanded="true" signature="82:658" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="111:656" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="164:650" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="300:368" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="539:607" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="682:1176" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="739:1174" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="831:1134" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="942:1124" ph="{...}" />
+            <marker date="1562137278770" expanded="true" signature="1032:1110" ph="{...}" />
           </folding>
         </state>
       </provider>
