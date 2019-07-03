@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\ValidPerfectSquare.exe
+E:\code\leet-code-problems\ValidPerfectSquare\ValidPerfectSquare\bin\Debug\ValidPerfectSquare.pdb
+E:\code\leet-code-problems\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\ValidPerfectSquare.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\ValidPerfectSquare.exe
+E:\code\leet-code-problems\ValidPerfectSquare\ValidPerfectSquare\obj\Debug\ValidPerfectSquare.pdb

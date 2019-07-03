@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ce7e0e1-0121-4872-9659-de5dc3fb0ed1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntersectionOfTwoArrays/.idea/.idea.IntersectionOfTwoArrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseVowelsOfString/.idea/.idea.ReverseVowelsOfString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseVowelsOfString/.idea/.idea.ReverseVowelsOfString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+            <state relative-caret-position="354">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
               <folding>
                 <marker date="1562142058431" expanded="false" signature="6:47" ph="..." />
                 <marker date="1562142058431" expanded="true" signature="83:653" ph="{...}" />
@@ -131,12 +130,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562137494844</updated>
       <workItem from="1562137496090" duration="132000" />
-      <workItem from="1562137724626" duration="3099000" />
+      <workItem from="1562137724626" duration="3810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3231000" />
+    <option name="totallyTimeSpent" value="3942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -204,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IntersectionOfTwoArrays2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        <state relative-caret-position="354">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
           <folding>
             <marker date="1562142058431" expanded="false" signature="6:47" ph="..." />
             <marker date="1562142058431" expanded="true" signature="83:653" ph="{...}" />
