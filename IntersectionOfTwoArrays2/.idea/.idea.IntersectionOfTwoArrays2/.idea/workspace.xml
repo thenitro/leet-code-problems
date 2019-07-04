@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ce7e0e1-0121-4872-9659-de5dc3fb0ed1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidPerfectSquare/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPerfectSquare/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,12 +131,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562137494844</updated>
       <workItem from="1562137496090" duration="132000" />
-      <workItem from="1562137724626" duration="3810000" />
+      <workItem from="1562137724626" duration="4416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3942000" />
+    <option name="totallyTimeSpent" value="4548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
