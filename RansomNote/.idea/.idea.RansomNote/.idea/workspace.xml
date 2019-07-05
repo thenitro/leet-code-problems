@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b457369b-505b-4c6b-96d3-183f43c782e8" name="Default Changelist" comment="">
+    <list default="true" id="20e8052c-0fb3-4ddf-836a-c07ab6fff6af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../IntersectionOfTwoArrays2/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IntersectionOfTwoArrays2/.idea/.idea.IntersectionOfTwoArrays2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SumOfTwoIntegers/.idea/.idea.SumOfTwoIntegers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumOfTwoIntegers/.idea/.idea.SumOfTwoIntegers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidPerfectSquare/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPerfectSquare/.idea/.idea.ValidPerfectSquare/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,17 +15,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ValidPerfectSquare/Program.cs">
+        <entry file="file://$PROJECT_DIR$/RansomNote/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="30" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding>
-                <marker date="1562143947840" expanded="true" signature="43:612" ph="{...}" />
-                <marker date="1562143947840" expanded="true" signature="72:610" ph="{...}" />
-                <marker date="1562143947840" expanded="true" signature="125:604" ph="{...}" />
-                <marker date="1562143947840" expanded="true" signature="636:829" ph="{...}" />
-                <marker date="1562143947840" expanded="true" signature="678:827" ph="{...}" />
-                <marker date="1562143947840" expanded="true" signature="735:791" ph="{...}" />
+                <marker date="1562222512160" expanded="true" signature="20:130" ph="{...}" />
+                <marker date="1562222512160" expanded="true" signature="49:128" ph="{...}" />
+                <marker date="1562222512160" expanded="true" signature="102:122" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,16 +34,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ValidPerfectSquare/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RansomNote/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ValidPerfectSquare/Program.cs" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -57,11 +47,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,19 +76,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidPerfectSquare/bin/Debug/ValidPerfectSquare.exe" />
+      <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidPerfectSquare/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidPerfectSquare/ValidPerfectSquare.csproj" />
+      <option name="PROJECT_PATH" value="" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -109,17 +99,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b457369b-505b-4c6b-96d3-183f43c782e8" name="Default Changelist" comment="" />
-      <created>1562142861599</created>
+      <changelist id="20e8052c-0fb3-4ddf-836a-c07ab6fff6af" name="Default Changelist" comment="" />
+      <created>1562222497006</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562142861599</updated>
-      <workItem from="1562142863137" duration="2291000" />
+      <updated>1562222497006</updated>
+      <workItem from="1562222498333" duration="615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2291000" />
+    <option name="totallyTimeSpent" value="615000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,13 +121,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -146,10 +136,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,17 +167,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ValidPerfectSquare/Program.cs">
+    <entry file="file://$PROJECT_DIR$/RansomNote/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding>
-            <marker date="1562143947840" expanded="true" signature="43:612" ph="{...}" />
-            <marker date="1562143947840" expanded="true" signature="72:610" ph="{...}" />
-            <marker date="1562143947840" expanded="true" signature="125:604" ph="{...}" />
-            <marker date="1562143947840" expanded="true" signature="636:829" ph="{...}" />
-            <marker date="1562143947840" expanded="true" signature="678:827" ph="{...}" />
-            <marker date="1562143947840" expanded="true" signature="735:791" ph="{...}" />
+            <marker date="1562222512160" expanded="true" signature="20:130" ph="{...}" />
+            <marker date="1562222512160" expanded="true" signature="49:128" ph="{...}" />
+            <marker date="1562222512160" expanded="true" signature="102:122" ph="{...}" />
           </folding>
         </state>
       </provider>
