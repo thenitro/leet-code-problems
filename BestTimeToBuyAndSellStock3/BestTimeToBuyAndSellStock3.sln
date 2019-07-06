@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStock3", "BestTimeToBuyAndSellStock3\BestTimeToBuyAndSellStock3.csproj", "{4539D1F2-5EC0-4551-9514-F7E2CEB72184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4539D1F2-5EC0-4551-9514-F7E2CEB72184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4539D1F2-5EC0-4551-9514-F7E2CEB72184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4539D1F2-5EC0-4551-9514-F7E2CEB72184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4539D1F2-5EC0-4551-9514-F7E2CEB72184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
