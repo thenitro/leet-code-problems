@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d7ab50b-a225-44cd-9afb-3c50f386cf18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32108ab3-adeb-4f21-9799-59046fde52a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,22 +13,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AddStrings/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" selection-start-line="16" selection-end-line="69" selection-end-column="1" />
+            <state relative-caret-position="234">
+              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding>
-                <marker date="1562582229279" expanded="true" signature="35:452" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="64:450" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="117:444" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="476:1465" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="532:1271" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="706:1153" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="904:959" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="976:1031" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="1186:1241" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="1324:1463" ph="{...}" />
-                <marker date="1562582229279" expanded="true" signature="1353:1395" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562588231768" expanded="true" signature="75:1014" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="104:1012" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="157:1006" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1038:1739" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1081:1410" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1164:1382" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1255:1372" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1486:1737" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1577:1709" ph="{...}" />
+                <marker date="1562588231768" expanded="true" signature="1641:1699" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,12 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AddStrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AddStrings/Program.cs" />
+        <option value="$PROJECT_DIR$/ValidPalindrome2/Program.cs" />
       </list>
     </option>
   </component>
@@ -89,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/AddStrings/bin/Debug/AddStrings.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidPalindrome2/bin/Debug/ValidPalindrome2.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddStrings/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidPalindrome2/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddStrings/AddStrings.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidPalindrome2/ValidPalindrome2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d7ab50b-a225-44cd-9afb-3c50f386cf18" name="Default Changelist" comment="" />
-      <created>1562581631752</created>
+      <changelist id="32108ab3-adeb-4f21-9799-59046fde52a6" name="Default Changelist" comment="" />
+      <created>1562582519383</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562581631752</updated>
-      <workItem from="1562581633066" duration="1536000" />
+      <updated>1562582519383</updated>
+      <workItem from="1562582520582" duration="2737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1536000" />
+    <option name="totallyTimeSpent" value="2737000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,22 +181,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AddStrings/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" selection-start-line="16" selection-end-line="69" selection-end-column="1" />
+        <state relative-caret-position="234">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding>
-            <marker date="1562582229279" expanded="true" signature="35:452" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="64:450" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="117:444" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="476:1465" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="532:1271" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="706:1153" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="904:959" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="976:1031" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="1186:1241" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="1324:1463" ph="{...}" />
-            <marker date="1562582229279" expanded="true" signature="1353:1395" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562588231768" expanded="true" signature="75:1014" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="104:1012" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="157:1006" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1038:1739" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1081:1410" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1164:1382" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1255:1372" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1486:1737" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1577:1709" ph="{...}" />
+            <marker date="1562588231768" expanded="true" signature="1641:1699" ph="{...}" />
           </folding>
         </state>
       </provider>
