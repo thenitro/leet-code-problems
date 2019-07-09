@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee7b63a8-2772-40c4-bc79-6c87ceadfc63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
     </list>

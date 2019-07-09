@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50cdffb0-6f35-40f3-9da9-e6bdadbcfaa9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="133" column="31" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="31" />
+              <folding>
+                <marker date="1562662161713" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562662161713" expanded="true" signature="184:1656" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="213:1654" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="266:1359" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="366:585" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="464:571" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1412:1648" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1452:1504" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1680:1796" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1817:4980" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1904:3206" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="1936:1981" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="2188:3115" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="2355:2966" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="2407:2470" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="2588:2671" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="2692:2952" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3003:3073" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3294:4685" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3437:3556" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3489:3546" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3594:3639" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3873:4649" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="3936:4605" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4078:4546" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4260:4382" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4429:4528" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4745:4978" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4784:4829" ph="{...}" />
+                <marker date="1562662161713" expanded="true" signature="4865:4910" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/bin/Debug/SerializeAndDeserializeBinaryTree.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/SerializeAndDeserializeBinaryTree.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50cdffb0-6f35-40f3-9da9-e6bdadbcfaa9" name="Default Changelist" comment="" />
+      <created>1562656916015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562656916015</updated>
+      <workItem from="1562656917604" duration="4780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4780000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SerializeAndDeserializeBinaryTree/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="133" column="31" selection-start-line="133" selection-start-column="20" selection-end-line="133" selection-end-column="31" />
+          <folding>
+            <marker date="1562662161713" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562662161713" expanded="true" signature="184:1656" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="213:1654" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="266:1359" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="366:585" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="464:571" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1412:1648" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1452:1504" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1680:1796" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1817:4980" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1904:3206" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="1936:1981" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="2188:3115" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="2355:2966" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="2407:2470" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="2588:2671" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="2692:2952" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3003:3073" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3294:4685" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3437:3556" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3489:3546" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3594:3639" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3873:4649" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="3936:4605" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4078:4546" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4260:4382" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4429:4528" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4745:4978" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4784:4829" ph="{...}" />
+            <marker date="1562662161713" expanded="true" signature="4865:4910" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

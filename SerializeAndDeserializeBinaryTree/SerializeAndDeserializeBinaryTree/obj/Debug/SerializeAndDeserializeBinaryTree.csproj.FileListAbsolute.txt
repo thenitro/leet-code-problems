@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SerializeAndDeserializeBinaryTree\SerializeAndDeserializeBinaryTree\obj\Debug\SerializeAndDeserializeBinaryTree.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SerializeAndDeserializeBinaryTree\SerializeAndDeserializeBinaryTree\bin\Debug\SerializeAndDeserializeBinaryTree.exe
+E:\code\leet-code-problems\SerializeAndDeserializeBinaryTree\SerializeAndDeserializeBinaryTree\bin\Debug\SerializeAndDeserializeBinaryTree.pdb
+E:\code\leet-code-problems\SerializeAndDeserializeBinaryTree\SerializeAndDeserializeBinaryTree\obj\Debug\SerializeAndDeserializeBinaryTree.exe
+E:\code\leet-code-problems\SerializeAndDeserializeBinaryTree\SerializeAndDeserializeBinaryTree\obj\Debug\SerializeAndDeserializeBinaryTree.pdb
