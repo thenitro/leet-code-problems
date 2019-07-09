@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32108ab3-adeb-4f21-9799-59046fde52a6" name="Default Changelist" comment="">
+    <list default="true" id="ee7b63a8-2772-40c4-bc79-6c87ceadfc63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,22 +14,29 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
+        <entry file="file://$PROJECT_DIR$/AddAndSearchWord/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding>
-                <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562588231768" expanded="true" signature="75:1014" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="104:1012" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="157:1006" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1038:1739" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1081:1410" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1164:1382" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1255:1372" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1486:1737" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1577:1709" ph="{...}" />
-                <marker date="1562588231768" expanded="true" signature="1641:1699" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="41:546" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="70:544" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="123:538" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="575:2255" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="604:714" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="824:862" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="952:1291" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1021:1258" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1123:1206" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1461:1524" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1584:2253" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1621:1693" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1723:1878" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1891:2224" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="1960:2214" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="2020:2200" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="2101:2182" ph="{...}" />
+                <marker date="1562650444267" expanded="true" signature="2257:2439" ph="/* Your WordDictionary object will be instantiated and called as such: ... */" />
               </folding>
             </state>
           </provider>
@@ -41,12 +48,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddAndSearchWord/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ValidPalindrome2/Program.cs" />
+        <option value="$PROJECT_DIR$/AddAndSearchWord/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,11 +68,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -74,6 +81,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -90,14 +98,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidPalindrome2/bin/Debug/ValidPalindrome2.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AddAndSearchWord/bin/Debug/AddAndSearchWord.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidPalindrome2/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddAndSearchWord/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidPalindrome2/ValidPalindrome2.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddAndSearchWord/AddAndSearchWord.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +121,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32108ab3-adeb-4f21-9799-59046fde52a6" name="Default Changelist" comment="" />
-      <created>1562582519383</created>
+      <changelist id="ee7b63a8-2772-40c4-bc79-6c87ceadfc63" name="Default Changelist" comment="" />
+      <created>1562588432096</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562582519383</updated>
-      <workItem from="1562582520582" duration="3411000" />
+      <updated>1562588432096</updated>
+      <workItem from="1562588433187" duration="4813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3411000" />
+    <option name="totallyTimeSpent" value="4813000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,22 +190,29 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
+    <entry file="file://$PROJECT_DIR$/AddAndSearchWord/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="270">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding>
-            <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562588231768" expanded="true" signature="75:1014" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="104:1012" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="157:1006" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1038:1739" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1081:1410" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1164:1382" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1255:1372" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1486:1737" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1577:1709" ph="{...}" />
-            <marker date="1562588231768" expanded="true" signature="1641:1699" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="41:546" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="70:544" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="123:538" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="575:2255" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="604:714" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="824:862" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="952:1291" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1021:1258" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1123:1206" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1461:1524" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1584:2253" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1621:1693" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1723:1878" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1891:2224" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="1960:2214" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="2020:2200" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="2101:2182" ph="{...}" />
+            <marker date="1562650444267" expanded="true" signature="2257:2439" ph="/* Your WordDictionary object will be instantiated and called as such: ... */" />
           </folding>
         </state>
       </provider>
