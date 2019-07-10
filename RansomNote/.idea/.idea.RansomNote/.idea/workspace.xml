@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20e8052c-0fb3-4ddf-836a-c07ab6fff6af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FindFirstAndLastPositionOfElementInSortedArray/.idea/.idea.FindFirstAndLastPositionOfElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindFirstAndLastPositionOfElementInSortedArray/.idea/.idea.FindFirstAndLastPositionOfElementInSortedArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RansomNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RansomNote/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ValidSudoku/.idea/.idea.ValidSudoku/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidSudoku/.idea/.idea.ValidSudoku/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +152,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
