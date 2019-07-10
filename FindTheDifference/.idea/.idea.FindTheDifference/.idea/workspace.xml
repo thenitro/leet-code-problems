@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20e8052c-0fb3-4ddf-836a-c07ab6fff6af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RansomNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RansomNote/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,22 +11,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RansomNote/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+            <state relative-caret-position="99">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
               <folding>
-                <marker date="1562740161054" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562740161054" expanded="true" signature="69:700" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="98:698" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="151:692" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="723:1246" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="790:1244" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="887:986" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="1025:1216" ph="{...}" />
-                <marker date="1562740161054" expanded="true" signature="1100:1158" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
+                <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,21 +35,16 @@
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>bjaajgea</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/RansomNote/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FindTheDifference/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RansomNote/Program.cs" />
+        <option value="$PROJECT_DIR$/FindTheDifference/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,11 +59,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -92,14 +88,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/RansomNote/bin/Debug/RansomNote.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FindTheDifference/bin/Debug/FindTheDifference.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RansomNote/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindTheDifference/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RansomNote/RansomNote.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindTheDifference/FindTheDifference.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -115,18 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="20e8052c-0fb3-4ddf-836a-c07ab6fff6af" name="Default Changelist" comment="" />
-      <created>1562222497006</created>
+      <changelist id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="" />
+      <created>1562740868104</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562222497006</updated>
-      <workItem from="1562222498333" duration="615000" />
-      <workItem from="1562739148788" duration="2019000" />
+      <updated>1562740868104</updated>
+      <workItem from="1562740869314" duration="1176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2634000" />
+    <option name="totallyTimeSpent" value="1176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,11 +136,18 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12473348" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -154,25 +156,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,20 +180,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RansomNote/Program.cs">
+    <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        <state relative-caret-position="99">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
-            <marker date="1562740161054" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562740161054" expanded="true" signature="69:700" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="98:698" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="151:692" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="723:1246" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="790:1244" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="887:986" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="1025:1216" ph="{...}" />
-            <marker date="1562740161054" expanded="true" signature="1100:1158" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
+            <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
           </folding>
         </state>
       </provider>
