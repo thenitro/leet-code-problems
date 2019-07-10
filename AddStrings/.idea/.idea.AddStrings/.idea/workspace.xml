@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d7ab50b-a225-44cd-9afb-3c50f386cf18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SerializeAndDeserializeBinaryTree/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SerializeAndDeserializeBinaryTree/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,7 +154,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

@@ -4,6 +4,7 @@
     <list default="true" id="50cdffb0-6f35-40f3-9da9-e6bdadbcfaa9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ValidPalindrome2/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -138,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562656916015</updated>
-      <workItem from="1562656917604" duration="4780000" />
+      <workItem from="1562656917604" duration="5395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4780000" />
+    <option name="totallyTimeSpent" value="5395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -156,7 +157,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -173,7 +173,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

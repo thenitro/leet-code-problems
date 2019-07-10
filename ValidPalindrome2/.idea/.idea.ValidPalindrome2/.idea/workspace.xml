@@ -4,7 +4,7 @@
     <list default="true" id="32108ab3-adeb-4f21-9799-59046fde52a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddAndSearchWord/.idea/.idea.AddAndSearchWord/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AddStrings/.idea/.idea.AddStrings/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ValidPalindrome2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SerializeAndDeserializeBinaryTree/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SerializeAndDeserializeBinaryTree/.idea/.idea.SerializeAndDeserializeBinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="538">
               <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding>
                 <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />
@@ -154,7 +154,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,7 +185,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ValidPalindrome2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="538">
           <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding>
             <marker date="1562588231768" expanded="true" signature="6:47" ph="..." />

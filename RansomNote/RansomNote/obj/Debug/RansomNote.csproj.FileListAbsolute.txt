@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\RansomNote\RansomNote\bin\Debug\RansomNote.exe
+E:\code\leet-code-problems\RansomNote\RansomNote\bin\Debug\RansomNote.pdb
+E:\code\leet-code-problems\RansomNote\RansomNote\obj\Debug\RansomNote.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\RansomNote\RansomNote\obj\Debug\RansomNote.exe
+E:\code\leet-code-problems\RansomNote\RansomNote\obj\Debug\RansomNote.pdb
