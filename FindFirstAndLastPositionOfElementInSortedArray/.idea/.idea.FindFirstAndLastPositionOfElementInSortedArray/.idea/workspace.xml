@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FindTheDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FindTheDifference/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8670112b-778b-4201-8687-4e553cae1e2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,21 +15,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
-                <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="71:1079" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="100:1077" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="153:1071" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1103:2146" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1157:2144" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1214:1267" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1351:2100" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1454:1902" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1565:1629" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1760:1825" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="1955:2016" ph="{...}" />
+                <marker date="1562743462989" expanded="true" signature="2033:2090" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,12 +43,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FindTheDifference/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FindTheDifference/Program.cs" />
+        <option value="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,11 +63,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -90,14 +92,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FindTheDifference/bin/Debug/FindTheDifference.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/bin/Debug/FindFirstAndLastPositionOfElementInSortedArray.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindTheDifference/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindTheDifference/FindTheDifference.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/FindFirstAndLastPositionOfElementInSortedArray.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +115,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="" />
-      <created>1562740868104</created>
+      <changelist id="8670112b-778b-4201-8687-4e553cae1e2e" name="Default Changelist" comment="" />
+      <created>1562742496852</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562740868104</updated>
-      <workItem from="1562740869314" duration="2226000" />
+      <updated>1562742496852</updated>
+      <workItem from="1562742497931" duration="1848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2226000" />
+    <option name="totallyTimeSpent" value="1848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,21 +184,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
+    <entry file="file://$PROJECT_DIR$/FindFirstAndLastPositionOfElementInSortedArray/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
-            <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="71:1079" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="100:1077" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="153:1071" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1103:2146" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1157:2144" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1214:1267" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1351:2100" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1454:1902" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1565:1629" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1760:1825" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="1955:2016" ph="{...}" />
+            <marker date="1562743462989" expanded="true" signature="2033:2090" ph="{...}" />
           </folding>
         </state>
       </provider>

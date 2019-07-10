@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ValidSudoku\ValidSudoku\obj\Debug\ValidSudoku.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ValidSudoku\ValidSudoku\bin\Debug\ValidSudoku.exe
+E:\code\leet-code-problems\ValidSudoku\ValidSudoku\bin\Debug\ValidSudoku.pdb
+E:\code\leet-code-problems\ValidSudoku\ValidSudoku\obj\Debug\ValidSudoku.exe
+E:\code\leet-code-problems\ValidSudoku\ValidSudoku\obj\Debug\ValidSudoku.pdb

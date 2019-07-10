@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FindTheDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FindTheDifference/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7bca5ab2-e839-41a4-9179-c147fc81c3b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindTheDifference/.idea/.idea.FindTheDifference/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstUniqueCharacterInString/.idea/.idea.FirstUniqueCharacterInString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RansomNote/.idea/.idea.RansomNote/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -15,21 +15,32 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ValidSudoku/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="354">
+              <caret line="39" column="72" lean-forward="true" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
               <folding>
-                <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
-                <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="6:47" ph="..." />
+                <marker date="1562744449224" expanded="true" signature="70:3453" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="99:1231" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="152:1225" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="312:1212" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1258:3451" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1314:3445" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1364:2233" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1422:2219" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1539:2201" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1613:2179" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1762:1864" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="1922:2104" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2274:2821" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2379:2807" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2488:2566" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2616:2748" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2862:3409" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="2967:3395" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="3076:3154" ph="{...}" />
+                <marker date="1562744449224" expanded="true" signature="3204:3336" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,16 +48,24 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FindTheDifference/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ValidSudoku/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FindTheDifference/Program.cs" />
+        <option value="$PROJECT_DIR$/ValidSudoku/Program.cs" />
       </list>
     </option>
   </component>
@@ -90,14 +109,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FindTheDifference/bin/Debug/FindTheDifference.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ValidSudoku/bin/Debug/ValidSudoku.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindTheDifference/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ValidSudoku/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindTheDifference/FindTheDifference.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ValidSudoku/ValidSudoku.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +132,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a4e2215-596c-4366-8d97-4a6f2a0dd0cc" name="Default Changelist" comment="" />
-      <created>1562740868104</created>
+      <changelist id="7bca5ab2-e839-41a4-9179-c147fc81c3b4" name="Default Changelist" comment="" />
+      <created>1562743747291</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562740868104</updated>
-      <workItem from="1562740869314" duration="2226000" />
+      <updated>1562743747291</updated>
+      <workItem from="1562743748643" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2226000" />
+    <option name="totallyTimeSpent" value="708000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -182,21 +201,32 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FindTheDifference/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ValidSudoku/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="354">
+          <caret line="39" column="72" lean-forward="true" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
           <folding>
-            <marker date="1562742043014" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562742043014" expanded="true" signature="118:400" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="147:398" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="200:392" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="424:1048" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="479:1046" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="662:743" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="777:858" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="892:1001" ph="{...}" />
-            <marker date="1562742043014" expanded="true" signature="932:991" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="6:47" ph="..." />
+            <marker date="1562744449224" expanded="true" signature="70:3453" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="99:1231" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="152:1225" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="312:1212" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1258:3451" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1314:3445" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1364:2233" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1422:2219" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1539:2201" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1613:2179" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1762:1864" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="1922:2104" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2274:2821" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2379:2807" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2488:2566" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2616:2748" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2862:3409" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="2967:3395" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="3076:3154" ph="{...}" />
+            <marker date="1562744449224" expanded="true" signature="3204:3336" ph="{...}" />
           </folding>
         </state>
       </provider>
