@@ -49,7 +49,7 @@ public class Solution {
         {
             if (temp.Contains(nums[i]))
             {
-                continue;
+                continue;    
             }
             
             temp.Add(nums[i]);
