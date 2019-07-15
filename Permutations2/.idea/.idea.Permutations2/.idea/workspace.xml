@@ -20,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Permutations2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="658">
               <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
                 <marker date="1562826194828" expanded="true" signature="6:47" ph="..." />
@@ -160,7 +160,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,7 +191,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Permutations2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="658">
           <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <marker date="1562826194828" expanded="true" signature="6:47" ph="..." />
