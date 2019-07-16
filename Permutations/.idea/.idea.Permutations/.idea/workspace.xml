@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62759228-4205-496d-be1d-6bbc76e0b938" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Permutations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Permutations/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Permutations2/.idea/.idea.Permutations2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations2/.idea/.idea.Permutations2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Permutations2/Permutations2/bin/Debug/Permutations2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations2/Permutations2/bin/Debug/Permutations2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Permutations2/Permutations2/bin/Debug/Permutations2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations2/Permutations2/bin/Debug/Permutations2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Permutations2/Permutations2/obj/Debug/Permutations2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations2/Permutations2/obj/Debug/Permutations2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Permutations2/Permutations2/obj/Debug/Permutations2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations2/Permutations2/obj/Debug/Permutations2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SumOfLeftLeaves/.idea/.idea.SumOfLeftLeaves/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SumOfLeftLeaves/.idea/.idea.SumOfLeftLeaves/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

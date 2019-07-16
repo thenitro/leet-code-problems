@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ConvertNumberToHexadecimal\ConvertNumberToHexadecimal\bin\Debug\ConvertNumberToHexadecimal.exe
+E:\code\leet-code-problems\ConvertNumberToHexadecimal\ConvertNumberToHexadecimal\bin\Debug\ConvertNumberToHexadecimal.pdb
+E:\code\leet-code-problems\ConvertNumberToHexadecimal\ConvertNumberToHexadecimal\obj\Debug\ConvertNumberToHexadecimal.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ConvertNumberToHexadecimal\ConvertNumberToHexadecimal\obj\Debug\ConvertNumberToHexadecimal.exe
+E:\code\leet-code-problems\ConvertNumberToHexadecimal\ConvertNumberToHexadecimal\obj\Debug\ConvertNumberToHexadecimal.pdb
