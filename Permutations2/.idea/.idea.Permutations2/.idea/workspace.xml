@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c435963e-3929-403b-8a2a-6c797c467597" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CombinationSum/.idea/.idea.CombinationSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CombinationSum/.idea/.idea.CombinationSum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CombinationSum2/.idea/.idea.CombinationSum2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CombinationSum2/.idea/.idea.CombinationSum2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Combinations/.idea/.idea.Combinations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Combinations/.idea/.idea.Combinations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PermutationSequence/.idea/.idea.PermutationSequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PermutationSequence/.idea/.idea.PermutationSequence/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Permutations/.idea/.idea.Permutations/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Permutations2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Permutations2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations2/bin/Debug/Permutations2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Permutations2/bin/Debug/Permutations2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations2/bin/Debug/Permutations2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Permutations2/bin/Debug/Permutations2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations2/obj/Debug/Permutations2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Permutations2/obj/Debug/Permutations2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Permutations2/obj/Debug/Permutations2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Permutations2/obj/Debug/Permutations2.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,27 +16,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Permutations2/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
+            <state relative-caret-position="339">
+              <caret line="63" column="63" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
               <folding>
-                <marker date="1562826194828" expanded="true" signature="6:47" ph="..." />
-                <marker date="1562826194828" expanded="true" signature="72:488" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="101:486" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="154:480" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="287:470" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="338:418" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="511:1596" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="568:848" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="666:714" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="940:1594" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="985:1137" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="1184:1588" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="1222:1276" ph="{...}" />
-                <marker date="1562826194828" expanded="true" signature="1528:1577" ph="{...}" />
+                <marker date="1563254610238" expanded="false" signature="6:47" ph="..." />
+                <marker date="1563254610238" expanded="true" signature="72:488" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="101:486" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="154:480" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="287:470" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="338:418" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="511:1596" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="568:848" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="666:714" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="940:1594" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="985:1137" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="1184:1588" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="1222:1276" ph="{...}" />
+                <marker date="1563254610238" expanded="true" signature="1528:1577" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -57,10 +57,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -68,11 +69,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,11 +127,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562824711338</updated>
       <workItem from="1562824712414" duration="5016000" />
+      <workItem from="1563254429272" duration="830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5016000" />
+    <option name="totallyTimeSpent" value="5846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -142,41 +144,40 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12473348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,23 +192,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Permutations2/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="339">
+          <caret line="63" column="63" selection-start-line="63" selection-start-column="63" selection-end-line="63" selection-end-column="63" />
           <folding>
-            <marker date="1562826194828" expanded="true" signature="6:47" ph="..." />
-            <marker date="1562826194828" expanded="true" signature="72:488" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="101:486" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="154:480" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="287:470" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="338:418" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="511:1596" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="568:848" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="666:714" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="940:1594" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="985:1137" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="1184:1588" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="1222:1276" ph="{...}" />
-            <marker date="1562826194828" expanded="true" signature="1528:1577" ph="{...}" />
+            <marker date="1563254610238" expanded="false" signature="6:47" ph="..." />
+            <marker date="1563254610238" expanded="true" signature="72:488" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="101:486" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="154:480" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="287:470" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="338:418" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="511:1596" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="568:848" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="666:714" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="940:1594" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="985:1137" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="1184:1588" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="1222:1276" ph="{...}" />
+            <marker date="1563254610238" expanded="true" signature="1528:1577" ph="{...}" />
           </folding>
         </state>
       </provider>
