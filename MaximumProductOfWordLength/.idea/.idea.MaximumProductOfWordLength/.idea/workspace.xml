@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25299773-d55a-4f51-be00-d2be916d9aa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bfffb79c-c397-4978-8b9d-8997249304ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,27 +14,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryWatch/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <marker date="1563255714330" expanded="false" signature="6:105" ph="..." />
-                <marker date="1563255714330" expanded="true" signature="128:619" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="157:617" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="210:611" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="643:2358" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="694:1011" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="786:838" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1060:1438" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1155:1208" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1317:1370" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1533:2356" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1585:1832" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1704:1756" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1886:2350" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1924:1978" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="2291:2340" ph="{...}" />
+                <marker date="1563430190991" expanded="false" signature="6:47" ph="..." />
+                <marker date="1563430190991" expanded="true" signature="85:526" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="114:524" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="167:518" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="549:1401" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="593:1399" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="647:689" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="795:999" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="912:989" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="1067:1365" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="1123:1355" ph="{...}" />
+                <marker date="1563430190991" expanded="true" signature="1237:1341" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,12 +42,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BinaryWatch/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41214D29-AEF2-49F2-BACE-2A17F5BF98F7/8a/a2701e34/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryWatch/Program.cs" />
+        <option value="$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs" />
       </list>
     </option>
   </component>
@@ -96,14 +93,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/BinaryWatch/bin/Debug/BinaryWatch.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MaximumProductOfWordLength/bin/Debug/MaximumProductOfWordLength.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryWatch/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaximumProductOfWordLength/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinaryWatch/BinaryWatch.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MaximumProductOfWordLength/MaximumProductOfWordLength.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -119,18 +116,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25299773-d55a-4f51-be00-d2be916d9aa1" name="Default Changelist" comment="" />
-      <created>1563253582725</created>
+      <changelist id="bfffb79c-c397-4978-8b9d-8997249304ad" name="Default Changelist" comment="" />
+      <created>1563343003382</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563253582725</updated>
-      <workItem from="1563253584321" duration="3500000" />
-      <workItem from="1563261501625" duration="3294000" />
+      <updated>1563343003382</updated>
+      <workItem from="1563343004631" duration="1588000" />
+      <workItem from="1563429959787" duration="918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6794000" />
+    <option name="totallyTimeSpent" value="2506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,7 +140,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -152,7 +148,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18959913" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,27 +185,30 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryWatch/Program.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41214D29-AEF2-49F2-BACE-2A17F5BF98F7/8a/a2701e34/HashSet`1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        <state relative-caret-position="-13305">
+          <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <marker date="1563255714330" expanded="false" signature="6:105" ph="..." />
-            <marker date="1563255714330" expanded="true" signature="128:619" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="157:617" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="210:611" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="643:2358" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="694:1011" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="786:838" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1060:1438" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1155:1208" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1317:1370" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1533:2356" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1585:1832" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1704:1756" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1886:2350" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1924:1978" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="2291:2340" ph="{...}" />
+            <marker date="1563430190991" expanded="false" signature="6:47" ph="..." />
+            <marker date="1563430190991" expanded="true" signature="85:526" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="114:524" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="167:518" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="549:1401" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="593:1399" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="647:689" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="795:999" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="912:989" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="1067:1365" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="1123:1355" ph="{...}" />
+            <marker date="1563430190991" expanded="true" signature="1237:1341" ph="{...}" />
           </folding>
         </state>
       </provider>

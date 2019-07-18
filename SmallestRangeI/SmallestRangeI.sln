@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestRangeI", "SmallestRangeI\SmallestRangeI.csproj", "{CADECC82-F2ED-466D-91E7-EB79B5B93937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADECC82-F2ED-466D-91E7-EB79B5B93937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADECC82-F2ED-466D-91E7-EB79B5B93937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADECC82-F2ED-466D-91E7-EB79B5B93937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADECC82-F2ED-466D-91E7-EB79B5B93937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

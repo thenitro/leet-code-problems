@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25299773-d55a-4f51-be00-d2be916d9aa1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0b097cf8-57c7-4bea-8ed9-c8e6758155ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,29 +12,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryWatch/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SmallestRangeI/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
               <folding>
-                <marker date="1563255714330" expanded="false" signature="6:105" ph="..." />
-                <marker date="1563255714330" expanded="true" signature="128:619" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="157:617" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="210:611" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="643:2358" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="694:1011" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="786:838" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1060:1438" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1155:1208" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1317:1370" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1533:2356" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1585:1832" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1704:1756" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1886:2350" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="1924:1978" ph="{...}" />
-                <marker date="1563255714330" expanded="true" signature="2291:2340" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="39:420" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="68:418" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="121:412" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="444:723" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="491:721" ph="{...}" />
+                <marker date="1563430978386" expanded="true" signature="575:667" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -46,12 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BinaryWatch/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SmallestRangeI/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryWatch/Program.cs" />
+        <option value="$PROJECT_DIR$/SmallestRangeI/Program.cs" />
       </list>
     </option>
   </component>
@@ -67,11 +57,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -96,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/BinaryWatch/bin/Debug/BinaryWatch.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SmallestRangeI/bin/Debug/SmallestRangeI.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryWatch/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SmallestRangeI/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinaryWatch/BinaryWatch.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SmallestRangeI/SmallestRangeI.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -119,18 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="25299773-d55a-4f51-be00-d2be916d9aa1" name="Default Changelist" comment="" />
-      <created>1563253582725</created>
+      <changelist id="0b097cf8-57c7-4bea-8ed9-c8e6758155ca" name="Default Changelist" comment="" />
+      <created>1563430278417</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563253582725</updated>
-      <workItem from="1563253584321" duration="3500000" />
-      <workItem from="1563261501625" duration="3294000" />
+      <updated>1563430278417</updated>
+      <workItem from="1563430279800" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6794000" />
+    <option name="totallyTimeSpent" value="701000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,40 +132,38 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.18959913" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -189,27 +176,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryWatch/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SmallestRangeI/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding>
-            <marker date="1563255714330" expanded="false" signature="6:105" ph="..." />
-            <marker date="1563255714330" expanded="true" signature="128:619" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="157:617" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="210:611" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="643:2358" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="694:1011" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="786:838" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1060:1438" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1155:1208" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1317:1370" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1533:2356" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1585:1832" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1704:1756" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1886:2350" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="1924:1978" ph="{...}" />
-            <marker date="1563255714330" expanded="true" signature="2291:2340" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="39:420" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="68:418" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="121:412" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="444:723" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="491:721" ph="{...}" />
+            <marker date="1563430978386" expanded="true" signature="575:667" ph="{...}" />
           </folding>
         </state>
       </provider>

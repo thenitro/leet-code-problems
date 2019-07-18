@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SmallestRangeI\SmallestRangeI\bin\Debug\SmallestRangeI.exe
+E:\code\leet-code-problems\SmallestRangeI\SmallestRangeI\bin\Debug\SmallestRangeI.pdb
+E:\code\leet-code-problems\SmallestRangeI\SmallestRangeI\obj\Debug\SmallestRangeI.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SmallestRangeI\SmallestRangeI\obj\Debug\SmallestRangeI.exe
+E:\code\leet-code-problems\SmallestRangeI\SmallestRangeI\obj\Debug\SmallestRangeI.pdb
