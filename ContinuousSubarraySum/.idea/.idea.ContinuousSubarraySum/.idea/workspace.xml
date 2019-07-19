@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e790f5d4-edf9-45c1-90cf-67909a0de589" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReconstructOriginalDigitsFromEnglish/.idea/.idea.ReconstructOriginalDigitsFromEnglish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReconstructOriginalDigitsFromEnglish/.idea/.idea.ReconstructOriginalDigitsFromEnglish/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SmallestRangeI/.idea/.idea.SmallestRangeI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallestRangeI/.idea/.idea.SmallestRangeI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            <state relative-caret-position="615">
+              <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
               <folding>
                 <marker date="1563523650756" expanded="true" signature="6:47" ph="..." />
                 <marker date="1563523650756" expanded="true" signature="80:388" ph="{...}" />
@@ -119,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563523452422</updated>
-      <workItem from="1563523453998" duration="454000" />
+      <workItem from="1563523453998" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454000" />
+    <option name="totallyTimeSpent" value="503000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +155,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,8 +186,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ContinuousSubarraySum/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="615">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
           <folding>
             <marker date="1563523650756" expanded="true" signature="6:47" ph="..." />
             <marker date="1563523650756" expanded="true" signature="80:388" ph="{...}" />

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b097cf8-57c7-4bea-8ed9-c8e6758155ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ContinuousSubarraySum/.idea/.idea.ContinuousSubarraySum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ContinuousSubarraySum/.idea/.idea.ContinuousSubarraySum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SmallestRangeI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SmallestRangeI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReconstructOriginalDigitsFromEnglish/.idea/.idea.ReconstructOriginalDigitsFromEnglish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReconstructOriginalDigitsFromEnglish/.idea/.idea.ReconstructOriginalDigitsFromEnglish/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +133,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -149,7 +149,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
