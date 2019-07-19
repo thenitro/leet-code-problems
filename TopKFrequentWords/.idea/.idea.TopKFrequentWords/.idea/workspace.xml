@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d17470-979a-426f-9b46-9f44368896d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryTreeInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryTreeInorderTraversal/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ec747c32-d985-41f6-8620-01a2024f6c2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BinaryTreeInorderTraversal/.idea/.idea.BinaryTreeInorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreeInorderTraversal/.idea/.idea.BinaryTreeInorderTraversal/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +13,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal/Program.cs">
+        <entry file="file://$PROJECT_DIR$/TopKFrequentWords/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            <state relative-caret-position="645">
+              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
               <folding>
-                <marker date="1563524796899" expanded="true" signature="6:39" ph="..." />
-                <marker date="1563524796899" expanded="true" signature="129:532" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="158:530" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="211:524" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="307:441" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="365:427" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="556:672" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="696:1166" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="751:1164" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="887:1134" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="930:1026" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="1191:1608" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="1246:1353" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="1413:1605" ph="{...}" />
-                <marker date="1563524796899" expanded="true" signature="1445:1485" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="6:47" ph="..." />
+                <marker date="1563525811870" expanded="true" signature="114:613" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="143:611" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="196:605" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="637:1299" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="700:1297" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="788:878" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="977:1022" ph="{...}" />
+                <marker date="1563525811870" expanded="true" signature="1215:1267" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TopKFrequentWords/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryTreeInorderTraversal/Program.cs" />
+        <option value="$PROJECT_DIR$/TopKFrequentWords/Program.cs" />
       </list>
     </option>
   </component>
@@ -94,14 +88,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/BinaryTreeInorderTraversal/bin/Debug/BinaryTreeInorderTraversal.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TopKFrequentWords/bin/Debug/TopKFrequentWords.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTreeInorderTraversal/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TopKFrequentWords/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TopKFrequentWords/TopKFrequentWords.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -117,17 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b0d17470-979a-426f-9b46-9f44368896d1" name="Default Changelist" comment="" />
-      <created>1563523974386</created>
+      <changelist id="ec747c32-d985-41f6-8620-01a2024f6c2b" name="Default Changelist" comment="" />
+      <created>1563525075249</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563523974386</updated>
-      <workItem from="1563523975545" duration="1699000" />
+      <updated>1563525075249</updated>
+      <workItem from="1563525076433" duration="739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1699000" />
+    <option name="totallyTimeSpent" value="739000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -144,7 +138,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -153,10 +147,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -185,26 +178,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinaryTreeInorderTraversal/Program.cs">
+    <entry file="file://$PROJECT_DIR$/TopKFrequentWords/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        <state relative-caret-position="645">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding>
-            <marker date="1563524796899" expanded="true" signature="6:39" ph="..." />
-            <marker date="1563524796899" expanded="true" signature="129:532" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="158:530" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="211:524" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="307:441" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="365:427" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="556:672" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="696:1166" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="751:1164" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="887:1134" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="930:1026" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="1191:1608" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="1246:1353" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="1413:1605" ph="{...}" />
-            <marker date="1563524796899" expanded="true" signature="1445:1485" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="6:47" ph="..." />
+            <marker date="1563525811870" expanded="true" signature="114:613" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="143:611" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="196:605" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="637:1299" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="700:1297" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="788:878" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="977:1022" ph="{...}" />
+            <marker date="1563525811870" expanded="true" signature="1215:1267" ph="{...}" />
           </folding>
         </state>
       </provider>

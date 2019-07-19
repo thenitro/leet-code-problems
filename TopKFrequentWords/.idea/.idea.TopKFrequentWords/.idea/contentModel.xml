@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TimurKoshel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TopKFrequentWords.588417347.00" t="ExcludeRecursive" />
+    <e p="E:\code\leet-code-problems\TopKFrequentWords" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TopKFrequentWords" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TopKFrequentWords.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TopKFrequentWords.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
