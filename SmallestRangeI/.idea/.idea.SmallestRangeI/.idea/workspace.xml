@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b097cf8-57c7-4bea-8ed9-c8e6758155ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryWatch/.idea/.idea.BinaryWatch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConvertNumberToHexadecimal/.idea/.idea.ConvertNumberToHexadecimal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SmallestRangeI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SmallestRangeI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +16,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SmallestRangeI/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+            <state relative-caret-position="240">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
               <folding>
-                <marker date="1563430978386" expanded="true" signature="39:420" ph="{...}" />
-                <marker date="1563430978386" expanded="true" signature="68:418" ph="{...}" />
-                <marker date="1563430978386" expanded="true" signature="121:412" ph="{...}" />
-                <marker date="1563430978386" expanded="true" signature="444:723" ph="{...}" />
-                <marker date="1563430978386" expanded="true" signature="491:721" ph="{...}" />
-                <marker date="1563430978386" expanded="true" signature="575:667" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="39:420" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="68:418" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="121:412" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="444:723" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="491:721" ph="{...}" />
+                <marker date="1563431075578" expanded="true" signature="575:667" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563430278417</updated>
-      <workItem from="1563430279800" duration="701000" />
+      <workItem from="1563430279800" duration="2009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="701000" />
+    <option name="totallyTimeSpent" value="2009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -132,11 +132,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -145,9 +146,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,15 +180,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SmallestRangeI/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding>
-            <marker date="1563430978386" expanded="true" signature="39:420" ph="{...}" />
-            <marker date="1563430978386" expanded="true" signature="68:418" ph="{...}" />
-            <marker date="1563430978386" expanded="true" signature="121:412" ph="{...}" />
-            <marker date="1563430978386" expanded="true" signature="444:723" ph="{...}" />
-            <marker date="1563430978386" expanded="true" signature="491:721" ph="{...}" />
-            <marker date="1563430978386" expanded="true" signature="575:667" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="39:420" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="68:418" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="121:412" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="444:723" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="491:721" ph="{...}" />
+            <marker date="1563431075578" expanded="true" signature="575:667" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfffb79c-c397-4978-8b9d-8997249304ad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5313c563-e6d8-416b-a085-1142cb140033" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaximumProductOfWordLength/.idea/.idea.MaximumProductOfWordLength/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SmallestRangeI/.idea/.idea.SmallestRangeI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallestRangeI/.idea/.idea.SmallestRangeI/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,25 +12,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
-                <marker date="1563430190991" expanded="false" signature="6:47" ph="..." />
-                <marker date="1563430190991" expanded="true" signature="85:526" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="114:524" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="167:518" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="549:1401" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="593:1399" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="647:689" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="795:999" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="912:989" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="1067:1365" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="1123:1355" ph="{...}" />
-                <marker date="1563430190991" expanded="true" signature="1237:1341" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="6:47" ph="..." />
+                <marker date="1563433032777" expanded="true" signature="114:391" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="143:389" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="196:383" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="415:1384" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="459:1382" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="528:928" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="1220:1345" ph="{...}" />
+                <marker date="1563433032777" expanded="true" signature="1277:1335" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,13 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41214D29-AEF2-49F2-BACE-2A17F5BF98F7/8a/a2701e34/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs" />
+        <option value="$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/Program.cs" />
       </list>
     </option>
   </component>
@@ -93,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MaximumProductOfWordLength/bin/Debug/MaximumProductOfWordLength.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/bin/Debug/ReconstructOriginalDigitsFromEnglish.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaximumProductOfWordLength/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MaximumProductOfWordLength/MaximumProductOfWordLength.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/ReconstructOriginalDigitsFromEnglish.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -116,18 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bfffb79c-c397-4978-8b9d-8997249304ad" name="Default Changelist" comment="" />
-      <created>1563343003382</created>
+      <changelist id="5313c563-e6d8-416b-a085-1142cb140033" name="Default Changelist" comment="" />
+      <created>1563431370237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563343003382</updated>
-      <workItem from="1563343004631" duration="1588000" />
-      <workItem from="1563429959787" duration="1783000" />
+      <updated>1563431370237</updated>
+      <workItem from="1563431371552" duration="3849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3371000" />
+    <option name="totallyTimeSpent" value="3849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -142,11 +137,19 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
@@ -154,26 +157,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Errors In Solution" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,30 +181,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41214D29-AEF2-49F2-BACE-2A17F5BF98F7/8a/a2701e34/HashSet`1.cs">
+    <entry file="file://$PROJECT_DIR$/ReconstructOriginalDigitsFromEnglish/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13305">
-          <caret line="160" column="23" lean-forward="true" selection-start-line="160" selection-start-column="23" selection-end-line="160" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumProductOfWordLength/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
-            <marker date="1563430190991" expanded="false" signature="6:47" ph="..." />
-            <marker date="1563430190991" expanded="true" signature="85:526" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="114:524" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="167:518" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="549:1401" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="593:1399" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="647:689" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="795:999" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="912:989" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="1067:1365" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="1123:1355" ph="{...}" />
-            <marker date="1563430190991" expanded="true" signature="1237:1341" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="6:47" ph="..." />
+            <marker date="1563433032777" expanded="true" signature="114:391" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="143:389" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="196:383" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="415:1384" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="459:1382" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="528:928" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="1220:1345" ph="{...}" />
+            <marker date="1563433032777" expanded="true" signature="1277:1335" ph="{...}" />
           </folding>
         </state>
       </provider>
