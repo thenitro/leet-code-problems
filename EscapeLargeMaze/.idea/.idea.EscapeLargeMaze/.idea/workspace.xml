@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79999df2-aaa8-4377-a2d0-f0b3b5cdcc12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WordLadder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordLadder/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a67d73e-821d-4ad1-ba8a-773e25e6410b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WordLadder/.idea/.idea.WordLadder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordLadder/.idea/.idea.WordLadder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordSearch/.idea/.idea.WordSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordSearch/.idea/.idea.WordSearch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,25 +14,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WordLadder/Program.cs">
+        <entry file="file://$PROJECT_DIR$/EscapeLargeMaze/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="345">
+              <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
               <folding>
-                <marker date="1564466395157" expanded="true" signature="6:47" ph="..." />
-                <marker date="1564466395157" expanded="true" signature="69:524" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="98:522" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="151:516" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="547:2483" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="635:2481" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="796:1225" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="855:1215" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1491:2456" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1675:2446" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1862:1928" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2009:2432" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2081:2167" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2228:2414" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="6:47" ph="..." />
+                <marker date="1564488911423" expanded="true" signature="74:1529" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="103:1527" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="156:1521" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="797:1391" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="1552:3193" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="1632:2094" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="1671:1716" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="1813:1888" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2206:3191" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2321:2366" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2404:3162" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2455:3152" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2517:2583" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2739:2805" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="2925:2991" ph="{...}" />
+                <marker date="1564488911423" expanded="true" signature="3069:3138" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,16 +47,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordLadder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EscapeLargeMaze/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordLadder/Program.cs" />
+        <option value="$PROJECT_DIR$/EscapeLargeMaze/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -94,14 +97,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordLadder/bin/Debug/WordLadder.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/EscapeLargeMaze/bin/Debug/EscapeLargeMaze.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordLadder/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EscapeLargeMaze/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordLadder/WordLadder.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EscapeLargeMaze/EscapeLargeMaze.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -117,17 +120,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79999df2-aaa8-4377-a2d0-f0b3b5cdcc12" name="Default Changelist" comment="" />
-      <created>1564465172274</created>
+      <changelist id="4a67d73e-821d-4ad1-ba8a-773e25e6410b" name="Default Changelist" comment="" />
+      <created>1564486924179</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564465172274</updated>
-      <workItem from="1564465173766" duration="2475000" />
+      <updated>1564486924179</updated>
+      <workItem from="1564486925299" duration="3253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2475000" />
+    <option name="totallyTimeSpent" value="3253000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +142,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -185,25 +188,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WordLadder/Program.cs">
+    <entry file="file://$PROJECT_DIR$/EscapeLargeMaze/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="345">
+          <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
           <folding>
-            <marker date="1564466395157" expanded="true" signature="6:47" ph="..." />
-            <marker date="1564466395157" expanded="true" signature="69:524" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="98:522" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="151:516" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="547:2483" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="635:2481" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="796:1225" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="855:1215" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1491:2456" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1675:2446" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1862:1928" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2009:2432" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2081:2167" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2228:2414" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="6:47" ph="..." />
+            <marker date="1564488911423" expanded="true" signature="74:1529" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="103:1527" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="156:1521" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="797:1391" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="1552:3193" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="1632:2094" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="1671:1716" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="1813:1888" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2206:3191" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2321:2366" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2404:3162" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2455:3152" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2517:2583" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2739:2805" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="2925:2991" ph="{...}" />
+            <marker date="1564488911423" expanded="true" signature="3069:3138" ph="{...}" />
           </folding>
         </state>
       </provider>

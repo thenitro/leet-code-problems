@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79999df2-aaa8-4377-a2d0-f0b3b5cdcc12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WordLadder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WordLadder/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f3797d38-5523-43a6-97d6-b5f9136ba15c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WordLadder/.idea/.idea.WordLadder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordLadder/.idea/.idea.WordLadder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WordSearch/.idea/.idea.WordSearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WordSearch/.idea/.idea.WordSearch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,25 +14,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WordLadder/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LongestAbsoluteFilePath/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
               <folding>
-                <marker date="1564466395157" expanded="true" signature="6:47" ph="..." />
-                <marker date="1564466395157" expanded="true" signature="69:524" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="98:522" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="151:516" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="547:2483" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="635:2481" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="796:1225" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="855:1215" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1491:2456" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1675:2446" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="1862:1928" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2009:2432" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2081:2167" ph="{...}" />
-                <marker date="1564466395157" expanded="true" signature="2228:2414" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="6:47" ph="..." />
+                <marker date="1564476902364" expanded="true" signature="82:470" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="111:468" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="164:462" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="494:1151" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="542:1149" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="689:1108" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="807:864" ph="{...}" />
+                <marker date="1564476902364" expanded="true" signature="1009:1098" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -44,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WordLadder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LongestAbsoluteFilePath/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WordLadder/Program.cs" />
+        <option value="$PROJECT_DIR$/LongestAbsoluteFilePath/Program.cs" />
       </list>
     </option>
   </component>
@@ -65,11 +60,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/WordLadder/bin/Debug/WordLadder.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LongestAbsoluteFilePath/bin/Debug/LongestAbsoluteFilePath.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WordLadder/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LongestAbsoluteFilePath/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WordLadder/WordLadder.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LongestAbsoluteFilePath/LongestAbsoluteFilePath.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -117,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="79999df2-aaa8-4377-a2d0-f0b3b5cdcc12" name="Default Changelist" comment="" />
-      <created>1564465172274</created>
+      <changelist id="f3797d38-5523-43a6-97d6-b5f9136ba15c" name="Default Changelist" comment="" />
+      <created>1564476382558</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564465172274</updated>
-      <workItem from="1564465173766" duration="2475000" />
+      <updated>1564476382558</updated>
+      <workItem from="1564476384080" duration="1223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2475000" />
+    <option name="totallyTimeSpent" value="1223000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,25 +180,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WordLadder/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LongestAbsoluteFilePath/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="495">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
           <folding>
-            <marker date="1564466395157" expanded="true" signature="6:47" ph="..." />
-            <marker date="1564466395157" expanded="true" signature="69:524" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="98:522" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="151:516" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="547:2483" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="635:2481" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="796:1225" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="855:1215" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1491:2456" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1675:2446" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="1862:1928" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2009:2432" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2081:2167" ph="{...}" />
-            <marker date="1564466395157" expanded="true" signature="2228:2414" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="6:47" ph="..." />
+            <marker date="1564476902364" expanded="true" signature="82:470" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="111:468" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="164:462" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="494:1151" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="542:1149" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="689:1108" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="807:864" ph="{...}" />
+            <marker date="1564476902364" expanded="true" signature="1009:1098" ph="{...}" />
           </folding>
         </state>
       </provider>
