@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\MultiplyStrings\MultiplyStrings\bin\Debug\MultiplyStrings.exe
+E:\code\leet-code-problems\MultiplyStrings\MultiplyStrings\bin\Debug\MultiplyStrings.pdb
+E:\code\leet-code-problems\MultiplyStrings\MultiplyStrings\obj\Debug\MultiplyStrings.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\MultiplyStrings\MultiplyStrings\obj\Debug\MultiplyStrings.exe
+E:\code\leet-code-problems\MultiplyStrings\MultiplyStrings\obj\Debug\MultiplyStrings.pdb
