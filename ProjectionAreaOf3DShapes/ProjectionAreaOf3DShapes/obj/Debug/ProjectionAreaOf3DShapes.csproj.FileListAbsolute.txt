@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ProjectionAreaOf3DShapes\ProjectionAreaOf3DShapes\bin\Debug\ProjectionAreaOf3DShapes.exe
+E:\code\leet-code-problems\ProjectionAreaOf3DShapes\ProjectionAreaOf3DShapes\bin\Debug\ProjectionAreaOf3DShapes.pdb
+E:\code\leet-code-problems\ProjectionAreaOf3DShapes\ProjectionAreaOf3DShapes\obj\Debug\ProjectionAreaOf3DShapes.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ProjectionAreaOf3DShapes\ProjectionAreaOf3DShapes\obj\Debug\ProjectionAreaOf3DShapes.exe
+E:\code\leet-code-problems\ProjectionAreaOf3DShapes\ProjectionAreaOf3DShapes\obj\Debug\ProjectionAreaOf3DShapes.pdb
