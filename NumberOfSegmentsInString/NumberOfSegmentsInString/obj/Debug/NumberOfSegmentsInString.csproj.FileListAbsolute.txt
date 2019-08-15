@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\NumberOfSegmentsInString\NumberOfSegmentsInString\bin\Debug\NumberOfSegmentsInString.exe
+E:\code\leet-code-problems\NumberOfSegmentsInString\NumberOfSegmentsInString\bin\Debug\NumberOfSegmentsInString.pdb
+E:\code\leet-code-problems\NumberOfSegmentsInString\NumberOfSegmentsInString\obj\Debug\NumberOfSegmentsInString.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\NumberOfSegmentsInString\NumberOfSegmentsInString\obj\Debug\NumberOfSegmentsInString.exe
+E:\code\leet-code-problems\NumberOfSegmentsInString\NumberOfSegmentsInString\obj\Debug\NumberOfSegmentsInString.pdb
