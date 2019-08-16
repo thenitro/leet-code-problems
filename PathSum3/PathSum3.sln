@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSum3", "PathSum3\PathSum3.csproj", "{4CA4C8C8-333E-4CA0-A96D-E9A76DB65B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CA4C8C8-333E-4CA0-A96D-E9A76DB65B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CA4C8C8-333E-4CA0-A96D-E9A76DB65B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CA4C8C8-333E-4CA0-A96D-E9A76DB65B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CA4C8C8-333E-4CA0-A96D-E9A76DB65B62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
