@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac3961e4-e517-48d1-9ea0-ef8f075a9cc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestUnivaluePath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestUnivaluePath/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PathSum2/.idea/.idea.PathSum2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSum2/.idea/.idea.PathSum2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +112,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />

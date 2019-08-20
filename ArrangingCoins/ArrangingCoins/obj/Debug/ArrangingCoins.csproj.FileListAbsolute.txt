@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ArrangingCoins\ArrangingCoins\bin\Debug\ArrangingCoins.exe
+E:\code\leet-code-problems\ArrangingCoins\ArrangingCoins\bin\Debug\ArrangingCoins.pdb
+E:\code\leet-code-problems\ArrangingCoins\ArrangingCoins\obj\Debug\ArrangingCoins.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ArrangingCoins\ArrangingCoins\obj\Debug\ArrangingCoins.exe
+E:\code\leet-code-problems\ArrangingCoins\ArrangingCoins\obj\Debug\ArrangingCoins.pdb
