@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26b5ec4a-a689-4e35-a247-a810762808aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LongestUnivaluePath/.idea/.idea.LongestUnivaluePath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestUnivaluePath/.idea/.idea.LongestUnivaluePath/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PathSum2/.idea/.idea.PathSum2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSum2/.idea/.idea.PathSum2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d89e243c-6205-40af-a45a-453d9a0f0958" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrangingCoins/.idea/.idea.ArrangingCoins/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrangingCoins/.idea/.idea.ArrangingCoins/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +13,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ArrangingCoins/Program.cs">
+        <entry file="file://$PROJECT_DIR$/StringCompression/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="600">
+              <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding>
-                <marker date="1566284060943" expanded="true" signature="39:626" ph="{...}" />
-                <marker date="1566284060943" expanded="true" signature="68:624" ph="{...}" />
-                <marker date="1566284060943" expanded="true" signature="121:618" ph="{...}" />
-                <marker date="1566284060943" expanded="true" signature="650:898" ph="{...}" />
-                <marker date="1566284060943" expanded="true" signature="686:896" ph="{...}" />
-                <marker date="1566284060943" expanded="true" signature="771:858" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="42:465" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="71:463" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="124:457" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="488:1139" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="528:1137" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="638:1108" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="724:1098" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="838:1032" ph="{...}" />
+                <marker date="1566368230840" expanded="true" signature="926:1014" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ArrangingCoins/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StringCompression/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ArrangingCoins/Program.cs" />
+        <option value="$PROJECT_DIR$/StringCompression/Program.cs" />
       </list>
     </option>
   </component>
@@ -56,11 +58,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="StringCompression" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="StringCompression" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="StringCompression" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -85,14 +101,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ArrangingCoins/bin/Debug/ArrangingCoins.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/StringCompression/bin/Debug/StringCompression.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ArrangingCoins/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/StringCompression/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ArrangingCoins/ArrangingCoins.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/StringCompression/StringCompression.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -108,17 +124,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26b5ec4a-a689-4e35-a247-a810762808aa" name="Default Changelist" comment="" />
-      <created>1566283836438</created>
+      <changelist id="d89e243c-6205-40af-a45a-453d9a0f0958" name="Default Changelist" comment="" />
+      <created>1566366513347</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566283836438</updated>
-      <workItem from="1566283837800" duration="473000" />
+      <updated>1566366513347</updated>
+      <workItem from="1566366514708" duration="2324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="473000" />
+    <option name="totallyTimeSpent" value="2324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,17 +193,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ArrangingCoins/Program.cs">
+    <entry file="file://$PROJECT_DIR$/StringCompression/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="600">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding>
-            <marker date="1566284060943" expanded="true" signature="39:626" ph="{...}" />
-            <marker date="1566284060943" expanded="true" signature="68:624" ph="{...}" />
-            <marker date="1566284060943" expanded="true" signature="121:618" ph="{...}" />
-            <marker date="1566284060943" expanded="true" signature="650:898" ph="{...}" />
-            <marker date="1566284060943" expanded="true" signature="686:896" ph="{...}" />
-            <marker date="1566284060943" expanded="true" signature="771:858" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="42:465" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="71:463" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="124:457" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="488:1139" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="528:1137" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="638:1108" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="724:1098" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="838:1032" ph="{...}" />
+            <marker date="1566368230840" expanded="true" signature="926:1014" ph="{...}" />
           </folding>
         </state>
       </provider>
