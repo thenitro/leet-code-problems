@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9004881b-53f4-4e52-9778-655449aa307d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FindAllNumbersDisappearedInAnArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FindAllNumbersDisappearedInAnArray/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="320ceb27-4652-458b-aa02-0227507aa1b8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FindAllNumbersDisappearedInAnArray/.idea/.idea.FindAllNumbersDisappearedInAnArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindAllNumbersDisappearedInAnArray/.idea/.idea.FindAllNumbersDisappearedInAnArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MinMovesToEqualArrayElemnts/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="18" selection-start-line="18" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <marker date="1566545955561" expanded="true" signature="6:47" ph="..." />
-                <marker date="1566545955561" expanded="true" signature="93:506" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="122:504" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="175:498" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="529:978" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="588:976" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="705:751" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="799:946" ph="{...}" />
-                <marker date="1566545955561" expanded="true" signature="842:896" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="52:240" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="81:238" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="134:232" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="263:598" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="301:596" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="336:378" ph="{...}" />
+                <marker date="1566547596748" expanded="true" signature="467:549" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +36,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinMovesToEqualArrayElemnts/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/Program.cs" />
+        <option value="$PROJECT_DIR$/MinMovesToEqualArrayElemnts/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,10 +57,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,14 +85,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/bin/Debug/FindAllNumbersDisappearedInAnArray.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MinMovesToEqualArrayElemnts/bin/Debug/MinMovesToEqualArrayElemnts.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinMovesToEqualArrayElemnts/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinMovesToEqualArrayElemnts/MinMovesToEqualArrayElemnts.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +108,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9004881b-53f4-4e52-9778-655449aa307d" name="Default Changelist" comment="" />
-      <created>1566545729647</created>
+      <changelist id="320ceb27-4652-458b-aa02-0227507aa1b8" name="Default Changelist" comment="" />
+      <created>1566546398298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566545729647</updated>
-      <workItem from="1566545730907" duration="830000" />
+      <updated>1566546398298</updated>
+      <workItem from="1566546399484" duration="1728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="830000" />
+    <option name="totallyTimeSpent" value="1728000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,20 +177,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FindAllNumbersDisappearedInAnArray/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MinMovesToEqualArrayElemnts/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="18" selection-start-line="18" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1566545955561" expanded="true" signature="6:47" ph="..." />
-            <marker date="1566545955561" expanded="true" signature="93:506" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="122:504" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="175:498" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="529:978" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="588:976" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="705:751" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="799:946" ph="{...}" />
-            <marker date="1566545955561" expanded="true" signature="842:896" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="52:240" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="81:238" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="134:232" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="263:598" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="301:596" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="336:378" ph="{...}" />
+            <marker date="1566547596748" expanded="true" signature="467:549" ph="{...}" />
           </folding>
         </state>
       </provider>
