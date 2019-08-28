@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\AssignCookies\AssignCookies\bin\Debug\AssignCookies.exe
+E:\code\leet-code-problems\AssignCookies\AssignCookies\bin\Debug\AssignCookies.pdb
+E:\code\leet-code-problems\AssignCookies\AssignCookies\obj\Debug\AssignCookies.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\AssignCookies\AssignCookies\obj\Debug\AssignCookies.exe
+E:\code\leet-code-problems\AssignCookies\AssignCookies\obj\Debug\AssignCookies.pdb
