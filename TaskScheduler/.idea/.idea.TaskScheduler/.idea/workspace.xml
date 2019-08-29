@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56ff4357-0958-441e-b436-b7333d1abfaf" name="Default Changelist" comment="" />
+    <list default="true" id="c1f50ca4-34ca-4ae4-8bc7-c161450cdaa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AssignCookies/.idea/.idea.AssignCookies/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignCookies/.idea/.idea.AssignCookies/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +13,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssignCookies/Program.cs">
+        <entry file="file://$PROJECT_DIR$/TaskScheduler/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="474">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
-                <marker date="1566980935489" expanded="true" signature="6:47" ph="..." />
-                <marker date="1566980935489" expanded="true" signature="72:488" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="101:486" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="154:480" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="511:824" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="566:822" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="698:797" ph="{...}" />
-                <marker date="1566980935489" expanded="true" signature="738:787" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="6:47" ph="..." />
+                <marker date="1567063283090" expanded="true" signature="72:512" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="101:510" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="154:504" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="536:1002" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="587:1000" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="658:706" ph="{...}" />
+                <marker date="1567063283090" expanded="true" signature="850:921" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AssignCookies/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TaskScheduler/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AssignCookies/Program.cs" />
+        <option value="$PROJECT_DIR$/TaskScheduler/Program.cs" />
       </list>
     </option>
   </component>
@@ -55,10 +57,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -84,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/AssignCookies/bin/Debug/AssignCookies.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskScheduler/bin/Debug/TaskScheduler.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AssignCookies/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskScheduler/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AssignCookies/AssignCookies.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskScheduler/TaskScheduler.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56ff4357-0958-441e-b436-b7333d1abfaf" name="Default Changelist" comment="" />
-      <created>1566979908843</created>
+      <changelist id="c1f50ca4-34ca-4ae4-8bc7-c161450cdaa0" name="Default Changelist" comment="" />
+      <created>1567062446824</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566979908843</updated>
-      <workItem from="1566979910082" duration="1823000" />
+      <updated>1567062446824</updated>
+      <workItem from="1567062448200" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1823000" />
+    <option name="totallyTimeSpent" value="894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -130,6 +132,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -146,7 +149,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -175,19 +178,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AssignCookies/Program.cs">
+    <entry file="file://$PROJECT_DIR$/TaskScheduler/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="474">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
-            <marker date="1566980935489" expanded="true" signature="6:47" ph="..." />
-            <marker date="1566980935489" expanded="true" signature="72:488" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="101:486" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="154:480" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="511:824" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="566:822" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="698:797" ph="{...}" />
-            <marker date="1566980935489" expanded="true" signature="738:787" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="6:47" ph="..." />
+            <marker date="1567063283090" expanded="true" signature="72:512" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="101:510" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="154:504" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="536:1002" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="587:1000" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="658:706" ph="{...}" />
+            <marker date="1567063283090" expanded="true" signature="850:921" ph="{...}" />
           </folding>
         </state>
       </provider>
