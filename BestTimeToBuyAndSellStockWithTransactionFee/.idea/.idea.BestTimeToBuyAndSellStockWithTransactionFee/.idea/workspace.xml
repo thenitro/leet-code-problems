@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1f50ca4-34ca-4ae4-8bc7-c161450cdaa0" name="Default Changelist" comment="" />
+    <list default="true" id="db89b77e-c0e9-42b3-8123-791455b3df15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../TaskScheduler/.idea/.idea.TaskScheduler/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TaskScheduler/.idea/.idea.TaskScheduler/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +13,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TaskScheduler/Program.cs">
+        <entry file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="270">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
-                <marker date="1567063283090" expanded="true" signature="6:47" ph="..." />
-                <marker date="1567063283090" expanded="true" signature="72:512" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="101:510" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="154:504" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="536:1002" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="587:1000" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="658:706" ph="{...}" />
-                <marker date="1567063283090" expanded="true" signature="850:921" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="68:269" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="97:267" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="150:261" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="292:683" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="342:681" ph="{...}" />
+                <marker date="1567403800360" expanded="true" signature="474:650" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,12 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TaskScheduler/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TaskScheduler/Program.cs" />
+        <option value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs" />
       </list>
     </option>
   </component>
@@ -55,11 +55,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -84,14 +84,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/TaskScheduler/bin/Debug/TaskScheduler.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/bin/Debug/BestTimeToBuyAndSellStockWithTransactionFee.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaskScheduler/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TaskScheduler/TaskScheduler.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/BestTimeToBuyAndSellStockWithTransactionFee.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +107,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1f50ca4-34ca-4ae4-8bc7-c161450cdaa0" name="Default Changelist" comment="" />
-      <created>1567062446824</created>
+      <changelist id="db89b77e-c0e9-42b3-8123-791455b3df15" name="Default Changelist" comment="" />
+      <created>1567403347865</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567062446824</updated>
-      <workItem from="1567062448200" duration="1489000" />
+      <updated>1567403347865</updated>
+      <workItem from="1567403349423" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1489000" />
+    <option name="totallyTimeSpent" value="656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,7 +147,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,19 +176,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TaskScheduler/Program.cs">
+    <entry file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
-            <marker date="1567063283090" expanded="true" signature="6:47" ph="..." />
-            <marker date="1567063283090" expanded="true" signature="72:512" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="101:510" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="154:504" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="536:1002" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="587:1000" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="658:706" ph="{...}" />
-            <marker date="1567063283090" expanded="true" signature="850:921" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="68:269" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="97:267" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="150:261" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="292:683" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="342:681" ph="{...}" />
+            <marker date="1567403800360" expanded="true" signature="474:650" ph="{...}" />
           </folding>
         </state>
       </provider>
