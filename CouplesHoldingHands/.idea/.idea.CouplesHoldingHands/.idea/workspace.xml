@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db89b77e-c0e9-42b3-8123-791455b3df15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BestTimeToBuyAndSellStockWithTransactionFee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BestTimeToBuyAndSellStockWithTransactionFee/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5cc4593d-d965-4313-a2b6-8f1da24e4297" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BestTimeToBuyAndSellStockWithTransactionFee/.idea/.idea.BestTimeToBuyAndSellStockWithTransactionFee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BestTimeToBuyAndSellStockWithTransactionFee/.idea/.idea.BestTimeToBuyAndSellStockWithTransactionFee/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +13,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs">
+        <entry file="file://$PROJECT_DIR$/CouplesHoldingHands/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="253">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding>
-                <marker date="1567403800360" expanded="true" signature="68:269" ph="{...}" />
-                <marker date="1567403800360" expanded="true" signature="97:267" ph="{...}" />
-                <marker date="1567403800360" expanded="true" signature="150:261" ph="{...}" />
-                <marker date="1567403800360" expanded="true" signature="292:683" ph="{...}" />
-                <marker date="1567403800360" expanded="true" signature="342:681" ph="{...}" />
-                <marker date="1567403800360" expanded="true" signature="474:650" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="6:47" ph="..." />
+                <marker date="1567406609018" expanded="true" signature="78:364" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="107:362" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="160:356" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="387:1207" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="431:1072" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="509:1035" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="711:765" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="819:1025" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="878:1011" ph="{...}" />
+                <marker date="1567406609018" expanded="true" signature="1120:1205" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,12 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CouplesHoldingHands/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs" />
+        <option value="$PROJECT_DIR$/CouplesHoldingHands/Program.cs" />
       </list>
     </option>
   </component>
@@ -55,11 +60,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -84,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/bin/Debug/BestTimeToBuyAndSellStockWithTransactionFee.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CouplesHoldingHands/bin/Debug/CouplesHoldingHands.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CouplesHoldingHands/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/BestTimeToBuyAndSellStockWithTransactionFee.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CouplesHoldingHands/CouplesHoldingHands.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db89b77e-c0e9-42b3-8123-791455b3df15" name="Default Changelist" comment="" />
-      <created>1567403347865</created>
+      <changelist id="5cc4593d-d965-4313-a2b6-8f1da24e4297" name="Default Changelist" comment="" />
+      <created>1567404115575</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567403347865</updated>
-      <workItem from="1567403349423" duration="1365000" />
+      <updated>1567404115575</updated>
+      <workItem from="1567404116780" duration="3390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1365000" />
+    <option name="totallyTimeSpent" value="3390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,17 +181,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BestTimeToBuyAndSellStockWithTransactionFee/Program.cs">
+    <entry file="file://$PROJECT_DIR$/CouplesHoldingHands/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="253">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
-            <marker date="1567403800360" expanded="true" signature="68:269" ph="{...}" />
-            <marker date="1567403800360" expanded="true" signature="97:267" ph="{...}" />
-            <marker date="1567403800360" expanded="true" signature="150:261" ph="{...}" />
-            <marker date="1567403800360" expanded="true" signature="292:683" ph="{...}" />
-            <marker date="1567403800360" expanded="true" signature="342:681" ph="{...}" />
-            <marker date="1567403800360" expanded="true" signature="474:650" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="6:47" ph="..." />
+            <marker date="1567406609018" expanded="true" signature="78:364" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="107:362" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="160:356" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="387:1207" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="431:1072" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="509:1035" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="711:765" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="819:1025" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="878:1011" ph="{...}" />
+            <marker date="1567406609018" expanded="true" signature="1120:1205" ph="{...}" />
           </folding>
         </state>
       </provider>
