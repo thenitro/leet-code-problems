@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6826c07a-212f-407c-b42a-839c6c5825bc" name="Default Changelist" comment="" />
+    <list default="true" id="6826c07a-212f-407c-b42a-839c6c5825bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RepeatedSubstringPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RepeatedSubstringPattern/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/RepeatedSubstringPattern/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
-              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
               <folding>
                 <marker date="1567577120654" expanded="true" signature="6:32" ph="..." />
                 <marker date="1567577120654" expanded="true" signature="68:625" ph="{...}" />
@@ -114,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567575176853</updated>
-      <workItem from="1567575178216" duration="1931000" />
+      <workItem from="1567575178216" duration="2766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1931000" />
+    <option name="totallyTimeSpent" value="2766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -132,7 +134,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -181,7 +182,7 @@
     <entry file="file://$PROJECT_DIR$/RepeatedSubstringPattern/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
           <folding>
             <marker date="1567577120654" expanded="true" signature="6:32" ph="..." />
             <marker date="1567577120654" expanded="true" signature="68:625" ph="{...}" />
