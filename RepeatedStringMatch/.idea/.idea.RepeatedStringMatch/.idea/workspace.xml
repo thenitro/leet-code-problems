@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RepeatedStringMatch/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <marker date="1567579160570" expanded="true" signature="6:32" ph="..." />
                 <marker date="1567579160570" expanded="true" signature="63:348" ph="{...}" />
@@ -529,12 +529,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567577355814</updated>
-      <workItem from="1567577357064" duration="1853000" />
+      <workItem from="1567577357064" duration="2616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1853000" />
+    <option name="totallyTimeSpent" value="2616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -547,6 +547,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -563,7 +564,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1007,8 +1008,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RepeatedStringMatch/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
             <marker date="1567579160570" expanded="true" signature="6:32" ph="..." />
             <marker date="1567579160570" expanded="true" signature="63:348" ph="{...}" />
