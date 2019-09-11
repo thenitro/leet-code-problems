@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\CapacityToShipPackagesWithDDays\CapacityToShipPackagesWithDDays\bin\Debug\CapacityToShipPackagesWithDDays.exe
+E:\code\leet-code-problems\CapacityToShipPackagesWithDDays\CapacityToShipPackagesWithDDays\bin\Debug\CapacityToShipPackagesWithDDays.pdb
+E:\code\leet-code-problems\CapacityToShipPackagesWithDDays\CapacityToShipPackagesWithDDays\obj\Debug\CapacityToShipPackagesWithDDays.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\CapacityToShipPackagesWithDDays\CapacityToShipPackagesWithDDays\obj\Debug\CapacityToShipPackagesWithDDays.exe
+E:\code\leet-code-problems\CapacityToShipPackagesWithDDays\CapacityToShipPackagesWithDDays\obj\Debug\CapacityToShipPackagesWithDDays.pdb
