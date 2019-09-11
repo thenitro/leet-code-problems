@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="759dd5f4-df23-4c54-a7c8-cd57b9a63f33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HammingDistance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HammingDistance/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ca7d6721-6aec-44f7-bbf6-26d81c1ceb7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HammingDistance/.idea/.idea.HammingDistance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HammingDistance/.idea/.idea.HammingDistance/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HammingDistance/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Heaters/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="444">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
-                <marker date="1567664380339" expanded="true" signature="40:224" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="69:222" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="122:216" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="248:1085" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="294:1083" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="568:1054" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="728:801" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="871:944" ph="{...}" />
-                <marker date="1567664380339" expanded="true" signature="991:1044" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="32:523" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="61:521" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="114:515" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="547:1155" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="603:1153" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="713:1123" ph="{...}" />
+                <marker date="1568198467439" expanded="true" signature="810:876" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,20 +36,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/3b/46392de1/Int32.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HammingDistance/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Heaters/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HammingDistance/Program.cs" />
+        <option value="$PROJECT_DIR$/Heaters/Program.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="width" value="975" />
-    <option name="height" value="1048" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,10 +57,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -88,14 +86,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/HammingDistance/bin/Debug/HammingDistance.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Heaters/bin/Debug/Heaters.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HammingDistance/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Heaters/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HammingDistance/HammingDistance.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Heaters/Heaters.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +109,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="759dd5f4-df23-4c54-a7c8-cd57b9a63f33" name="Default Changelist" comment="" />
-      <created>1567663765107</created>
+      <changelist id="ca7d6721-6aec-44f7-bbf6-26d81c1ceb7c" name="Default Changelist" comment="" />
+      <created>1568196288812</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567663765107</updated>
-      <workItem from="1567663766610" duration="2505000" />
+      <updated>1568196288812</updated>
+      <workItem from="1568196291067" duration="2046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2505000" />
+    <option name="totallyTimeSpent" value="2046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,8 +149,8 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -180,27 +178,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/3b/46392de1/Int32.cs">
+    <entry file="file://$PROJECT_DIR$/Heaters/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1229">
-          <caret line="111" column="5" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HammingDistance/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="444">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
-            <marker date="1567664380339" expanded="true" signature="40:224" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="69:222" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="122:216" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="248:1085" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="294:1083" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="568:1054" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="728:801" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="871:944" ph="{...}" />
-            <marker date="1567664380339" expanded="true" signature="991:1044" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="32:523" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="61:521" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="114:515" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="547:1155" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="603:1153" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="713:1123" ph="{...}" />
+            <marker date="1568198467439" expanded="true" signature="810:876" ph="{...}" />
           </folding>
         </state>
       </provider>

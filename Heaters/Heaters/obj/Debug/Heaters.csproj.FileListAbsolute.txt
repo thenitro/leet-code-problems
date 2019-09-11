@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\Heaters\Heaters\bin\Debug\Heaters.exe
+E:\code\leet-code-problems\Heaters\Heaters\bin\Debug\Heaters.pdb
+E:\code\leet-code-problems\Heaters\Heaters\obj\Debug\Heaters.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\Heaters\Heaters\obj\Debug\Heaters.exe
+E:\code\leet-code-problems\Heaters\Heaters\obj\Debug\Heaters.pdb
