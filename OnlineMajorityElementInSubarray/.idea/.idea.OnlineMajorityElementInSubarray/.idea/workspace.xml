@@ -13,10 +13,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OnlineMajorityElementInSubarray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="203" column="30" lean-forward="true" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
+            <state relative-caret-position="2955">
+              <caret line="203" column="30" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
               <folding>
-                <marker date="1568288898558" expanded="true" signature="7:86" ph="..." />
+                <marker date="1568288898558" expanded="false" signature="7:86" ph="..." />
                 <marker date="1568288898558" expanded="true" signature="129:473" ph="{...}" />
                 <marker date="1568288898558" expanded="true" signature="158:471" ph="{...}" />
                 <marker date="1568288898558" expanded="true" signature="211:465" ph="{...}" />
@@ -89,10 +89,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -148,11 +148,12 @@
       <updated>1568286969709</updated>
       <workItem from="1568286971148" duration="391000" />
       <workItem from="1568287372482" duration="2142000" />
+      <workItem from="1568612384271" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2533000" />
+    <option name="totallyTimeSpent" value="2656000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,7 +168,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -213,10 +214,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/OnlineMajorityElementInSubarray/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="203" column="30" lean-forward="true" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
+        <state relative-caret-position="2955">
+          <caret line="203" column="30" selection-start-line="203" selection-start-column="30" selection-end-line="203" selection-end-column="30" />
           <folding>
-            <marker date="1568288898558" expanded="true" signature="7:86" ph="..." />
+            <marker date="1568288898558" expanded="false" signature="7:86" ph="..." />
             <marker date="1568288898558" expanded="true" signature="129:473" ph="{...}" />
             <marker date="1568288898558" expanded="true" signature="158:471" ph="{...}" />
             <marker date="1568288898558" expanded="true" signature="211:465" ph="{...}" />
