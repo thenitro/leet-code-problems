@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1ac5720-f3fd-4458-8a53-f533c3040c4b" name="Default Changelist" comment="">
+    <list default="true" id="8fcf7434-35f5-4a29-bd2f-59206661fb9f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../KthSmallestNumberInMultiplicationTable/.idea/.idea.KthSmallestNumberInMultiplicationTable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KthSmallestNumberInMultiplicationTable/.idea/.idea.KthSmallestNumberInMultiplicationTable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumberComplement/.idea/.idea.NumberComplement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberComplement/.idea/.idea.NumberComplement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,17 +14,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NumberComplement/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LicenseKeyFormatting/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="465">
+              <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
               <folding>
-                <marker date="1568618900920" expanded="true" signature="41:291" ph="{...}" />
-                <marker date="1568618900920" expanded="true" signature="70:289" ph="{...}" />
-                <marker date="1568618900920" expanded="true" signature="123:283" ph="{...}" />
-                <marker date="1568618900920" expanded="true" signature="315:614" ph="{...}" />
-                <marker date="1568618900920" expanded="true" signature="355:612" ph="{...}" />
-                <marker date="1568618900920" expanded="true" signature="491:557" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="6:51" ph="..." />
+                <marker date="1568623700967" expanded="true" signature="83:390" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="112:388" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="165:382" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="413:843" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="471:841" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="602:773" ph="{...}" />
+                <marker date="1568623700967" expanded="true" signature="641:763" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -35,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/NumberComplement/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LicenseKeyFormatting/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/NumberComplement/Program.cs" />
+        <option value="$PROJECT_DIR$/LicenseKeyFormatting/Program.cs" />
       </list>
     </option>
   </component>
@@ -55,11 +58,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LicenseKeyFormatting" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LicenseKeyFormatting" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LicenseKeyFormatting" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -84,14 +101,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/NumberComplement/bin/Debug/NumberComplement.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LicenseKeyFormatting/bin/Debug/LicenseKeyFormatting.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NumberComplement/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LicenseKeyFormatting/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NumberComplement/NumberComplement.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LicenseKeyFormatting/LicenseKeyFormatting.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +124,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1ac5720-f3fd-4458-8a53-f533c3040c4b" name="Default Changelist" comment="" />
-      <created>1568618682247</created>
+      <changelist id="8fcf7434-35f5-4a29-bd2f-59206661fb9f" name="Default Changelist" comment="" />
+      <created>1568622604151</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568618682247</updated>
-      <workItem from="1568618683339" duration="1422000" />
+      <updated>1568622604151</updated>
+      <workItem from="1568622605352" duration="1098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1422000" />
+    <option name="totallyTimeSpent" value="1098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -147,7 +164,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,17 +193,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/NumberComplement/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LicenseKeyFormatting/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="465">
+          <caret line="31" column="60" selection-start-line="31" selection-start-column="60" selection-end-line="31" selection-end-column="60" />
           <folding>
-            <marker date="1568618900920" expanded="true" signature="41:291" ph="{...}" />
-            <marker date="1568618900920" expanded="true" signature="70:289" ph="{...}" />
-            <marker date="1568618900920" expanded="true" signature="123:283" ph="{...}" />
-            <marker date="1568618900920" expanded="true" signature="315:614" ph="{...}" />
-            <marker date="1568618900920" expanded="true" signature="355:612" ph="{...}" />
-            <marker date="1568618900920" expanded="true" signature="491:557" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="6:51" ph="..." />
+            <marker date="1568623700967" expanded="true" signature="83:390" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="112:388" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="165:382" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="413:843" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="471:841" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="602:773" ph="{...}" />
+            <marker date="1568623700967" expanded="true" signature="641:763" ph="{...}" />
           </folding>
         </state>
       </provider>
