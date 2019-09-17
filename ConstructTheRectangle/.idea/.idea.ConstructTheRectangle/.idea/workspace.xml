@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e790af9-7e8d-49bd-a263-54abf17f963c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MaxConsecutiveOnes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MaxConsecutiveOnes/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6be1dbd5-0b5a-44dd-944d-6ef005fcc8dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MaxConsecutiveOnes/.idea/.idea.MaxConsecutiveOnes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxConsecutiveOnes/.idea/.idea.MaxConsecutiveOnes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MaxConsecutiveOnes/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
               <folding>
-                <marker date="1568634692706" expanded="true" signature="6:47" ph="..." />
-                <marker date="1568634692706" expanded="true" signature="96:408" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="125:406" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="178:400" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="431:877" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="483:875" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="602:809" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="642:695" ph="{...}" />
-                <marker date="1568634692706" expanded="true" signature="712:799" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="46:573" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="75:571" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="128:565" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="596:915" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="644:913" ph="{...}" />
+                <marker date="1568702264544" expanded="true" signature="673:726" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MaxConsecutiveOnes/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MaxConsecutiveOnes/Program.cs" />
+        <option value="$PROJECT_DIR$/ConstructTheRectangle/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,11 +55,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,14 +84,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MaxConsecutiveOnes/bin/Debug/MaxConsecutiveOnes.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConstructTheRectangle/bin/Debug/ConstructTheRectangle.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaxConsecutiveOnes/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConstructTheRectangle/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MaxConsecutiveOnes/MaxConsecutiveOnes.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConstructTheRectangle/ConstructTheRectangle.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +107,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5e790af9-7e8d-49bd-a263-54abf17f963c" name="Default Changelist" comment="" />
-      <created>1568634525614</created>
+      <changelist id="6be1dbd5-0b5a-44dd-944d-6ef005fcc8dd" name="Default Changelist" comment="" />
+      <created>1568701946786</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568634525614</updated>
-      <workItem from="1568634527071" duration="803000" />
+      <updated>1568701946786</updated>
+      <workItem from="1568701948310" duration="318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="803000" />
+    <option name="totallyTimeSpent" value="318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,6 +130,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -149,7 +147,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,20 +176,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MaxConsecutiveOnes/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
           <folding>
-            <marker date="1568634692706" expanded="true" signature="6:47" ph="..." />
-            <marker date="1568634692706" expanded="true" signature="96:408" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="125:406" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="178:400" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="431:877" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="483:875" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="602:809" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="642:695" ph="{...}" />
-            <marker date="1568634692706" expanded="true" signature="712:799" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="46:573" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="75:571" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="128:565" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="596:915" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="644:913" ph="{...}" />
+            <marker date="1568702264544" expanded="true" signature="673:726" ph="{...}" />
           </folding>
         </state>
       </provider>
