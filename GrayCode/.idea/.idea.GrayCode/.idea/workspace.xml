@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6be1dbd5-0b5a-44dd-944d-6ef005fcc8dd" name="Default Changelist" comment="" />
+    <list default="true" id="2972ebde-5494-44a1-8651-49a3b5b55d06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ConstructTheRectangle/.idea/.idea.ConstructTheRectangle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConstructTheRectangle/.idea/.idea.ConstructTheRectangle/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,17 +13,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs">
+        <entry file="file://$PROJECT_DIR$/GrayCode/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            <state relative-caret-position="345">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
-                <marker date="1568702474728" expanded="true" signature="46:717" ph="{...}" />
-                <marker date="1568702474728" expanded="true" signature="75:715" ph="{...}" />
-                <marker date="1568702474728" expanded="true" signature="128:709" ph="{...}" />
-                <marker date="1568702474728" expanded="true" signature="740:960" ph="{...}" />
-                <marker date="1568702474728" expanded="true" signature="788:958" ph="{...}" />
-                <marker date="1568702474728" expanded="true" signature="869:909" ph="{...}" />
+                <marker date="1568718763323" expanded="true" signature="6:47" ph="..." />
+                <marker date="1568718763323" expanded="true" signature="67:402" ph="{...}" />
+                <marker date="1568718763323" expanded="true" signature="96:400" ph="{...}" />
+                <marker date="1568718763323" expanded="true" signature="149:394" ph="{...}" />
+                <marker date="1568718763323" expanded="true" signature="425:488" ph="{...}" />
+                <marker date="1568718763323" expanded="true" signature="465:486" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,12 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GrayCode/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ConstructTheRectangle/Program.cs" />
+        <option value="$PROJECT_DIR$/GrayCode/Program.cs" />
       </list>
     </option>
   </component>
@@ -54,10 +56,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,14 +84,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ConstructTheRectangle/bin/Debug/ConstructTheRectangle.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/GrayCode/bin/Debug/GrayCode.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConstructTheRectangle/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GrayCode/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConstructTheRectangle/ConstructTheRectangle.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GrayCode/GrayCode.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -105,17 +107,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6be1dbd5-0b5a-44dd-944d-6ef005fcc8dd" name="Default Changelist" comment="" />
-      <created>1568701946786</created>
+      <changelist id="2972ebde-5494-44a1-8651-49a3b5b55d06" name="Default Changelist" comment="" />
+      <created>1568718346232</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568701946786</updated>
-      <workItem from="1568701948310" duration="1378000" />
+      <updated>1568718346232</updated>
+      <workItem from="1568718347574" duration="413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1378000" />
+    <option name="totallyTimeSpent" value="413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,8 +147,8 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -174,17 +176,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ConstructTheRectangle/Program.cs">
+    <entry file="file://$PROJECT_DIR$/GrayCode/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <marker date="1568702474728" expanded="true" signature="46:717" ph="{...}" />
-            <marker date="1568702474728" expanded="true" signature="75:715" ph="{...}" />
-            <marker date="1568702474728" expanded="true" signature="128:709" ph="{...}" />
-            <marker date="1568702474728" expanded="true" signature="740:960" ph="{...}" />
-            <marker date="1568702474728" expanded="true" signature="788:958" ph="{...}" />
-            <marker date="1568702474728" expanded="true" signature="869:909" ph="{...}" />
+            <marker date="1568718763323" expanded="true" signature="6:47" ph="..." />
+            <marker date="1568718763323" expanded="true" signature="67:402" ph="{...}" />
+            <marker date="1568718763323" expanded="true" signature="96:400" ph="{...}" />
+            <marker date="1568718763323" expanded="true" signature="149:394" ph="{...}" />
+            <marker date="1568718763323" expanded="true" signature="425:488" ph="{...}" />
+            <marker date="1568718763323" expanded="true" signature="465:486" ph="{...}" />
           </folding>
         </state>
       </provider>
