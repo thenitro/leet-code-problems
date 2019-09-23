@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2972ebde-5494-44a1-8651-49a3b5b55d06" name="Default Changelist" comment="" />
+    <list default="true" id="ec1fe418-438e-4efe-bfe3-e98404a2bd2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../GrayCode/.idea/.idea.GrayCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GrayCode/.idea/.idea.GrayCode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,18 +13,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GrayCode/Program.cs">
+        <entry file="file://$PROJECT_DIR$/BinaryTreeRightSideView/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="598">
+              <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
               <folding>
-                <marker date="1568718821516" expanded="true" signature="6:47" ph="..." />
-                <marker date="1568718821516" expanded="true" signature="67:402" ph="{...}" />
-                <marker date="1568718821516" expanded="true" signature="96:400" ph="{...}" />
-                <marker date="1568718821516" expanded="true" signature="149:394" ph="{...}" />
-                <marker date="1568718821516" expanded="true" signature="425:647" ph="{...}" />
-                <marker date="1568718821516" expanded="true" signature="465:645" ph="{...}" />
-                <marker date="1568718821516" expanded="true" signature="551:607" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="6:47" ph="..." />
+                <marker date="1569228291427" expanded="true" signature="82:659" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="111:657" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="164:651" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="278:569" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="343:414" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="480:551" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="682:816" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="785:814" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="839:1828" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="892:1826" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="1107:1787" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="1172:1711" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="1286:1399" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="1456:1570" ph="{...}" />
+                <marker date="1569228291427" expanded="true" signature="1618:1697" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,12 +45,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/GrayCode/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BinaryTreeRightSideView/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/GrayCode/Program.cs" />
+        <option value="$PROJECT_DIR$/BinaryTreeRightSideView/Program.cs" />
       </list>
     </option>
   </component>
@@ -54,11 +65,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BinaryTreeRightSideView" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BinaryTreeRightSideView" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BinaryTreeRightSideView" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -83,14 +108,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/GrayCode/bin/Debug/GrayCode.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BinaryTreeRightSideView/bin/Debug/BinaryTreeRightSideView.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GrayCode/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryTreeRightSideView/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/GrayCode/GrayCode.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BinaryTreeRightSideView/BinaryTreeRightSideView.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -106,17 +131,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2972ebde-5494-44a1-8651-49a3b5b55d06" name="Default Changelist" comment="" />
-      <created>1568718346232</created>
+      <changelist id="ec1fe418-438e-4efe-bfe3-e98404a2bd2a" name="Default Changelist" comment="" />
+      <created>1569227955989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568718346232</updated>
-      <workItem from="1568718347574" duration="729000" />
+      <updated>1569227955989</updated>
+      <workItem from="1569227957283" duration="340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="729000" />
+    <option name="totallyTimeSpent" value="340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -129,12 +154,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -143,10 +167,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -175,18 +198,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GrayCode/Program.cs">
+    <entry file="file://$PROJECT_DIR$/BinaryTreeRightSideView/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="598">
+          <caret line="71" column="42" lean-forward="true" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
           <folding>
-            <marker date="1568718821516" expanded="true" signature="6:47" ph="..." />
-            <marker date="1568718821516" expanded="true" signature="67:402" ph="{...}" />
-            <marker date="1568718821516" expanded="true" signature="96:400" ph="{...}" />
-            <marker date="1568718821516" expanded="true" signature="149:394" ph="{...}" />
-            <marker date="1568718821516" expanded="true" signature="425:647" ph="{...}" />
-            <marker date="1568718821516" expanded="true" signature="465:645" ph="{...}" />
-            <marker date="1568718821516" expanded="true" signature="551:607" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="6:47" ph="..." />
+            <marker date="1569228291427" expanded="true" signature="82:659" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="111:657" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="164:651" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="278:569" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="343:414" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="480:551" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="682:816" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="785:814" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="839:1828" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="892:1826" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="1107:1787" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="1172:1711" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="1286:1399" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="1456:1570" ph="{...}" />
+            <marker date="1569228291427" expanded="true" signature="1618:1697" ph="{...}" />
           </folding>
         </state>
       </provider>
