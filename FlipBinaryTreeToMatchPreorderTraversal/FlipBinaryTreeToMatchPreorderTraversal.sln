@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipBinaryTreeToMatchPreorderTraversal", "FlipBinaryTreeToMatchPreorderTraversal\FlipBinaryTreeToMatchPreorderTraversal.csproj", "{1A3B9EC2-F032-46DF-B8FC-C5963CF2194F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3B9EC2-F032-46DF-B8FC-C5963CF2194F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3B9EC2-F032-46DF-B8FC-C5963CF2194F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3B9EC2-F032-46DF-B8FC-C5963CF2194F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3B9EC2-F032-46DF-B8FC-C5963CF2194F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
