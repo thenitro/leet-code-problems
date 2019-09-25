@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0d986e3-7fb6-44f2-b798-40bc5cd9a4fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CountCompleteTreeNodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CountCompleteTreeNodes/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d34bdeeb-1ae6-40c6-990b-817914180e35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CountCompleteTreeNodes/.idea/.idea.CountCompleteTreeNodes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountCompleteTreeNodes/.idea/.idea.CountCompleteTreeNodes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,24 +11,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CountCompleteTreeNodes/Program.cs">
+        <entry file="file://$PROJECT_DIR$/NextGreaterElement1/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="9" selection-start-line="38" selection-end-line="49" selection-end-column="1" />
+            <state relative-caret-position="399">
+              <caret line="36" column="70" lean-forward="true" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
               <folding>
-                <marker date="1569331358476" expanded="true" signature="47:580" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="76:578" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="129:572" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="191:491" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="248:356" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="414:476" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="603:737" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="706:735" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="760:953" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="803:951" ph="{...}" />
-                <marker date="1569331358476" expanded="true" signature="835:877" ph="{...}" />
+                <marker date="1569412245056" expanded="false" signature="6:47" ph="..." />
+                <marker date="1569412245056" expanded="true" signature="78:495" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="107:493" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="160:487" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="518:1067" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="582:1065" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="708:897" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="777:845" ph="{...}" />
+                <marker date="1569412245056" expanded="true" signature="945:1036" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CountCompleteTreeNodes/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/NextGreaterElement1/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CountCompleteTreeNodes/Program.cs" />
+        <option value="$PROJECT_DIR$/NextGreaterElement1/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,10 +59,10 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,14 +87,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/CountCompleteTreeNodes/bin/Debug/CountCompleteTreeNodes.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/NextGreaterElement1/bin/Debug/NextGreaterElement1.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CountCompleteTreeNodes/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NextGreaterElement1/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CountCompleteTreeNodes/CountCompleteTreeNodes.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/NextGreaterElement1/NextGreaterElement1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +110,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0d986e3-7fb6-44f2-b798-40bc5cd9a4fb" name="Default Changelist" comment="" />
-      <created>1569331248972</created>
+      <changelist id="d34bdeeb-1ae6-40c6-990b-817914180e35" name="Default Changelist" comment="" />
+      <created>1569331702636</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569331248972</updated>
-      <workItem from="1569331250204" duration="1052000" />
+      <updated>1569331702636</updated>
+      <workItem from="1569331703846" duration="1267000" />
+      <workItem from="1569411952062" duration="295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1052000" />
+    <option name="totallyTimeSpent" value="1562000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,38 +136,38 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -181,22 +180,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CountCompleteTreeNodes/Program.cs">
+    <entry file="file://$PROJECT_DIR$/NextGreaterElement1/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="9" selection-start-line="38" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="399">
+          <caret line="36" column="70" lean-forward="true" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
           <folding>
-            <marker date="1569331358476" expanded="true" signature="47:580" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="76:578" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="129:572" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="191:491" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="248:356" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="414:476" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="603:737" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="706:735" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="760:953" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="803:951" ph="{...}" />
-            <marker date="1569331358476" expanded="true" signature="835:877" ph="{...}" />
+            <marker date="1569412245056" expanded="false" signature="6:47" ph="..." />
+            <marker date="1569412245056" expanded="true" signature="78:495" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="107:493" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="160:487" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="518:1067" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="582:1065" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="708:897" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="777:845" ph="{...}" />
+            <marker date="1569412245056" expanded="true" signature="945:1036" ph="{...}" />
           </folding>
         </state>
       </provider>
