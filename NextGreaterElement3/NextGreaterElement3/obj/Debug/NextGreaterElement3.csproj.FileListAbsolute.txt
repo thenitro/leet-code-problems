@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\NextGreaterElement3\NextGreaterElement3\bin\Debug\NextGreaterElement3.exe
+E:\code\leet-code-problems\NextGreaterElement3\NextGreaterElement3\bin\Debug\NextGreaterElement3.pdb
+E:\code\leet-code-problems\NextGreaterElement3\NextGreaterElement3\obj\Debug\NextGreaterElement3.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\NextGreaterElement3\NextGreaterElement3\obj\Debug\NextGreaterElement3.exe
+E:\code\leet-code-problems\NextGreaterElement3\NextGreaterElement3\obj\Debug\NextGreaterElement3.pdb
