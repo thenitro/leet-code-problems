@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\Base7\Base7\bin\Debug\Base7.exe
+E:\code\leet-code-problems\Base7\Base7\bin\Debug\Base7.pdb
+E:\code\leet-code-problems\Base7\Base7\obj\Debug\Base7.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\Base7\Base7\obj\Debug\Base7.exe
+E:\code\leet-code-problems\Base7\Base7\obj\Debug\Base7.pdb
