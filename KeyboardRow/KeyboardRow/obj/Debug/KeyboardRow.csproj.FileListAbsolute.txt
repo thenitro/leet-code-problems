@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\KeyboardRow\KeyboardRow\bin\Debug\KeyboardRow.exe
+E:\code\leet-code-problems\KeyboardRow\KeyboardRow\bin\Debug\KeyboardRow.pdb
+E:\code\leet-code-problems\KeyboardRow\KeyboardRow\obj\Debug\KeyboardRow.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\KeyboardRow\KeyboardRow\obj\Debug\KeyboardRow.exe
+E:\code\leet-code-problems\KeyboardRow\KeyboardRow\obj\Debug\KeyboardRow.pdb
