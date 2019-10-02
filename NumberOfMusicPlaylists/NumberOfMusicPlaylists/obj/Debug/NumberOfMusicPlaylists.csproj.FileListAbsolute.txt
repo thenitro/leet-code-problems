@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\NumberOfMusicPlaylists\NumberOfMusicPlaylists\bin\Debug\NumberOfMusicPlaylists.exe
+E:\code\leet-code-problems\NumberOfMusicPlaylists\NumberOfMusicPlaylists\bin\Debug\NumberOfMusicPlaylists.pdb
+E:\code\leet-code-problems\NumberOfMusicPlaylists\NumberOfMusicPlaylists\obj\Debug\NumberOfMusicPlaylists.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\NumberOfMusicPlaylists\NumberOfMusicPlaylists\obj\Debug\NumberOfMusicPlaylists.exe
+E:\code\leet-code-problems\NumberOfMusicPlaylists\NumberOfMusicPlaylists\obj\Debug\NumberOfMusicPlaylists.pdb
