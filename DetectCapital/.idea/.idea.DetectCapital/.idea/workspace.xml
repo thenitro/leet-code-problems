@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90154935-1375-4690-a0e4-13ba28a6db3f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FibonacciNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FibonacciNumber/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9c0201c7-99ef-42a9-99e4-e31ddace0492" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FibonacciNumber/.idea/.idea.FibonacciNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FibonacciNumber/.idea/.idea.FibonacciNumber/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +13,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FibonacciNumber/Program.cs">
+        <entry file="file://$PROJECT_DIR$/DetectCapital/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="414">
+              <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
               <folding>
-                <marker date="1570101108454" expanded="true" signature="40:327" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="69:325" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="122:319" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="350:698" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="378:696" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="414:456" ph="{...}" />
-                <marker date="1570101108454" expanded="true" signature="588:657" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="38:474" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="67:472" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="120:466" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="497:1137" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="545:758" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="812:1033" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="890:1004" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="941:994" ph="{...}" />
+                <marker date="1570102754747" expanded="true" signature="1085:1135" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FibonacciNumber/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DetectCapital/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FibonacciNumber/Program.cs" />
+        <option value="$PROJECT_DIR$/DetectCapital/Program.cs" />
       </list>
     </option>
   </component>
@@ -56,8 +58,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -85,14 +87,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FibonacciNumber/bin/Debug/FibonacciNumber.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DetectCapital/bin/Debug/DetectCapital.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FibonacciNumber/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DetectCapital/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FibonacciNumber/FibonacciNumber.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DetectCapital/DetectCapital.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -108,17 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="90154935-1375-4690-a0e4-13ba28a6db3f" name="Default Changelist" comment="" />
-      <created>1570100789393</created>
+      <changelist id="9c0201c7-99ef-42a9-99e4-e31ddace0492" name="Default Changelist" comment="" />
+      <created>1570102485174</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570100789393</updated>
-      <workItem from="1570100791899" duration="1573000" />
+      <updated>1570102485174</updated>
+      <workItem from="1570102486412" duration="539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1573000" />
+    <option name="totallyTimeSpent" value="539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,18 +179,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FibonacciNumber/Program.cs">
+    <entry file="file://$PROJECT_DIR$/DetectCapital/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="414">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
           <folding>
-            <marker date="1570101108454" expanded="true" signature="40:327" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="69:325" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="122:319" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="350:698" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="378:696" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="414:456" ph="{...}" />
-            <marker date="1570101108454" expanded="true" signature="588:657" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="38:474" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="67:472" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="120:466" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="497:1137" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="545:758" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="812:1033" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="890:1004" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="941:994" ph="{...}" />
+            <marker date="1570102754747" expanded="true" signature="1085:1135" ph="{...}" />
           </folding>
         </state>
       </provider>

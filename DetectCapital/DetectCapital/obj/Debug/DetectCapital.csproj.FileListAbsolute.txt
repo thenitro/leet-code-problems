@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\DetectCapital\DetectCapital\bin\Debug\DetectCapital.exe
+E:\code\leet-code-problems\DetectCapital\DetectCapital\bin\Debug\DetectCapital.pdb
+E:\code\leet-code-problems\DetectCapital\DetectCapital\obj\Debug\DetectCapital.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\DetectCapital\DetectCapital\obj\Debug\DetectCapital.exe
+E:\code\leet-code-problems\DetectCapital\DetectCapital\obj\Debug\DetectCapital.pdb
