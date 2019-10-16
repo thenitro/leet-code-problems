@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6bfa05e-a88f-4acb-821b-ceb6369f80af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LongestContinuousIncreasingSubsequence/.idea/.idea.LongestContinuousIncreasingSubsequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestContinuousIncreasingSubsequence/.idea/.idea.LongestContinuousIncreasingSubsequence/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RotateImage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RotateImage/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -120,12 +121,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571207696503</updated>
-      <workItem from="1571207698875" duration="5431000" />
+      <workItem from="1571207698875" duration="5663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5431000" />
+    <option name="totallyTimeSpent" value="5663000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
