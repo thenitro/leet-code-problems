@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KdiffPairsInAnArray", "KdiffPairsInAnArray\KdiffPairsInAnArray.csproj", "{FC344114-62C6-48C4-928D-6D487BF92FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC344114-62C6-48C4-928D-6D487BF92FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC344114-62C6-48C4-928D-6D487BF92FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC344114-62C6-48C4-928D-6D487BF92FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC344114-62C6-48C4-928D-6D487BF92FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

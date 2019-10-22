@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c8d1f6d-a500-4f5c-814c-af04249f225d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinimumAbsoluteDifferenceInBst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinimumAbsoluteDifferenceInBst/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f63f98a-cf95-4483-8330-28049348841c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MinimumAbsoluteDifferenceInBst/.idea/.idea.MinimumAbsoluteDifferenceInBst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumAbsoluteDifferenceInBst/.idea/.idea.MinimumAbsoluteDifferenceInBst/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,31 +13,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/Program.cs">
+        <entry file="file://$PROJECT_DIR$/KdiffPairsInAnArray/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
               <folding>
-                <marker date="1571726108409" expanded="true" signature="6:47" ph="..." />
-                <marker date="1571726108409" expanded="true" signature="89:879" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="118:877" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="171:871" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="233:367" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="291:353" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="516:779" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="575:640" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="700:765" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="902:1036" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1005:1034" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1059:2057" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1112:2055" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1281:1599" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1399:1469" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1518:1589" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1673:2028" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1727:2018" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1777:1843" ph="{...}" />
-                <marker date="1571726108409" expanded="true" signature="1936:2004" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="6:47" ph="..." />
+                <marker date="1571727694347" expanded="true" signature="120:497" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="149:495" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="202:489" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="520:978" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="566:976" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="627:669" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="760:847" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="881:970" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="915:960" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1006:1751" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1052:1745" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1205:1716" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1269:1706" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1437:1503" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1524:1594" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1627:1692" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1778:2695" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1824:2693" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="1947:2664" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="2007:2654" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="2049:2115" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="2332:2398" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="2419:2489" ph="{...}" />
+                <marker date="1571727694347" expanded="true" signature="2575:2640" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -49,12 +54,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KdiffPairsInAnArray/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/Program.cs" />
+        <option value="$PROJECT_DIR$/KdiffPairsInAnArray/Program.cs" />
       </list>
     </option>
   </component>
@@ -98,14 +103,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/bin/Debug/MinimumAbsoluteDifferenceInBst.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/KdiffPairsInAnArray/bin/Debug/KdiffPairsInAnArray.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KdiffPairsInAnArray/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/MinimumAbsoluteDifferenceInBst.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KdiffPairsInAnArray/KdiffPairsInAnArray.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -121,17 +126,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c8d1f6d-a500-4f5c-814c-af04249f225d" name="Default Changelist" comment="" />
-      <created>1571724120531</created>
+      <changelist id="9f63f98a-cf95-4483-8330-28049348841c" name="Default Changelist" comment="" />
+      <created>1571726594398</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571724120531</updated>
-      <workItem from="1571724122112" duration="3070000" />
+      <updated>1571726594398</updated>
+      <workItem from="1571726595661" duration="1098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3070000" />
+    <option name="totallyTimeSpent" value="1098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,31 +195,36 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinimumAbsoluteDifferenceInBst/Program.cs">
+    <entry file="file://$PROJECT_DIR$/KdiffPairsInAnArray/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding>
-            <marker date="1571726108409" expanded="true" signature="6:47" ph="..." />
-            <marker date="1571726108409" expanded="true" signature="89:879" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="118:877" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="171:871" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="233:367" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="291:353" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="516:779" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="575:640" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="700:765" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="902:1036" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1005:1034" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1059:2057" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1112:2055" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1281:1599" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1399:1469" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1518:1589" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1673:2028" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1727:2018" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1777:1843" ph="{...}" />
-            <marker date="1571726108409" expanded="true" signature="1936:2004" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="6:47" ph="..." />
+            <marker date="1571727694347" expanded="true" signature="120:497" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="149:495" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="202:489" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="520:978" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="566:976" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="627:669" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="760:847" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="881:970" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="915:960" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1006:1751" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1052:1745" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1205:1716" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1269:1706" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1437:1503" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1524:1594" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1627:1692" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1778:2695" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1824:2693" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="1947:2664" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="2007:2654" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="2049:2115" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="2332:2398" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="2419:2489" ph="{...}" />
+            <marker date="1571727694347" expanded="true" signature="2575:2640" ph="{...}" />
           </folding>
         </state>
       </provider>
