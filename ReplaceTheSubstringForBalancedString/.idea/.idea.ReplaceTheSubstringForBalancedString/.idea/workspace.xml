@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecdbfeb2-93ea-4f7c-8d16-237af0fe1fe5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SortColors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SortColors/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0113ae2b-9bee-4753-9cca-a099de402044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SortColors/.idea/.idea.SortColors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortColors/.idea/.idea.SortColors/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +13,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SortColors/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="225">
+              <caret line="18" selection-start-line="18" selection-end-line="69" selection-end-column="1" />
               <folding>
-                <marker date="1571745493254" expanded="true" signature="35:310" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="64:308" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="117:302" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="333:740" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="374:738" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="446:505" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="576:732" ph="{...}" />
-                <marker date="1571745493254" expanded="true" signature="632:722" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="6:47" ph="..." />
+                <marker date="1571747538781" expanded="true" signature="95:596" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="124:594" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="177:588" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="619:1759" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="661:1757" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="894:978" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="1133:1722" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="1241:1501" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="1296:1359" ph="{...}" />
+                <marker date="1571747538781" expanded="true" signature="1575:1626" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,16 +36,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>count</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SortColors/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SortColors/Program.cs" />
+        <option value="$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,10 +66,10 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,14 +94,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SortColors/bin/Debug/SortColors.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/bin/Debug/ReplaceTheSubstringForBalancedString.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SortColors/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SortColors/SortColors.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/ReplaceTheSubstringForBalancedString.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -109,17 +117,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecdbfeb2-93ea-4f7c-8d16-237af0fe1fe5" name="Default Changelist" comment="" />
-      <created>1571745069320</created>
+      <changelist id="0113ae2b-9bee-4753-9cca-a099de402044" name="Default Changelist" comment="" />
+      <created>1571745675186</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571745069320</updated>
-      <workItem from="1571745070583" duration="1204000" />
+      <updated>1571745675186</updated>
+      <workItem from="1571745676513" duration="1868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1204000" />
+    <option name="totallyTimeSpent" value="1868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,19 +186,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SortColors/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ReplaceTheSubstringForBalancedString/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="69" selection-end-column="1" />
           <folding>
-            <marker date="1571745493254" expanded="true" signature="35:310" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="64:308" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="117:302" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="333:740" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="374:738" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="446:505" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="576:732" ph="{...}" />
-            <marker date="1571745493254" expanded="true" signature="632:722" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="6:47" ph="..." />
+            <marker date="1571747538781" expanded="true" signature="95:596" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="124:594" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="177:588" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="619:1759" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="661:1757" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="894:978" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="1133:1722" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="1241:1501" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="1296:1359" ph="{...}" />
+            <marker date="1571747538781" expanded="true" signature="1575:1626" ph="{...}" />
           </folding>
         </state>
       </provider>
