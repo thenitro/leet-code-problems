@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e88df8b0-b3be-4828-96c8-0250be84e19d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../LongestUncommonSubsequence1/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestUncommonSubsequence1/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberOfEquivalentDominoPairs/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfEquivalentDominoPairs/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="975" />
     <option name="height" value="1048" />
@@ -126,12 +127,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571296107471</updated>
-      <workItem from="1571296108681" duration="6633000" />
+      <workItem from="1571296108681" duration="7233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6633000" />
+    <option name="totallyTimeSpent" value="7233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,7 +144,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />

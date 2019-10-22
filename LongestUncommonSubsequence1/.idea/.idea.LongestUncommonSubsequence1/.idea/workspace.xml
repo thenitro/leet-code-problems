@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b31110b6-b115-46d7-a037-cccafbf44398" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestUncommonSubsequence2/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestUncommonSubsequence2/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../NumberOfEquivalentDominoPairs/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumberOfEquivalentDominoPairs/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="975" />
     <option name="height" value="1048" />
@@ -130,7 +131,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -148,7 +149,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

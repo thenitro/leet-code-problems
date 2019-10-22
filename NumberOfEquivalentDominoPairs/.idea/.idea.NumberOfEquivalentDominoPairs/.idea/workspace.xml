@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e10ac6cb-d25c-4141-9975-5849e9057790" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../LongestUncommonSubsequence1/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestUncommonSubsequence1/.idea/.idea.LongestUncommonSubsequence1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LongestUncommonSubsequence2/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestUncommonSubsequence2/.idea/.idea.LongestUncommonSubsequence2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.NumberOfEquivalentDominoPairs/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +17,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NumberOfEquivalentDominoPairs/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="403">
               <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <marker date="1571215658572" expanded="false" signature="6:47" ph="..." />
@@ -49,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="975" />
     <option name="height" value="1048" />
@@ -135,7 +136,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
@@ -145,7 +146,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -184,7 +185,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NumberOfEquivalentDominoPairs/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="403">
           <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <marker date="1571215658572" expanded="false" signature="6:47" ph="..." />
