@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString2", "ReverseString2\ReverseString2.csproj", "{54DA669F-E342-4317-A51B-51F1876E966B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DA669F-E342-4317-A51B-51F1876E966B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DA669F-E342-4317-A51B-51F1876E966B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DA669F-E342-4317-A51B-51F1876E966B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DA669F-E342-4317-A51B-51F1876E966B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
