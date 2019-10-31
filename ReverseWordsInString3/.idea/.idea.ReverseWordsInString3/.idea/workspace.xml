@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09b91bd0-9535-4c4a-bdf6-da4e3212bf05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ReverseString2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ReverseString2/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="eaaec149-2eb1-46cc-b822-5d8f99a35a17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +13,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReverseString2/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="150">
+              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="86" />
               <folding>
-                <marker date="1572511595395" expanded="true" signature="6:32" ph="..." />
-                <marker date="1572511595395" expanded="true" signature="58:584" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="87:582" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="140:576" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="607:1090" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="655:1088" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="769:1039" ph="{...}" />
-                <marker date="1572511595395" expanded="true" signature="892:1029" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="6:55" ph="..." />
+                <marker date="1572517645107" expanded="true" signature="88:352" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="117:350" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="170:344" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="375:1421" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="418:1419" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="542:1327" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="606:1245" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="852:1185" ph="{...}" />
+                <marker date="1572517645107" expanded="true" signature="1262:1317" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,23 +39,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ReverseString2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReverseString2/Program.cs" />
+        <option value="$PROJECT_DIR$/ReverseWordsInString3/Program.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="975" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -88,14 +88,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseString2/bin/Debug/ReverseString2.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseWordsInString3/bin/Debug/ReverseWordsInString3.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseString2/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseWordsInString3/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseString2/ReverseString2.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseWordsInString3/ReverseWordsInString3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09b91bd0-9535-4c4a-bdf6-da4e3212bf05" name="Default Changelist" comment="" />
-      <created>1572508239882</created>
+      <changelist id="eaaec149-2eb1-46cc-b822-5d8f99a35a17" name="Default Changelist" comment="" />
+      <created>1572512151705</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572508239882</updated>
-      <workItem from="1572508241191" duration="3942000" />
+      <updated>1572512151705</updated>
+      <workItem from="1572512152935" duration="1745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3942000" />
+    <option name="totallyTimeSpent" value="1745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,7 +133,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -180,19 +180,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReverseString2/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="150">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="86" />
           <folding>
-            <marker date="1572511595395" expanded="true" signature="6:32" ph="..." />
-            <marker date="1572511595395" expanded="true" signature="58:584" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="87:582" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="140:576" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="607:1090" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="655:1088" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="769:1039" ph="{...}" />
-            <marker date="1572511595395" expanded="true" signature="892:1029" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="6:55" ph="..." />
+            <marker date="1572517645107" expanded="true" signature="88:352" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="117:350" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="170:344" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="375:1421" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="418:1419" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="542:1327" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="606:1245" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="852:1185" ph="{...}" />
+            <marker date="1572517645107" expanded="true" signature="1262:1317" ph="{...}" />
           </folding>
         </state>
       </provider>
