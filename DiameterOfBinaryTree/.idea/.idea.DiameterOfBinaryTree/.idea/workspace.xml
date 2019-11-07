@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaaec149-2eb1-46cc-b822-5d8f99a35a17" name="Default Changelist" comment="">
+    <list default="true" id="03aad4f9-e0e9-484e-97d8-ced7bf7bab0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseWordsInString3/.idea/.idea.ReverseWordsInString3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseWordsInString3/.idea/.idea.ReverseWordsInString3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,22 +14,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs">
+        <entry file="file://$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="15" selection-start-line="15" selection-end-line="54" selection-end-column="1" />
+            <state relative-caret-position="294">
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               <folding>
-                <marker date="1572517788910" expanded="true" signature="6:55" ph="..." />
-                <marker date="1572517788910" expanded="true" signature="88:352" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="117:350" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="170:344" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="375:1335" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="418:1333" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="542:1286" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="606:1204" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="661:764" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="891:1144" ph="{...}" />
-                <marker date="1572517788910" expanded="true" signature="1221:1276" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="45:720" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="74:718" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="127:712" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="189:408" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="246:353" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="744:860" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="883:1417" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="966:1079" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="1138:1415" ph="{...}" />
+                <marker date="1572945789890" expanded="true" signature="1170:1212" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,12 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ReverseWordsInString3/Program.cs" />
+        <option value="$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs" />
       </list>
     </option>
   </component>
@@ -89,14 +89,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ReverseWordsInString3/bin/Debug/ReverseWordsInString3.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DiameterOfBinaryTree/bin/Debug/DiameterOfBinaryTree.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ReverseWordsInString3/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiameterOfBinaryTree/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ReverseWordsInString3/ReverseWordsInString3.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DiameterOfBinaryTree/DiameterOfBinaryTree.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +112,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eaaec149-2eb1-46cc-b822-5d8f99a35a17" name="Default Changelist" comment="" />
-      <created>1572512151705</created>
+      <changelist id="03aad4f9-e0e9-484e-97d8-ced7bf7bab0f" name="Default Changelist" comment="" />
+      <created>1572945031521</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572512151705</updated>
-      <workItem from="1572512152935" duration="2459000" />
+      <updated>1572945031521</updated>
+      <workItem from="1572945032700" duration="3142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2459000" />
+    <option name="totallyTimeSpent" value="3142000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +152,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,22 +181,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ReverseWordsInString3/Program.cs">
+    <entry file="file://$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="15" selection-start-line="15" selection-end-line="54" selection-end-column="1" />
+        <state relative-caret-position="294">
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           <folding>
-            <marker date="1572517788910" expanded="true" signature="6:55" ph="..." />
-            <marker date="1572517788910" expanded="true" signature="88:352" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="117:350" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="170:344" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="375:1335" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="418:1333" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="542:1286" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="606:1204" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="661:764" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="891:1144" ph="{...}" />
-            <marker date="1572517788910" expanded="true" signature="1221:1276" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="45:720" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="74:718" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="127:712" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="189:408" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="246:353" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="744:860" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="883:1417" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="966:1079" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="1138:1415" ph="{...}" />
+            <marker date="1572945789890" expanded="true" signature="1170:1212" ph="{...}" />
           </folding>
         </state>
       </provider>
