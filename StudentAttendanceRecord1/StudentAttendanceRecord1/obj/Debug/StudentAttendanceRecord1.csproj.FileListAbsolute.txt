@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\StudentAttendanceRecord1\StudentAttendanceRecord1\bin\Debug\StudentAttendanceRecord1.exe
+E:\code\leet-code-problems\StudentAttendanceRecord1\StudentAttendanceRecord1\bin\Debug\StudentAttendanceRecord1.pdb
+E:\code\leet-code-problems\StudentAttendanceRecord1\StudentAttendanceRecord1\obj\Debug\StudentAttendanceRecord1.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\StudentAttendanceRecord1\StudentAttendanceRecord1\obj\Debug\StudentAttendanceRecord1.exe
+E:\code\leet-code-problems\StudentAttendanceRecord1\StudentAttendanceRecord1\obj\Debug\StudentAttendanceRecord1.pdb

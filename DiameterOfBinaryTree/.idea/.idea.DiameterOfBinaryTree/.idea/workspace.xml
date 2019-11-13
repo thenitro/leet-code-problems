@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03aad4f9-e0e9-484e-97d8-ced7bf7bab0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString2/.idea/.idea.ReverseString2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReverseWordsInString3/.idea/.idea.ReverseWordsInString3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseWordsInString3/.idea/.idea.ReverseWordsInString3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NumTrees/.idea/.idea.NumTrees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NumTrees/.idea/.idea.NumTrees/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +15,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="598">
               <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
               <folding>
                 <marker date="1572945789890" expanded="true" signature="45:720" ph="{...}" />
@@ -152,7 +151,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -183,7 +182,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DiameterOfBinaryTree/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="598">
           <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
           <folding>
             <marker date="1572945789890" expanded="true" signature="45:720" ph="{...}" />
