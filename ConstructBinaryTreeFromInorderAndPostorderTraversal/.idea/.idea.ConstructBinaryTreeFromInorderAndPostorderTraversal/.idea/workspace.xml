@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1175526-3613-409a-8114-50a2f2314711" name="Default Changelist" comment="">
+    <list default="true" id="14938788-c5ca-4b22-9a1a-e644e67119d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../QuadTreeIntersection/.idea/.idea.QuadTreeIntersection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuadTreeIntersection/.idea/.idea.QuadTreeIntersection/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StudentAttendanceRecord1/.idea/.idea.StudentAttendanceRecord1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentAttendanceRecord1/.idea/.idea.StudentAttendanceRecord1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +14,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/QuadTreeIntersection/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+            <state relative-caret-position="688">
+              <caret line="74" column="23" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="23" />
               <folding>
-                <marker date="1573650117396" expanded="true" signature="30:140" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="59:138" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="112:132" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="440:617" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="641:2153" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="701:2150" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="757:868" ph="{...}" />
-                <marker date="1573650117396" expanded="true" signature="1960:2052" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="6:47" ph="..." />
+                <marker date="1573748561090" expanded="true" signature="110:934" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="139:932" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="192:652" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="703:926" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="743:795" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="958:1074" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1097:2181" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1165:1546" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1229:1274" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1378:1434" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1690:2179" ph="{...}" />
+                <marker date="1573748561090" expanded="true" signature="1736:1781" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -33,16 +39,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>No locations in config</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/QuadTreeIntersection/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/QuadTreeIntersection/Program.cs" />
+        <option value="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,11 +68,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,19 +97,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/bin/Debug/ConstructBinaryTreeFromInorderAndPostorderTraversal.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -109,17 +120,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1175526-3613-409a-8114-50a2f2314711" name="Default Changelist" comment="" />
-      <created>1573649800012</created>
+      <changelist id="14938788-c5ca-4b22-9a1a-e644e67119d6" name="Default Changelist" comment="" />
+      <created>1573742062452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573649800012</updated>
-      <workItem from="1573649801820" duration="1041000" />
+      <updated>1573742062452</updated>
+      <workItem from="1573742063607" duration="8317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1041000" />
+    <option name="totallyTimeSpent" value="8317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -132,12 +143,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -146,9 +156,10 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,19 +188,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/QuadTreeIntersection/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="36" column="72" lean-forward="true" selection-start-line="36" selection-start-column="72" selection-end-line="36" selection-end-column="72" />
+        <state relative-caret-position="688">
+          <caret line="74" column="23" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="23" />
           <folding>
-            <marker date="1573650117396" expanded="true" signature="30:140" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="59:138" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="112:132" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="440:617" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="641:2153" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="701:2150" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="757:868" ph="{...}" />
-            <marker date="1573650117396" expanded="true" signature="1960:2052" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="6:47" ph="..." />
+            <marker date="1573748561090" expanded="true" signature="110:934" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="139:932" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="192:652" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="703:926" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="743:795" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="958:1074" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1097:2181" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1165:1546" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1229:1274" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1378:1434" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1690:2179" ph="{...}" />
+            <marker date="1573748561090" expanded="true" signature="1736:1781" ph="{...}" />
           </folding>
         </state>
       </provider>
