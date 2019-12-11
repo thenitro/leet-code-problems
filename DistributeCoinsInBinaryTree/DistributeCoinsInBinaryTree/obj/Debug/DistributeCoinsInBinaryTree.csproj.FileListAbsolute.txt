@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\DistributeCoinsInBinaryTree\DistributeCoinsInBinaryTree\bin\Debug\DistributeCoinsInBinaryTree.exe
+E:\code\leet-code-problems\DistributeCoinsInBinaryTree\DistributeCoinsInBinaryTree\bin\Debug\DistributeCoinsInBinaryTree.pdb
+E:\code\leet-code-problems\DistributeCoinsInBinaryTree\DistributeCoinsInBinaryTree\obj\Debug\DistributeCoinsInBinaryTree.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\DistributeCoinsInBinaryTree\DistributeCoinsInBinaryTree\obj\Debug\DistributeCoinsInBinaryTree.exe
+E:\code\leet-code-problems\DistributeCoinsInBinaryTree\DistributeCoinsInBinaryTree\obj\Debug\DistributeCoinsInBinaryTree.pdb
