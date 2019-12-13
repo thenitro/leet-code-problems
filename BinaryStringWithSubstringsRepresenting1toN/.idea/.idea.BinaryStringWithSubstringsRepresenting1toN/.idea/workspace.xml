@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77fb02cc-0bef-4469-b781-e2ebf911642e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BinaryStringWithSubstringsRepresenting1toN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BinaryStringWithSubstringsRepresenting1toN/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DistributeCoinsInBinaryTree/.idea/.idea.DistributeCoinsInBinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DistributeCoinsInBinaryTree/.idea/.idea.DistributeCoinsInBinaryTree/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,16 +16,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BinaryStringWithSubstringsRepresenting1toN/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <marker date="1576224845970" expanded="true" signature="67:334" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="96:332" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="149:326" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="358:760" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="404:758" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="482:728" ph="{...}" />
-                <marker date="1576224845970" expanded="true" signature="635:718" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="67:334" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="96:332" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="149:326" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="358:717" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="404:715" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="483:685" ph="{...}" />
+                <marker date="1576226923371" expanded="true" signature="592:675" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,6 +37,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/ee/26ac3946/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BinaryStringWithSubstringsRepresenting1toN/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -113,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576224615210</updated>
-      <workItem from="1576224616505" duration="868000" />
+      <workItem from="1576224616505" duration="2230000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="868000" />
+    <option name="totallyTimeSpent" value="2230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -177,18 +179,25 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/ee/26ac3946/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1884" column="16" selection-start-line="1884" selection-start-column="16" selection-end-line="1884" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BinaryStringWithSubstringsRepresenting1toN/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <marker date="1576224845970" expanded="true" signature="67:334" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="96:332" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="149:326" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="358:760" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="404:758" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="482:728" ph="{...}" />
-            <marker date="1576224845970" expanded="true" signature="635:718" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="67:334" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="96:332" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="149:326" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="358:717" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="404:715" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="483:685" ph="{...}" />
+            <marker date="1576226923371" expanded="true" signature="592:675" ph="{...}" />
           </folding>
         </state>
       </provider>
