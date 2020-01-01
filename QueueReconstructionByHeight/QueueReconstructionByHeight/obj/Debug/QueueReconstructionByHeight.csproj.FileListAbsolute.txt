@@ -1,0 +1,6 @@
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\bin\Debug\QueueReconstructionByHeight.exe
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\bin\Debug\QueueReconstructionByHeight.pdb
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\QueueReconstructionByHeight.csprojAssemblyReference.cache
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\QueueReconstructionByHeight.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\QueueReconstructionByHeight.exe
+D:\leet-code-problems\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\QueueReconstructionByHeight.pdb
