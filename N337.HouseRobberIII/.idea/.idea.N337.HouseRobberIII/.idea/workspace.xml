@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6273ae9f-e638-46fb-ba0a-2ed61f4f0ad2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MinimumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MinimumPathSum/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="584f5762-0221-403a-aafc-1cfed7ecdfc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MinimumPathSum/.idea/.idea.MinimumPathSum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinimumPathSum/.idea/.idea.MinimumPathSum/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,23 +13,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MinimumPathSum/Program.cs">
+        <entry file="file://$PROJECT_DIR$/N337.HouseRobberIII/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+            <state relative-caret-position="489">
+              <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
               <folding>
-                <marker date="1580293658707" expanded="true" signature="39:382" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="68:380" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="121:374" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="173:293" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="405:1529" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="448:1527" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="562:1227" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="625:1217" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="677:788" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="817:945" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="990:1118" ph="{...}" />
-                <marker date="1580293658707" expanded="true" signature="1237:1462" ph="/* for (var i = 0; i &lt; grid.Length; i++) ... */" />
+                <marker date="1580377023597" expanded="true" signature="6:47" ph="..." />
+                <marker date="1580377023597" expanded="true" signature="78:1078" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="107:1076" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="160:1070" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="223:478" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="280:343" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="401:464" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="609:908" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="666:773" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="831:894" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1101:1235" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1204:1233" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1258:1634" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1294:1454" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1326:1368" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1495:1632" ph="{...}" />
+                <marker date="1580377023597" expanded="true" signature="1561:1608" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -41,12 +46,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/MinimumPathSum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/N337.HouseRobberIII/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MinimumPathSum/Program.cs" />
+        <option value="$PROJECT_DIR$/N337.HouseRobberIII/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,10 +66,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="N337.HouseRobberIII" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="N337.HouseRobberIII" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="N337.HouseRobberIII" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
     </panes>
   </component>
@@ -90,14 +109,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/MinimumPathSum/bin/Debug/MinimumPathSum.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/N337.HouseRobberIII/bin/Debug/N337.HouseRobberIII.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinimumPathSum/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/N337.HouseRobberIII/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/N337.HouseRobberIII/N337.HouseRobberIII.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -113,17 +132,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6273ae9f-e638-46fb-ba0a-2ed61f4f0ad2" name="Default Changelist" comment="" />
-      <created>1580292849496</created>
+      <changelist id="584f5762-0221-403a-aafc-1cfed7ecdfc3" name="Default Changelist" comment="" />
+      <created>1580375256694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580292849496</updated>
-      <workItem from="1580292850824" duration="1419000" />
+      <updated>1580375256694</updated>
+      <workItem from="1580375257872" duration="1766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
+    <option name="totallyTimeSpent" value="1766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,7 +172,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -182,23 +201,28 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MinimumPathSum/Program.cs">
+    <entry file="file://$PROJECT_DIR$/N337.HouseRobberIII/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+        <state relative-caret-position="489">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
           <folding>
-            <marker date="1580293658707" expanded="true" signature="39:382" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="68:380" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="121:374" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="173:293" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="405:1529" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="448:1527" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="562:1227" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="625:1217" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="677:788" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="817:945" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="990:1118" ph="{...}" />
-            <marker date="1580293658707" expanded="true" signature="1237:1462" ph="/* for (var i = 0; i &lt; grid.Length; i++) ... */" />
+            <marker date="1580377023597" expanded="true" signature="6:47" ph="..." />
+            <marker date="1580377023597" expanded="true" signature="78:1078" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="107:1076" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="160:1070" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="223:478" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="280:343" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="401:464" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="609:908" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="666:773" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="831:894" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1101:1235" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1204:1233" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1258:1634" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1294:1454" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1326:1368" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1495:1632" ph="{...}" />
+            <marker date="1580377023597" expanded="true" signature="1561:1608" ph="{...}" />
           </folding>
         </state>
       </provider>
