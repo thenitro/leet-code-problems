@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace TargetSum
 {
@@ -13,38 +12,6 @@ namespace TargetSum
 }
 
 public class Solution
-{
-    private int _result = 0;
-    
-    public int FindTargetSumWays(int[] nums, int S)
-    {
-        var result = new int[(int)Math.Pow(2, nums.Length - 1)];
-        
-        _result = 0;
-        
-        Dfs(nums, 0, 0, S);
-
-        return _result;
-    }
-
-    private void Dfs(int[] nums, int startIndex, int currentSum, int targetSum)
-    {
-        if (startIndex >= nums.Length)
-        {
-            if (currentSum == targetSum)
-            {
-                _result++;
-            }
-            
-            return;
-        }
-
-        Dfs(nums, startIndex + 1, currentSum + nums[startIndex], targetSum);
-        Dfs(nums, startIndex + 1, currentSum - nums[startIndex], targetSum);
-    }
-}
-
-public class SolutionDfs
 {
     private int _result = 0;
     
