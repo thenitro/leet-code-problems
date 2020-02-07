@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\ParseLispExpression\ParseLispExpression\bin\Debug\ParseLispExpression.exe
+E:\code\leet-code-problems\ParseLispExpression\ParseLispExpression\bin\Debug\ParseLispExpression.pdb
+E:\code\leet-code-problems\ParseLispExpression\ParseLispExpression\obj\Debug\ParseLispExpression.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\ParseLispExpression\ParseLispExpression\obj\Debug\ParseLispExpression.exe
+E:\code\leet-code-problems\ParseLispExpression\ParseLispExpression\obj\Debug\ParseLispExpression.pdb
