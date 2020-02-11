@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\DivisorGame\DivisorGame\bin\Debug\DivisorGame.exe
+E:\code\leet-code-problems\DivisorGame\DivisorGame\bin\Debug\DivisorGame.pdb
+E:\code\leet-code-problems\DivisorGame\DivisorGame\obj\Debug\DivisorGame.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\DivisorGame\DivisorGame\obj\Debug\DivisorGame.exe
+E:\code\leet-code-problems\DivisorGame\DivisorGame\obj\Debug\DivisorGame.pdb
