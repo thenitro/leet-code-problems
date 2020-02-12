@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\JewelsAndStones\JewelsAndStones\bin\Debug\JewelsAndStones.exe
+E:\code\leet-code-problems\JewelsAndStones\JewelsAndStones\bin\Debug\JewelsAndStones.pdb
+E:\code\leet-code-problems\JewelsAndStones\JewelsAndStones\obj\Debug\JewelsAndStones.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\JewelsAndStones\JewelsAndStones\obj\Debug\JewelsAndStones.exe
+E:\code\leet-code-problems\JewelsAndStones\JewelsAndStones\obj\Debug\JewelsAndStones.pdb

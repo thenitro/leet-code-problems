@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="815d4184-614c-41f5-a9f4-d64cb644373b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DivisorGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DivisorGame/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f86c28cf-fb8e-40a3-80ed-ec897bf6286e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DivisorGame/.idea/.idea.DivisorGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DivisorGame/.idea/.idea.DivisorGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,19 +13,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DivisorGame/Program.cs">
+        <entry file="file://$PROJECT_DIR$/JewelsAndStones/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="17" selection-start-line="14" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="69">
+              <caret line="15" selection-start-line="15" selection-end-line="42" selection-end-column="1" />
               <folding>
-                <marker date="1581407783904" expanded="true" signature="36:287" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="65:285" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="118:279" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="311:662" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="348:660" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="426:631" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="476:621" ph="{...}" />
-                <marker date="1581407783904" expanded="true" signature="522:607" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="6:47" ph="..." />
+                <marker date="1581507420528" expanded="true" signature="74:352" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="103:350" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="156:344" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="375:988" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="430:986" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="534:704" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="773:956" ph="{...}" />
+                <marker date="1581507420528" expanded="true" signature="869:946" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,13 +37,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/DivisorGame/Program.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DivisorGame/Program.cs" />
+        <option value="$PROJECT_DIR$/JewelsAndStones/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,11 +55,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -86,14 +84,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/DivisorGame/bin/Debug/DivisorGame.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/JewelsAndStones/bin/Debug/JewelsAndStones.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DivisorGame/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JewelsAndStones/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DivisorGame/DivisorGame.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -109,26 +107,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="815d4184-614c-41f5-a9f4-d64cb644373b" name="Default Changelist" comment="" />
-      <created>1581407153610</created>
+      <changelist id="f86c28cf-fb8e-40a3-80ed-ec897bf6286e" name="Default Changelist" comment="" />
+      <created>1581507251655</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581407153610</updated>
-      <workItem from="1581407154814" duration="1949000" />
+      <updated>1581507251655</updated>
+      <workItem from="1581507253070" duration="264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1949000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="264000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -149,7 +138,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,19 +167,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DivisorGame/Program.cs">
+    <entry file="file://$PROJECT_DIR$/JewelsAndStones/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="17" selection-start-line="14" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="69">
+          <caret line="15" selection-start-line="15" selection-end-line="42" selection-end-column="1" />
           <folding>
-            <marker date="1581407783904" expanded="true" signature="36:287" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="65:285" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="118:279" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="311:662" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="348:660" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="426:631" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="476:621" ph="{...}" />
-            <marker date="1581407783904" expanded="true" signature="522:607" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="6:47" ph="..." />
+            <marker date="1581507420528" expanded="true" signature="74:352" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="103:350" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="156:344" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="375:988" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="430:986" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="534:704" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="773:956" ph="{...}" />
+            <marker date="1581507420528" expanded="true" signature="869:946" ph="{...}" />
           </folding>
         </state>
       </provider>
