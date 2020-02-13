@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f86c28cf-fb8e-40a3-80ed-ec897bf6286e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JewelsAndStones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JewelsAndStones/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="030aef61-ece4-441a-be83-049c32238db7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JewelsAndStones/.idea/.idea.JewelsAndStones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JewelsAndStones/.idea/.idea.JewelsAndStones/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JewelsAndStones/Program.cs">
+        <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="15" selection-start-line="15" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="444">
+              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
               <folding>
-                <marker date="1581507420528" expanded="true" signature="6:47" ph="..." />
-                <marker date="1581507420528" expanded="true" signature="74:352" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="103:350" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="156:344" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="375:988" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="430:986" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="534:704" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="773:956" ph="{...}" />
-                <marker date="1581507420528" expanded="true" signature="869:946" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="53:871" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="82:869" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="135:863" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="258:853" ph="/* Console.WriteLine(4 == new Solution().LengthOfLIS(new[] {2, 5, 3, 7, 101, 18})); ... */" />
+                <marker date="1581579659936" expanded="true" signature="894:1543" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="935:1541" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="987:1029" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="1176:1503" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="1254:1411" ph="{...}" />
+                <marker date="1581579659936" expanded="true" signature="1307:1397" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JewelsAndStones/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LongestIncreasingSubsequence/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JewelsAndStones/Program.cs" />
+        <option value="$PROJECT_DIR$/LongestIncreasingSubsequence/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,11 +59,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,14 +88,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/JewelsAndStones/bin/Debug/JewelsAndStones.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LongestIncreasingSubsequence/bin/Debug/LongestIncreasingSubsequence.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JewelsAndStones/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LongestIncreasingSubsequence/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/JewelsAndStones/JewelsAndStones.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LongestIncreasingSubsequence/LongestIncreasingSubsequence.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f86c28cf-fb8e-40a3-80ed-ec897bf6286e" name="Default Changelist" comment="" />
-      <created>1581507251655</created>
+      <changelist id="030aef61-ece4-441a-be83-049c32238db7" name="Default Changelist" comment="" />
+      <created>1581507714854</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581507251655</updated>
-      <workItem from="1581507253070" duration="1061000" />
+      <updated>1581507714854</updated>
+      <workItem from="1581507716053" duration="5798000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1061000" />
+    <option name="totallyTimeSpent" value="5798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +155,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Errors In Solution" />
       <window_info anchor="right" id="Database" />
@@ -179,20 +180,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JewelsAndStones/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="15" selection-start-line="15" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="444">
+          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
           <folding>
-            <marker date="1581507420528" expanded="true" signature="6:47" ph="..." />
-            <marker date="1581507420528" expanded="true" signature="74:352" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="103:350" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="156:344" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="375:988" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="430:986" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="534:704" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="773:956" ph="{...}" />
-            <marker date="1581507420528" expanded="true" signature="869:946" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="53:871" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="82:869" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="135:863" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="258:853" ph="/* Console.WriteLine(4 == new Solution().LengthOfLIS(new[] {2, 5, 3, 7, 101, 18})); ... */" />
+            <marker date="1581579659936" expanded="true" signature="894:1543" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="935:1541" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="987:1029" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="1176:1503" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="1254:1411" ph="{...}" />
+            <marker date="1581579659936" expanded="true" signature="1307:1397" ph="{...}" />
           </folding>
         </state>
       </provider>
