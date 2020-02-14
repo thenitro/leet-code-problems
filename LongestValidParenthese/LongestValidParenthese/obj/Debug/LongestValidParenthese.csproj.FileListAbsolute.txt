@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\LongestValidParenthese\LongestValidParenthese\bin\Debug\LongestValidParenthese.exe
+E:\code\leet-code-problems\LongestValidParenthese\LongestValidParenthese\bin\Debug\LongestValidParenthese.pdb
+E:\code\leet-code-problems\LongestValidParenthese\LongestValidParenthese\obj\Debug\LongestValidParenthese.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\LongestValidParenthese\LongestValidParenthese\obj\Debug\LongestValidParenthese.exe
+E:\code\leet-code-problems\LongestValidParenthese\LongestValidParenthese\obj\Debug\LongestValidParenthese.pdb
