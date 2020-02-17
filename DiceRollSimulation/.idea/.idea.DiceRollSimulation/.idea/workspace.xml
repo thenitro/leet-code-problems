@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fa632b6-642b-4682-90e3-d6459430c3d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongestValidParenthese/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongestValidParenthese/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5c71be19-e247-4ce8-b8c3-4b1ebc1d6a04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LongestValidParenthese/.idea/.idea.LongestValidParenthese/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestValidParenthese/.idea/.idea.LongestValidParenthese/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,24 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LongestValidParenthese/Program.cs">
+        <entry file="file://$PROJECT_DIR$/DiceRollSimulation/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="504">
+              <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
               <folding>
-                <marker date="1581667465572" expanded="true" signature="47:411" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="76:409" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="129:403" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="434:1098" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="485:1096" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="604:1066" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="643:1009" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="694:788" ph="{...}" />
-                <marker date="1581667465572" expanded="true" signature="863:995" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="6:65" ph="..." />
+                <marker date="1581927107146" expanded="true" signature="118:514" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="147:512" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="200:506" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="538:1693" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="626:1691" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="751:797" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="857:1650" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="951:1611" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="1047:1137" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="1158:1597" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="1225:1394" ph="{...}" />
+                <marker date="1581927107146" expanded="true" signature="1419:1524" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -38,12 +42,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LongestValidParenthese/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiceRollSimulation/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LongestValidParenthese/Program.cs" />
+        <option value="$PROJECT_DIR$/DiceRollSimulation/Program.cs" />
       </list>
     </option>
   </component>
@@ -71,6 +75,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -87,14 +92,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/LongestValidParenthese/bin/Debug/LongestValidParenthese.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/DiceRollSimulation/bin/Debug/DiceRollSimulation.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LongestValidParenthese/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DiceRollSimulation/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LongestValidParenthese/LongestValidParenthese.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DiceRollSimulation/DiceRollSimulation.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -110,17 +115,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1fa632b6-642b-4682-90e3-d6459430c3d3" name="Default Changelist" comment="" />
-      <created>1581662801966</created>
+      <changelist id="5c71be19-e247-4ce8-b8c3-4b1ebc1d6a04" name="Default Changelist" comment="" />
+      <created>1581923558881</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581662801966</updated>
-      <workItem from="1581662803250" duration="5157000" />
+      <updated>1581923558881</updated>
+      <workItem from="1581923560736" duration="3195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5157000" />
+    <option name="totallyTimeSpent" value="3195000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,20 +184,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LongestValidParenthese/Program.cs">
+    <entry file="file://$PROJECT_DIR$/DiceRollSimulation/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="504">
+          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
           <folding>
-            <marker date="1581667465572" expanded="true" signature="47:411" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="76:409" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="129:403" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="434:1098" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="485:1096" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="604:1066" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="643:1009" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="694:788" ph="{...}" />
-            <marker date="1581667465572" expanded="true" signature="863:995" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="6:65" ph="..." />
+            <marker date="1581927107146" expanded="true" signature="118:514" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="147:512" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="200:506" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="538:1693" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="626:1691" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="751:797" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="857:1650" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="951:1611" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="1047:1137" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="1158:1597" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="1225:1394" ph="{...}" />
+            <marker date="1581927107146" expanded="true" signature="1419:1524" ph="{...}" />
           </folding>
         </state>
       </provider>
