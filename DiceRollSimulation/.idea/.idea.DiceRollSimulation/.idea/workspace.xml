@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DiceRollSimulation/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+            <state relative-caret-position="135">
+              <caret line="19" selection-start-line="19" selection-end-line="67" selection-end-column="1" />
               <folding>
                 <marker date="1581927107146" expanded="true" signature="6:65" ph="..." />
                 <marker date="1581927107146" expanded="true" signature="118:514" ph="{...}" />
@@ -120,12 +120,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581923558881</updated>
-      <workItem from="1581923560736" duration="3195000" />
+      <workItem from="1581923560736" duration="3799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3195000" />
+    <option name="totallyTimeSpent" value="3799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -155,7 +155,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,8 +186,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DiceRollSimulation/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        <state relative-caret-position="135">
+          <caret line="19" selection-start-line="19" selection-end-line="67" selection-end-column="1" />
           <folding>
             <marker date="1581927107146" expanded="true" signature="6:65" ph="..." />
             <marker date="1581927107146" expanded="true" signature="118:514" ph="{...}" />

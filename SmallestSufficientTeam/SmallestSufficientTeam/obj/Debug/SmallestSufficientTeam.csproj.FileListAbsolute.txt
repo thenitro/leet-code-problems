@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\SmallestSufficientTeam\SmallestSufficientTeam\bin\Debug\SmallestSufficientTeam.exe
+E:\code\leet-code-problems\SmallestSufficientTeam\SmallestSufficientTeam\bin\Debug\SmallestSufficientTeam.pdb
+E:\code\leet-code-problems\SmallestSufficientTeam\SmallestSufficientTeam\obj\Debug\SmallestSufficientTeam.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\SmallestSufficientTeam\SmallestSufficientTeam\obj\Debug\SmallestSufficientTeam.exe
+E:\code\leet-code-problems\SmallestSufficientTeam\SmallestSufficientTeam\obj\Debug\SmallestSufficientTeam.pdb
