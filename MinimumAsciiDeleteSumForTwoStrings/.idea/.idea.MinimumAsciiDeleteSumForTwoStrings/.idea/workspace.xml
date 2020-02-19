@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823f140f-1d2b-4811-ac27-fe1e28bb882a" name="Default Changelist" comment="" />
+    <list default="true" id="dee7f62f-9d4b-4553-b4ec-858e351e9c9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SmallestSufficientTeam/.idea/.idea.SmallestSufficientTeam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SmallestSufficientTeam/.idea/.idea.SmallestSufficientTeam/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,27 +13,25 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SmallestSufficientTeam/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+            <state relative-caret-position="345">
+              <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
               <folding>
-                <marker date="1582013217617" expanded="true" signature="6:85" ph="..." />
-                <marker date="1582013217617" expanded="true" signature="119:1167" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="148:1165" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="201:1159" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="374:545" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="754:1145" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1190:2769" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1282:2767" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1458:1519" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1664:2538" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1761:1847" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1902:2528" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="1957:2023" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="2151:2217" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="2317:2514" ph="{...}" />
-                <marker date="1582013217617" expanded="true" signature="2688:2740" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="59:343" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="88:341" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="141:335" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="366:1653" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="422:1317" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="534:620" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="678:764" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="834:1285" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="897:1239" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="947:1032" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="1053:1225" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="1356:1651" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="1454:1645" ph="{...}" />
+                <marker date="1582105391482" expanded="true" signature="1522:1601" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,12 +43,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SmallestSufficientTeam/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SmallestSufficientTeam/Program.cs" />
+        <option value="$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/Program.cs" />
       </list>
     </option>
   </component>
@@ -92,14 +92,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SmallestSufficientTeam/bin/Debug/SmallestSufficientTeam.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/bin/Debug/MinimumAsciiDeleteSumForTwoStrings.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SmallestSufficientTeam/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SmallestSufficientTeam/SmallestSufficientTeam.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/MinimumAsciiDeleteSumForTwoStrings.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -115,17 +115,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="823f140f-1d2b-4811-ac27-fe1e28bb882a" name="Default Changelist" comment="" />
-      <created>1582011351807</created>
+      <changelist id="dee7f62f-9d4b-4553-b4ec-858e351e9c9d" name="Default Changelist" comment="" />
+      <created>1582101922569</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582011351807</updated>
-      <workItem from="1582011352955" duration="2520000" />
+      <updated>1582101922569</updated>
+      <workItem from="1582101925137" duration="3391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2520000" />
+    <option name="totallyTimeSpent" value="3391000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,6 +138,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -183,27 +184,25 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SmallestSufficientTeam/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MinimumAsciiDeleteSumForTwoStrings/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        <state relative-caret-position="345">
+          <caret line="44" column="17" lean-forward="true" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
           <folding>
-            <marker date="1582013217617" expanded="true" signature="6:85" ph="..." />
-            <marker date="1582013217617" expanded="true" signature="119:1167" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="148:1165" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="201:1159" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="374:545" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="754:1145" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1190:2769" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1282:2767" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1458:1519" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1664:2538" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1761:1847" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1902:2528" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="1957:2023" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="2151:2217" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="2317:2514" ph="{...}" />
-            <marker date="1582013217617" expanded="true" signature="2688:2740" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="59:343" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="88:341" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="141:335" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="366:1653" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="422:1317" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="534:620" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="678:764" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="834:1285" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="897:1239" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="947:1032" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="1053:1225" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="1356:1651" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="1454:1645" ph="{...}" />
+            <marker date="1582105391482" expanded="true" signature="1522:1601" ph="{...}" />
           </folding>
         </state>
       </provider>
