@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfb3f4b-7e3b-4641-b2a1-6c743759a17b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DeleteOperationForTwoStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DeleteOperationForTwoStrings/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6bed0720-221f-4321-ac5d-740d994809d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DeleteOperationForTwoStrings/.idea/.idea.DeleteOperationForTwoStrings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeleteOperationForTwoStrings/.idea/.idea.DeleteOperationForTwoStrings/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,22 +13,22 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeleteOperationForTwoStrings/Program.cs">
+        <entry file="file://$PROJECT_DIR$/EditDistance/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="675">
+              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
               <folding>
-                <marker date="1582181524880" expanded="true" signature="53:317" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="82:315" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="135:309" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="340:1149" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="397:1147" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="514:560" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="617:663" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="720:1085" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="782:1075" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="846:931" ph="{...}" />
-                <marker date="1582181524880" expanded="true" signature="952:1061" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="37:317" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="66:315" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="119:309" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="340:1243" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="397:1241" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="514:560" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="617:663" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="712:1187" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="774:1177" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="838:923" ph="{...}" />
+                <marker date="1582270143556" expanded="true" signature="944:1163" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,12 +40,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/DeleteOperationForTwoStrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EditDistance/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DeleteOperationForTwoStrings/Program.cs" />
+        <option value="$PROJECT_DIR$/EditDistance/Program.cs" />
       </list>
     </option>
   </component>
@@ -61,10 +61,24 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EditDistance" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="EditDistance" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="EditDistance" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,14 +103,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/DeleteOperationForTwoStrings/bin/Debug/DeleteOperationForTwoStrings.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/EditDistance/bin/Debug/EditDistance.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeleteOperationForTwoStrings/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EditDistance/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/DeleteOperationForTwoStrings/DeleteOperationForTwoStrings.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/EditDistance/EditDistance.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +126,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecfb3f4b-7e3b-4641-b2a1-6c743759a17b" name="Default Changelist" comment="" />
-      <created>1582181045164</created>
+      <changelist id="6bed0720-221f-4321-ac5d-740d994809d5" name="Default Changelist" comment="" />
+      <created>1582269866911</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582181045164</updated>
-      <workItem from="1582181047510" duration="1726000" />
+      <updated>1582269866911</updated>
+      <workItem from="1582269868232" duration="281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1726000" />
+    <option name="totallyTimeSpent" value="281000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -139,7 +153,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -148,10 +162,9 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -180,22 +193,22 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DeleteOperationForTwoStrings/Program.cs">
+    <entry file="file://$PROJECT_DIR$/EditDistance/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="675">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
-            <marker date="1582181524880" expanded="true" signature="53:317" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="82:315" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="135:309" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="340:1149" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="397:1147" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="514:560" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="617:663" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="720:1085" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="782:1075" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="846:931" ph="{...}" />
-            <marker date="1582181524880" expanded="true" signature="952:1061" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="37:317" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="66:315" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="119:309" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="340:1243" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="397:1241" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="514:560" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="617:663" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="712:1187" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="774:1177" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="838:923" ph="{...}" />
+            <marker date="1582270143556" expanded="true" signature="944:1163" ph="{...}" />
           </folding>
         </state>
       </provider>
