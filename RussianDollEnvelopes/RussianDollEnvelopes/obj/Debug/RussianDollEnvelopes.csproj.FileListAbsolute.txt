@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\RussianDollEnvelopes\RussianDollEnvelopes\bin\Debug\RussianDollEnvelopes.exe
+E:\code\leet-code-problems\RussianDollEnvelopes\RussianDollEnvelopes\bin\Debug\RussianDollEnvelopes.pdb
+E:\code\leet-code-problems\RussianDollEnvelopes\RussianDollEnvelopes\obj\Debug\RussianDollEnvelopes.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\RussianDollEnvelopes\RussianDollEnvelopes\obj\Debug\RussianDollEnvelopes.exe
+E:\code\leet-code-problems\RussianDollEnvelopes\RussianDollEnvelopes\obj\Debug\RussianDollEnvelopes.pdb

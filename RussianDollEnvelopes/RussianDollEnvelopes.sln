@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianDollEnvelopes", "RussianDollEnvelopes\RussianDollEnvelopes.csproj", "{FBA0D27B-7E7F-4A18-9C52-BFC93330B244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA0D27B-7E7F-4A18-9C52-BFC93330B244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA0D27B-7E7F-4A18-9C52-BFC93330B244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA0D27B-7E7F-4A18-9C52-BFC93330B244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA0D27B-7E7F-4A18-9C52-BFC93330B244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
