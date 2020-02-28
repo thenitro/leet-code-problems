@@ -1,0 +1,5 @@
+E:\code\leet-code-problems\CoinChange\CoinChange\bin\Debug\CoinChange.exe
+E:\code\leet-code-problems\CoinChange\CoinChange\bin\Debug\CoinChange.pdb
+E:\code\leet-code-problems\CoinChange\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
+E:\code\leet-code-problems\CoinChange\CoinChange\obj\Debug\CoinChange.exe
+E:\code\leet-code-problems\CoinChange\CoinChange\obj\Debug\CoinChange.pdb

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30e8b743-5be6-4482-aad8-703a9a83d807" name="Default Changelist" comment="" />
+    <list default="true" id="eaa3b68a-47c4-4699-a87b-0f88fb2e15f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../KnightProbabilityInChessboard/.idea/.idea.KnightProbabilityInChessboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KnightProbabilityInChessboard/.idea/.idea.KnightProbabilityInChessboard/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,23 +13,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/KnightProbabilityInChessboard/Program.cs">
+        <entry file="file://$PROJECT_DIR$/CoinChange/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="459">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding>
-                <marker date="1582787793556" expanded="true" signature="54:251" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="83:249" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="136:243" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="274:1391" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="342:1389" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="559:1163" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="662:1130" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="720:1116" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="786:1098" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="965:1076" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="1227:1351" ph="{...}" />
-                <marker date="1582787793556" expanded="true" signature="1277:1341" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="35:313" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="64:311" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="117:305" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="336:955" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="389:953" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="495:540" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="599:891" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="660:826" ph="{...}" />
+                <marker date="1582876611609" expanded="true" signature="709:812" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +38,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/KnightProbabilityInChessboard/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CoinChange/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/KnightProbabilityInChessboard/Program.cs" />
+        <option value="$PROJECT_DIR$/CoinChange/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,11 +58,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -72,7 +71,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -89,14 +87,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/KnightProbabilityInChessboard/bin/Debug/KnightProbabilityInChessboard.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/CoinChange/bin/Debug/CoinChange.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KnightProbabilityInChessboard/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CoinChange/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KnightProbabilityInChessboard/KnightProbabilityInChessboard.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CoinChange/CoinChange.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -112,17 +110,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="30e8b743-5be6-4482-aad8-703a9a83d807" name="Default Changelist" comment="" />
-      <created>1582786680679</created>
+      <changelist id="eaa3b68a-47c4-4699-a87b-0f88fb2e15f9" name="Default Changelist" comment="" />
+      <created>1582875428749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582786680679</updated>
-      <workItem from="1582786682032" duration="1695000" />
+      <updated>1582875428749</updated>
+      <workItem from="1582875430080" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1695000" />
+    <option name="totallyTimeSpent" value="1182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,7 +150,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -181,23 +179,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/KnightProbabilityInChessboard/Program.cs">
+    <entry file="file://$PROJECT_DIR$/CoinChange/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="459">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding>
-            <marker date="1582787793556" expanded="true" signature="54:251" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="83:249" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="136:243" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="274:1391" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="342:1389" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="559:1163" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="662:1130" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="720:1116" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="786:1098" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="965:1076" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="1227:1351" ph="{...}" />
-            <marker date="1582787793556" expanded="true" signature="1277:1341" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="35:313" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="64:311" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="117:305" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="336:955" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="389:953" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="495:540" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="599:891" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="660:826" ph="{...}" />
+            <marker date="1582876611609" expanded="true" signature="709:812" ph="{...}" />
           </folding>
         </state>
       </provider>
