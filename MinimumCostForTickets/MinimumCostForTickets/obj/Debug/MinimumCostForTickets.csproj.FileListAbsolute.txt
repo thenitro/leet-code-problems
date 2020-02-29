@@ -1,0 +1,6 @@
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\bin\Debug\MinimumCostForTickets.exe
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\bin\Debug\MinimumCostForTickets.pdb
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\obj\Debug\MinimumCostForTickets.csprojAssemblyReference.cache
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\obj\Debug\MinimumCostForTickets.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\obj\Debug\MinimumCostForTickets.exe
+D:\leet-code-problems\MinimumCostForTickets\MinimumCostForTickets\obj\Debug\MinimumCostForTickets.pdb
