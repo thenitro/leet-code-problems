@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumProductSubarray", "MaximumProductSubarray\MaximumProductSubarray.csproj", "{B789E2CB-1C4B-4897-8969-A206D9DC36FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B789E2CB-1C4B-4897-8969-A206D9DC36FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B789E2CB-1C4B-4897-8969-A206D9DC36FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B789E2CB-1C4B-4897-8969-A206D9DC36FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B789E2CB-1C4B-4897-8969-A206D9DC36FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
