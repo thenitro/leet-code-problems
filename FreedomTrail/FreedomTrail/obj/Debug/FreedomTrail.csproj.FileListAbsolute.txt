@@ -1,0 +1,6 @@
+D:\leet-code-problems\FreedomTrail\FreedomTrail\bin\Debug\FreedomTrail.exe
+D:\leet-code-problems\FreedomTrail\FreedomTrail\bin\Debug\FreedomTrail.pdb
+D:\leet-code-problems\FreedomTrail\FreedomTrail\obj\Debug\FreedomTrail.csprojAssemblyReference.cache
+D:\leet-code-problems\FreedomTrail\FreedomTrail\obj\Debug\FreedomTrail.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\FreedomTrail\FreedomTrail\obj\Debug\FreedomTrail.exe
+D:\leet-code-problems\FreedomTrail\FreedomTrail\obj\Debug\FreedomTrail.pdb
