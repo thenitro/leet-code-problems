@@ -1,0 +1,6 @@
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\bin\Debug\SubarraySumEqualsK.exe
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\bin\Debug\SubarraySumEqualsK.pdb
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\obj\Debug\SubarraySumEqualsK.csprojAssemblyReference.cache
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\obj\Debug\SubarraySumEqualsK.csproj.CoreCompileInputs.cache
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\obj\Debug\SubarraySumEqualsK.exe
+D:\test_assigments\SubarraySumEqualsK\SubarraySumEqualsK\obj\Debug\SubarraySumEqualsK.pdb

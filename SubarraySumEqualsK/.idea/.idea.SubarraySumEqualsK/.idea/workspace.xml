@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8195e20-30b2-4964-a60b-1d36844519e3" name="Default Changelist" comment="" />
+    <list default="true" id="d863bd89-a3e8-4396-af3a-44f6c310f810" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,20 +11,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FreedomTrail/Program.cs">
+        <entry file="file://$PROJECT_DIR$/SubarraySumEqualsK/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="38" selection-end-column="1" />
               <folding>
-                <marker date="1583576945495" expanded="true" signature="37:232" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="66:230" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="119:224" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="255:988" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="313:986" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="455:942" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="505:932" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="605:918" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="666:900" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="43:448" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="72:446" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="125:440" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="471:881" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="519:879" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="596:849" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="682:839" ph="{...}" />
+                <marker date="1583413304167" expanded="true" signature="759:825" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -32,16 +31,13 @@
       </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FreedomTrail/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SubarraySumEqualsK/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FreedomTrail/Program.cs" />
+        <option value="$PROJECT_DIR$/SubarraySumEqualsK/Program.cs" />
       </list>
     </option>
   </component>
@@ -50,16 +46,15 @@
     <option name="width" value="975" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -84,14 +79,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FreedomTrail/bin/Debug/FreedomTrail.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SubarraySumEqualsK/bin/Debug/SubarraySumEqualsK.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FreedomTrail/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SubarraySumEqualsK/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FreedomTrail/FreedomTrail.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SubarraySumEqualsK/SubarraySumEqualsK.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +102,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8195e20-30b2-4964-a60b-1d36844519e3" name="Default Changelist" comment="" />
-      <created>1583574110199</created>
+      <changelist id="d863bd89-a3e8-4396-af3a-44f6c310f810" name="Default Changelist" comment="" />
+      <created>1583412956099</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583574110199</updated>
-      <workItem from="1583574113111" duration="2070000" />
+      <updated>1583412956099</updated>
+      <workItem from="1583412959160" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2070000" />
+    <option name="totallyTimeSpent" value="953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,20 +173,19 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FreedomTrail/Program.cs">
+    <entry file="file://$PROJECT_DIR$/SubarraySumEqualsK/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="38" selection-end-column="1" />
           <folding>
-            <marker date="1583576945495" expanded="true" signature="37:232" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="66:230" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="119:224" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="255:988" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="313:986" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="455:942" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="505:932" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="605:918" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="666:900" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="43:448" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="72:446" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="125:440" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="471:881" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="519:879" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="596:849" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="682:839" ph="{...}" />
+            <marker date="1583413304167" expanded="true" signature="759:825" ph="{...}" />
           </folding>
         </state>
       </provider>

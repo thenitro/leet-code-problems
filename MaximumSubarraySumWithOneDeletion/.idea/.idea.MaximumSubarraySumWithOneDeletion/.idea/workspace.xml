@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8195e20-30b2-4964-a60b-1d36844519e3" name="Default Changelist" comment="" />
+    <list default="true" id="32f96619-b0e8-468f-88f2-3f501a09a41a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../FreedomTrail/.idea/.idea.FreedomTrail/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FreedomTrail/.idea/.idea.FreedomTrail/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,20 +13,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FreedomTrail/Program.cs">
+        <entry file="file://$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="186">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
-                <marker date="1583576945495" expanded="true" signature="37:232" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="66:230" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="119:224" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="255:988" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="313:986" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="455:942" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="505:932" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="605:918" ph="{...}" />
-                <marker date="1583576945495" expanded="true" signature="666:900" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="58:341" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="87:339" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="140:333" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="364:846" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="403:844" ph="{...}" />
+                <marker date="1583692332572" expanded="true" signature="563:778" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -36,12 +35,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FreedomTrail/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FreedomTrail/Program.cs" />
+        <option value="$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/Program.cs" />
       </list>
     </option>
   </component>
@@ -84,14 +83,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/FreedomTrail/bin/Debug/FreedomTrail.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/bin/Debug/MaximumSubarraySumWithOneDeletion.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FreedomTrail/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FreedomTrail/FreedomTrail.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/MaximumSubarraySumWithOneDeletion.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -107,17 +106,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8195e20-30b2-4964-a60b-1d36844519e3" name="Default Changelist" comment="" />
-      <created>1583574110199</created>
+      <changelist id="32f96619-b0e8-468f-88f2-3f501a09a41a" name="Default Changelist" comment="" />
+      <created>1583691798904</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1583574110199</updated>
-      <workItem from="1583574113111" duration="2070000" />
+      <updated>1583691798904</updated>
+      <workItem from="1583691801094" duration="535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2070000" />
+    <option name="totallyTimeSpent" value="535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +147,7 @@
       <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,20 +177,17 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FreedomTrail/Program.cs">
+    <entry file="file://$PROJECT_DIR$/MaximumSubarraySumWithOneDeletion/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="186">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
           <folding>
-            <marker date="1583576945495" expanded="true" signature="37:232" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="66:230" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="119:224" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="255:988" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="313:986" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="455:942" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="505:932" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="605:918" ph="{...}" />
-            <marker date="1583576945495" expanded="true" signature="666:900" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="58:341" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="87:339" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="140:333" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="364:846" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="403:844" ph="{...}" />
+            <marker date="1583692332572" expanded="true" signature="563:778" ph="{...}" />
           </folding>
         </state>
       </provider>
