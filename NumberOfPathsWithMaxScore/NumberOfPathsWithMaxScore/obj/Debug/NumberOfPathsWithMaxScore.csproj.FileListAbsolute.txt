@@ -1,0 +1,6 @@
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\bin\Debug\NumberOfPathsWithMaxScore.exe
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\bin\Debug\NumberOfPathsWithMaxScore.pdb
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\obj\Debug\NumberOfPathsWithMaxScore.csprojAssemblyReference.cache
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\obj\Debug\NumberOfPathsWithMaxScore.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\obj\Debug\NumberOfPathsWithMaxScore.exe
+D:\leet-code-problems\NumberOfPathsWithMaxScore\NumberOfPathsWithMaxScore\obj\Debug\NumberOfPathsWithMaxScore.pdb
