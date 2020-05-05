@@ -1,0 +1,6 @@
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\bin\Debug\MinimumCostToMergeStones.exe
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\bin\Debug\MinimumCostToMergeStones.pdb
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\obj\Debug\MinimumCostToMergeStones.csprojAssemblyReference.cache
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\obj\Debug\MinimumCostToMergeStones.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\obj\Debug\MinimumCostToMergeStones.exe
+D:\leet-code-problems\MinimumCostToMergeStones\MinimumCostToMergeStones\obj\Debug\MinimumCostToMergeStones.pdb
