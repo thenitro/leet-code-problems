@@ -1,0 +1,6 @@
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\bin\Debug\ReshapeTheMatrix.exe
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\bin\Debug\ReshapeTheMatrix.pdb
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.csprojAssemblyReference.cache
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.exe
+D:\leet-code-problems\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.pdb
