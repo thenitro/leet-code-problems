@@ -1,0 +1,6 @@
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\bin\Debug\CanMakePalindromeFromSubstring.exe
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\bin\Debug\CanMakePalindromeFromSubstring.pdb
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\obj\Debug\CanMakePalindromeFromSubstring.csprojAssemblyReference.cache
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\obj\Debug\CanMakePalindromeFromSubstring.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\obj\Debug\CanMakePalindromeFromSubstring.exe
+D:\leet-code-problems\CanMakePalindromeFromSubstring\CanMakePalindromeFromSubstring\obj\Debug\CanMakePalindromeFromSubstring.pdb
