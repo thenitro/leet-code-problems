@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df167585-8836-44a2-a269-e728211fb25b" name="Default Changelist" comment="" />
+    <list default="true" id="2deaf086-f98b-4c2b-8102-ea2c26b327c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SlidingWindowMaximum/.idea/.idea.SlidingWindowMaximum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SlidingWindowMaximum/.idea/.idea.SlidingWindowMaximum/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,23 +11,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SlidingWindowMaximum/Program.cs">
+        <entry file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            <state relative-caret-position="509">
+              <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
               <folding>
-                <marker date="1590169084112" expanded="false" signature="6:47" ph="..." />
-                <marker date="1590169084112" expanded="true" signature="79:465" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="108:463" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="161:457" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="488:1228" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="543:1226" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="735:1178" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="821:898" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="974:1028" ph="{...}" />
-                <marker date="1590169084112" expanded="true" signature="1105:1168" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="6:47" ph="..." />
+                <marker date="1590948794243" expanded="true" signature="90:562" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="119:560" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="172:554" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="585:1345" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="635:1343" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="737:793" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="909:1297" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="987:1051" ph="{...}" />
+                <marker date="1590948794243" expanded="true" signature="1125:1256" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -37,12 +39,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/SlidingWindowMaximum/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SlidingWindowMaximum/Program.cs" />
+        <option value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs" />
       </list>
     </option>
   </component>
@@ -86,14 +88,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/SlidingWindowMaximum/bin/Debug/SlidingWindowMaximum.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/bin/Debug/ShortestSubarrayWithSumAtLeastK.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SlidingWindowMaximum/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SlidingWindowMaximum/SlidingWindowMaximum.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/ShortestSubarrayWithSumAtLeastK.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -109,18 +111,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df167585-8836-44a2-a269-e728211fb25b" name="Default Changelist" comment="" />
-      <created>1590165407102</created>
+      <changelist id="2deaf086-f98b-4c2b-8102-ea2c26b327c3" name="Default Changelist" comment="" />
+      <created>1590946807990</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590165407102</updated>
-      <workItem from="1590165408240" duration="4044000" />
-      <workItem from="1590423042842" duration="99000" />
+      <updated>1590946807990</updated>
+      <workItem from="1590946810405" duration="1771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4143000" />
+    <option name="totallyTimeSpent" value="1771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,15 +136,16 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.32394367" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.48081023" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989339" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -156,8 +158,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Unit Tests" order="14" />
       <window_info anchor="bottom" id="Terminal" order="15" />
-      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.5191898" side_tool="true" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Build" order="17" sideWeight="0.48081023" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -170,7 +171,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,21 +184,21 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SlidingWindowMaximum/Program.cs">
+    <entry file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        <state relative-caret-position="509">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
           <folding>
-            <marker date="1590169084112" expanded="false" signature="6:47" ph="..." />
-            <marker date="1590169084112" expanded="true" signature="79:465" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="108:463" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="161:457" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="488:1228" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="543:1226" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="735:1178" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="821:898" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="974:1028" ph="{...}" />
-            <marker date="1590169084112" expanded="true" signature="1105:1168" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="6:47" ph="..." />
+            <marker date="1590948794243" expanded="true" signature="90:562" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="119:560" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="172:554" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="585:1345" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="635:1343" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="737:793" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="909:1297" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="987:1051" ph="{...}" />
+            <marker date="1590948794243" expanded="true" signature="1125:1256" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,6 @@
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\bin\Debug\ShortestSubarrayWithSumAtLeastK.exe
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\bin\Debug\ShortestSubarrayWithSumAtLeastK.pdb
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\obj\Debug\ShortestSubarrayWithSumAtLeastK.csprojAssemblyReference.cache
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\obj\Debug\ShortestSubarrayWithSumAtLeastK.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\obj\Debug\ShortestSubarrayWithSumAtLeastK.exe
+D:\leet-code-problems\ShortestSubarrayWithSumAtLeastK\ShortestSubarrayWithSumAtLeastK\obj\Debug\ShortestSubarrayWithSumAtLeastK.pdb
