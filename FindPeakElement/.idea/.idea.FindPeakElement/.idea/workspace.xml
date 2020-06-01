@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2deaf086-f98b-4c2b-8102-ea2c26b327c3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShortestSubarrayWithSumAtLeastK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShortestSubarrayWithSumAtLeastK/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7455084d-28e0-49f9-8b6d-e531d0d56f49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ShortestSubarrayWithSumAtLeastK/.idea/.idea.ShortestSubarrayWithSumAtLeastK/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ShortestSubarrayWithSumAtLeastK/.idea/.idea.ShortestSubarrayWithSumAtLeastK/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,21 +13,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs">
+        <entry file="file://$PROJECT_DIR$/FindPeakElement/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="524">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding>
-                <marker date="1590948796647" expanded="true" signature="6:47" ph="..." />
-                <marker date="1590948796647" expanded="true" signature="90:562" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="119:560" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="172:554" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="585:1351" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="635:1349" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="737:793" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="909:1297" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="987:1051" ph="{...}" />
-                <marker date="1590948796647" expanded="true" signature="1125:1256" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="40:529" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="69:527" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="122:521" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="552:931" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="597:929" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="678:904" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="767:820" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="837:894" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="960:1261" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="1005:1259" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="1057:1233" ph="{...}" />
+                <marker date="1591034339042" expanded="true" signature="1169:1223" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +41,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FindPeakElement/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs" />
+        <option value="$PROJECT_DIR$/FindPeakElement/Program.cs" />
       </list>
     </option>
   </component>
@@ -59,8 +61,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -88,14 +90,14 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/bin/Debug/ShortestSubarrayWithSumAtLeastK.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FindPeakElement/bin/Debug/FindPeakElement.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindPeakElement/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/ShortestSubarrayWithSumAtLeastK.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FindPeakElement/FindPeakElement.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -111,17 +113,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2deaf086-f98b-4c2b-8102-ea2c26b327c3" name="Default Changelist" comment="" />
-      <created>1590946807990</created>
+      <changelist id="7455084d-28e0-49f9-8b6d-e531d0d56f49" name="Default Changelist" comment="" />
+      <created>1591033461656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1590946807990</updated>
-      <workItem from="1590946810405" duration="2859000" />
+      <updated>1591033461656</updated>
+      <workItem from="1591033464788" duration="1483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2859000" />
+    <option name="totallyTimeSpent" value="1483000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,11 +142,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.49840087" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49946696" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49946696" weight="0.32394367" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49840087" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -157,7 +159,7 @@
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Unit Tests" order="14" />
       <window_info anchor="bottom" id="Terminal" order="15" />
-      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -183,21 +185,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ShortestSubarrayWithSumAtLeastK/Program.cs">
+    <entry file="file://$PROJECT_DIR$/FindPeakElement/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="524">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
-            <marker date="1590948796647" expanded="true" signature="6:47" ph="..." />
-            <marker date="1590948796647" expanded="true" signature="90:562" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="119:560" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="172:554" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="585:1351" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="635:1349" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="737:793" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="909:1297" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="987:1051" ph="{...}" />
-            <marker date="1590948796647" expanded="true" signature="1125:1256" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="40:529" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="69:527" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="122:521" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="552:931" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="597:929" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="678:904" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="767:820" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="837:894" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="960:1261" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="1005:1259" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="1057:1233" ph="{...}" />
+            <marker date="1591034339042" expanded="true" signature="1169:1223" ph="{...}" />
           </folding>
         </state>
       </provider>

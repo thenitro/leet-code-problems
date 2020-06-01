@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindPeakElement", "FindPeakElement\FindPeakElement.csproj", "{B288F2C4-B9E3-4316-B584-863B1BB5C11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B288F2C4-B9E3-4316-B584-863B1BB5C11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B288F2C4-B9E3-4316-B584-863B1BB5C11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B288F2C4-B9E3-4316-B584-863B1BB5C11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B288F2C4-B9E3-4316-B584-863B1BB5C11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
