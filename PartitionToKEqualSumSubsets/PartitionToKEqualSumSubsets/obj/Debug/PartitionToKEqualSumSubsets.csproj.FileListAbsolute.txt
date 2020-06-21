@@ -1,0 +1,6 @@
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\bin\Debug\PartitionToKEqualSumSubsets.exe
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\bin\Debug\PartitionToKEqualSumSubsets.pdb
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\obj\Debug\PartitionToKEqualSumSubsets.csprojAssemblyReference.cache
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\obj\Debug\PartitionToKEqualSumSubsets.csproj.CoreCompileInputs.cache
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\obj\Debug\PartitionToKEqualSumSubsets.exe
+D:\leet-code-problems\PartitionToKEqualSumSubsets\PartitionToKEqualSumSubsets\obj\Debug\PartitionToKEqualSumSubsets.pdb
