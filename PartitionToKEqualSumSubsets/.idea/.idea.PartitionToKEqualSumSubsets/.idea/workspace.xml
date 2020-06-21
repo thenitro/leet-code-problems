@@ -117,12 +117,12 @@
       <option name="presentableId" value="Default" />
       <updated>1592584593676</updated>
       <workItem from="1592584595239" duration="7521000" />
-      <workItem from="1592745220802" duration="1624000" />
+      <workItem from="1592745220802" duration="1718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9145000" />
+    <option name="totallyTimeSpent" value="9239000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,7 +145,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
