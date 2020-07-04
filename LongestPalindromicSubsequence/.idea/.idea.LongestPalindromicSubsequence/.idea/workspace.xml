@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08f35ea2-e275-43c8-a935-b8db45535062" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../LongestCommonSubsequence/.idea/.idea.LongestCommonSubsequence/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LongestCommonSubsequence/.idea/.idea.LongestCommonSubsequence/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="08f35ea2-e275-43c8-a935-b8db45535062" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LongestPalindromicSubsequence/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+            <state relative-caret-position="153">
+              <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
               <folding>
                 <marker date="1593866633600" expanded="false" signature="6:66" ph="..." />
                 <marker date="1593866633600" expanded="true" signature="107:386" ph="{...}" />
@@ -128,12 +126,12 @@
       <workItem from="1593353812356" duration="307000" />
       <workItem from="1593354196173" duration="92000" />
       <workItem from="1593528840651" duration="5217000" />
-      <workItem from="1593866425608" duration="208000" />
+      <workItem from="1593866425608" duration="2945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5824000" />
+    <option name="totallyTimeSpent" value="8561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,8 +194,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LongestPalindromicSubsequence/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="33" column="68" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+        <state relative-caret-position="153">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding>
             <marker date="1593866633600" expanded="false" signature="6:66" ph="..." />
             <marker date="1593866633600" expanded="true" signature="107:386" ph="{...}" />
