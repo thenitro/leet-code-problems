@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubsequence", "LongestPalindromicSubsequence\LongestPalindromicSubsequence.csproj", "{A03E1DB7-BE7E-4A53-A9BF-EDB2150EE174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03E1DB7-BE7E-4A53-A9BF-EDB2150EE174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03E1DB7-BE7E-4A53-A9BF-EDB2150EE174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03E1DB7-BE7E-4A53-A9BF-EDB2150EE174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03E1DB7-BE7E-4A53-A9BF-EDB2150EE174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LongestCommonSubsequence/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="542">
+              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <marker date="1592926939620" expanded="true" signature="49:536" ph="{...}" />
                 <marker date="1592926939620" expanded="true" signature="78:534" ph="{...}" />
@@ -110,12 +110,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592926120663</updated>
-      <workItem from="1592926124621" duration="1417000" />
+      <workItem from="1592926124621" duration="1910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1417000" />
+    <option name="totallyTimeSpent" value="1910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -128,7 +128,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -146,7 +145,7 @@
       <window_info anchor="bottom" id="Build" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,8 +177,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LongestCommonSubsequence/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="542">
+          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding>
             <marker date="1592926939620" expanded="true" signature="49:536" ph="{...}" />
             <marker date="1592926939620" expanded="true" signature="78:534" ph="{...}" />
