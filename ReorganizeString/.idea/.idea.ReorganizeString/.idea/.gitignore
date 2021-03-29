@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.ReorganizeString.iml
+# Datasource local storage ignored files
+/../../../../../../:\leet-code-problems\ReorganizeString\.idea\.idea.ReorganizeString\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
