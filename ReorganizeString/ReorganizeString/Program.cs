@@ -10,6 +10,7 @@ namespace ReorganizeString
         {
             Console.WriteLine("aba" == new Solution().ReorganizeString("aab"));
             Console.WriteLine("" == new Solution().ReorganizeString("aaab"));
+            Console.WriteLine("lblflxl" == new Solution().ReorganizeString("blflxll"));
         }
     }
 }
@@ -18,43 +19,46 @@ public class Solution
 {
     public string ReorganizeString(string S)
     {
-        var result = new StringBuilder();
-        var dict = new Dictionary<char, int>();
+        var N = S.Length;
+        var counts = new int[26];
 
         foreach (var c in S)
         {
-            dict[c] = dict.ContainsKey(c) ? dict[c] + 1 : 1;
+            counts[c - 'a'] += 100;
         }
 
-        var list = new List<Tuple<char, int>>();
-        
-        foreach (var kw in dict)
+        for (var i = 0; i < 26; i++)
         {
-            list.Add(new Tuple<char, int>(kw.Key, kw.Value));
+            counts[i] += i;
         }
         
-        list.Sort((pairA, pairB) => pairA.Item2.CompareTo(pairB.Item2));
+        Array.Sort(counts);
 
-        var index = 0;
-        
-        while (list.Count > 0)
+        var result = new char[N];
+        var t = 1;
+
+        foreach (var code in counts)
         {
-            result.Append(list[index].Item1);
-            list[index] = new Tuple<char, int>(list[index].Item1, list[index].Item2 - 1);
+            var ct = code / 100;
+            var ch = (char)('a' + (code % 100));
 
-            if (list[index].Item2 <= 0)
+            if (ct > (N + 1) / 2)
             {
-                list.RemoveAt(index);
+                return string.Empty;
             }
 
-            index++;
-
-            if (index >= list.Count)
+            for (int i = 0; i < ct; i++)
             {
-                index = 0;
+                if (t >= N)
+                {
+                    t = 0;
+                }
+
+                result[t] = ch;
+                t += 2;
             }
         }
-
-        return result.ToString();
+        
+        return new string(result);
     }
 }
