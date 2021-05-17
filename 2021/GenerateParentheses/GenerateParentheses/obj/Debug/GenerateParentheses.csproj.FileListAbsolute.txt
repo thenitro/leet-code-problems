@@ -1,0 +1,6 @@
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/bin/Debug/GenerateParentheses.exe
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/bin/Debug/GenerateParentheses.pdb
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/obj/Debug/GenerateParentheses.csprojAssemblyReference.cache
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/obj/Debug/GenerateParentheses.csproj.CoreCompileInputs.cache
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/obj/Debug/GenerateParentheses.exe
+/Users/User/Personal/leet-code-problems/2021/GenerateParentheses/GenerateParentheses/obj/Debug/GenerateParentheses.pdb
