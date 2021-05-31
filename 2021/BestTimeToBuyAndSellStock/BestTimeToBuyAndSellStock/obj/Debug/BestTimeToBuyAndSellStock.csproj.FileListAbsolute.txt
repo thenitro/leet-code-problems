@@ -1,0 +1,6 @@
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/bin/Debug/BestTimeToBuyAndSellStock.exe
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/bin/Debug/BestTimeToBuyAndSellStock.pdb
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/obj/Debug/BestTimeToBuyAndSellStock.csprojAssemblyReference.cache
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/obj/Debug/BestTimeToBuyAndSellStock.csproj.CoreCompileInputs.cache
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/obj/Debug/BestTimeToBuyAndSellStock.exe
+/Users/User/Personal/leet-code-problems/2021/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/obj/Debug/BestTimeToBuyAndSellStock.pdb
