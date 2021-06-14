@@ -1,0 +1,6 @@
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/obj/Debug/WordBreak2.csprojAssemblyReference.cache
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/obj/Debug/WordBreak2.csproj.CoreCompileInputs.cache
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/bin/Debug/WordBreak2.exe
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/bin/Debug/WordBreak2.pdb
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/obj/Debug/WordBreak2.exe
+/Users/User/Personal/leet-code-problems/2021/WordBreak2/WordBreak2/obj/Debug/WordBreak2.pdb
