@@ -1,0 +1,6 @@
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/bin/Debug/RussianDollEnvelopes.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/bin/Debug/RussianDollEnvelopes.pdb
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/obj/Debug/RussianDollEnvelopes.csprojAssemblyReference.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/obj/Debug/RussianDollEnvelopes.csproj.CoreCompileInputs.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/obj/Debug/RussianDollEnvelopes.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/RussianDollEnvelopes/RussianDollEnvelopes/obj/Debug/RussianDollEnvelopes.pdb
