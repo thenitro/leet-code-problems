@@ -1,0 +1,6 @@
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/bin/Debug/AddString.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/bin/Debug/AddString.pdb
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/obj/Debug/AddString.csprojAssemblyReference.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/obj/Debug/AddString.csproj.CoreCompileInputs.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/obj/Debug/AddString.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AddString/AddString/obj/Debug/AddString.pdb
