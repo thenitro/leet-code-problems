@@ -1,0 +1,6 @@
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/bin/Debug/TaskScheduler.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/bin/Debug/TaskScheduler.pdb
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/obj/Debug/TaskScheduler.csprojAssemblyReference.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/obj/Debug/TaskScheduler.csproj.CoreCompileInputs.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/obj/Debug/TaskScheduler.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TaskScheduler/TaskScheduler/obj/Debug/TaskScheduler.pdb
