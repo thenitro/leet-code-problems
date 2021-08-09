@@ -1,0 +1,6 @@
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/bin/Debug/ExclusiveTimeOfFunctions.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/bin/Debug/ExclusiveTimeOfFunctions.pdb
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/obj/Debug/ExclusiveTimeOfFunctions.csprojAssemblyReference.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/obj/Debug/ExclusiveTimeOfFunctions.csproj.CoreCompileInputs.cache
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/obj/Debug/ExclusiveTimeOfFunctions.exe
+/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ExclusiveTimeOfFunctions/ExclusiveTimeOfFunctions/obj/Debug/ExclusiveTimeOfFunctions.pdb
