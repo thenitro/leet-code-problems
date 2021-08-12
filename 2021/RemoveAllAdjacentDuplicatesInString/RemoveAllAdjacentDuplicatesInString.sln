@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInString", "RemoveAllAdjacentDuplicatesInString\RemoveAllAdjacentDuplicatesInString.csproj", "{610581EB-E746-4A9F-BC25-9DB0F883654E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610581EB-E746-4A9F-BC25-9DB0F883654E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610581EB-E746-4A9F-BC25-9DB0F883654E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610581EB-E746-4A9F-BC25-9DB0F883654E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610581EB-E746-4A9F-BC25-9DB0F883654E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
