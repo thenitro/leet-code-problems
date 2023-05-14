@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/bin/Debug/RemoveKDigits.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/bin/Debug/RemoveKDigits.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/obj/Debug/RemoveKDigits.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/obj/Debug/RemoveKDigits.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/obj/Debug/RemoveKDigits.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/RemoveKDigits/RemoveKDigits/obj/Debug/RemoveKDigits.pdb
