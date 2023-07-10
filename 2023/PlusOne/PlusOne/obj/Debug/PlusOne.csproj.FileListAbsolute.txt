@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/bin/Debug/PlusOne.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/bin/Debug/PlusOne.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/obj/Debug/PlusOne.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/obj/Debug/PlusOne.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/obj/Debug/PlusOne.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PlusOne/PlusOne/obj/Debug/PlusOne.pdb
