@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/bin/Debug/ReverseInteger.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/bin/Debug/ReverseInteger.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/obj/Debug/ReverseInteger.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/obj/Debug/ReverseInteger.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/obj/Debug/ReverseInteger.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ReverseInteger/ReverseInteger/obj/Debug/ReverseInteger.pdb
