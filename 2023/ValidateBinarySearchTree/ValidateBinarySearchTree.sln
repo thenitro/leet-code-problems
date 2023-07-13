@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateBinarySearchTree", "ValidateBinarySearchTree\ValidateBinarySearchTree.csproj", "{060185AC-5064-4DE1-B0CA-D0F93E4BC486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060185AC-5064-4DE1-B0CA-D0F93E4BC486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060185AC-5064-4DE1-B0CA-D0F93E4BC486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060185AC-5064-4DE1-B0CA-D0F93E4BC486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060185AC-5064-4DE1-B0CA-D0F93E4BC486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
