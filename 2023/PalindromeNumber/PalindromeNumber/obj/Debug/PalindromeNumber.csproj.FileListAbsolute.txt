@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/bin/Debug/PalindromeNumber.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PalindromeNumber/PalindromeNumber/obj/Debug/PalindromeNumber.pdb
