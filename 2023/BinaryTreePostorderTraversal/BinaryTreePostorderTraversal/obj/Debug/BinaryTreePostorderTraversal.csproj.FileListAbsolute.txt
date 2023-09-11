@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/bin/Debug/BinaryTreePostorderTraversal.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/bin/Debug/BinaryTreePostorderTraversal.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/BinaryTreePostorderTraversal.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/BinaryTreePostorderTraversal.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/BinaryTreePostorderTraversal.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/BinaryTreePostorderTraversal.pdb
