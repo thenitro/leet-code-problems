@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ContinuousSubarraySum\ContinuousSubarraySum\bin\Debug\ContinuousSubarraySum.exe
-E:\code\leet-code-problems\ContinuousSubarraySum\ContinuousSubarraySum\bin\Debug\ContinuousSubarraySum.pdb
-E:\code\leet-code-problems\ContinuousSubarraySum\ContinuousSubarraySum\obj\Debug\ContinuousSubarraySum.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ContinuousSubarraySum\ContinuousSubarraySum\obj\Debug\ContinuousSubarraySum.exe
-E:\code\leet-code-problems\ContinuousSubarraySum\ContinuousSubarraySum\obj\Debug\ContinuousSubarraySum.pdb

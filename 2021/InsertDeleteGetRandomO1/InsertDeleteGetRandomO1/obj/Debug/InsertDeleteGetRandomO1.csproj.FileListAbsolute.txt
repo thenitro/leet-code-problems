@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/bin/Debug/InsertDeleteGetRandomO1.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/bin/Debug/InsertDeleteGetRandomO1.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/obj/Debug/InsertDeleteGetRandomO1.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/obj/Debug/InsertDeleteGetRandomO1.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/obj/Debug/InsertDeleteGetRandomO1.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/obj/Debug/InsertDeleteGetRandomO1.pdb

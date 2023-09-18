@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\SearchA2dMatrix\SearchA2dMatrix\bin\Debug\SearchA2dMatrix.exe
-E:\code\leet-code-problems\SearchA2dMatrix\SearchA2dMatrix\bin\Debug\SearchA2dMatrix.pdb
-E:\code\leet-code-problems\SearchA2dMatrix\SearchA2dMatrix\obj\Debug\SearchA2dMatrix.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\SearchA2dMatrix\SearchA2dMatrix\obj\Debug\SearchA2dMatrix.exe
-E:\code\leet-code-problems\SearchA2dMatrix\SearchA2dMatrix\obj\Debug\SearchA2dMatrix.pdb

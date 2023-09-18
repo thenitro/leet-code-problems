@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\IntegerBreak\IntegerBreak\bin\Debug\IntegerBreak.exe
-E:\code\leet-code-problems\IntegerBreak\IntegerBreak\bin\Debug\IntegerBreak.pdb
-E:\code\leet-code-problems\IntegerBreak\IntegerBreak\obj\Debug\IntegerBreak.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\IntegerBreak\IntegerBreak\obj\Debug\IntegerBreak.exe
-E:\code\leet-code-problems\IntegerBreak\IntegerBreak\obj\Debug\IntegerBreak.pdb

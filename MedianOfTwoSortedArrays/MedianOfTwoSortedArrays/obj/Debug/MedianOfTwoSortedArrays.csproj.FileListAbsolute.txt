@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.exe
-E:\code\leet-code-problems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\bin\Debug\MedianOfTwoSortedArrays.pdb
-E:\code\leet-code-problems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.exe
-E:\code\leet-code-problems\MedianOfTwoSortedArrays\MedianOfTwoSortedArrays\obj\Debug\MedianOfTwoSortedArrays.pdb

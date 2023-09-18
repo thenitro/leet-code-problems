@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\NthDigit\NthDigit\bin\Debug\NthDigit.exe
-E:\code\leet-code-problems\NthDigit\NthDigit\bin\Debug\NthDigit.pdb
-E:\code\leet-code-problems\NthDigit\NthDigit\obj\Debug\NthDigit.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\NthDigit\NthDigit\obj\Debug\NthDigit.exe
-E:\code\leet-code-problems\NthDigit\NthDigit\obj\Debug\NthDigit.pdb

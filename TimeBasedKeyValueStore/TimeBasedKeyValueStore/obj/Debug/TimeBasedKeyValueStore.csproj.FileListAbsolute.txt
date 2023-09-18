@@ -1,6 +1,0 @@
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\bin\Debug\TimeBasedKeyValueStore.exe
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\bin\Debug\TimeBasedKeyValueStore.pdb
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\obj\Debug\TimeBasedKeyValueStore.csprojAssemblyReference.cache
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\obj\Debug\TimeBasedKeyValueStore.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\obj\Debug\TimeBasedKeyValueStore.exe
-D:\leet-code-problems\TimeBasedKeyValueStore\TimeBasedKeyValueStore\obj\Debug\TimeBasedKeyValueStore.pdb

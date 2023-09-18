@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ReverseString\ReverseString\bin\Debug\ReverseString.exe
-E:\code\leet-code-problems\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
-E:\code\leet-code-problems\ReverseString\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ReverseString\ReverseString\obj\Debug\ReverseString.exe
-E:\code\leet-code-problems\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

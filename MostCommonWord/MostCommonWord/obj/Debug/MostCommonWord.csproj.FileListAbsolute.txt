@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MostCommonWord\MostCommonWord\bin\Debug\MostCommonWord.exe
-E:\code\leet-code-problems\MostCommonWord\MostCommonWord\bin\Debug\MostCommonWord.pdb
-E:\code\leet-code-problems\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.exe
-E:\code\leet-code-problems\MostCommonWord\MostCommonWord\obj\Debug\MostCommonWord.pdb

@@ -1,6 +1,0 @@
-D:\leet-code-problems\FindPeakElement\FindPeakElement\bin\Debug\FindPeakElement.exe
-D:\leet-code-problems\FindPeakElement\FindPeakElement\bin\Debug\FindPeakElement.pdb
-D:\leet-code-problems\FindPeakElement\FindPeakElement\obj\Debug\FindPeakElement.csprojAssemblyReference.cache
-D:\leet-code-problems\FindPeakElement\FindPeakElement\obj\Debug\FindPeakElement.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\FindPeakElement\FindPeakElement\obj\Debug\FindPeakElement.exe
-D:\leet-code-problems\FindPeakElement\FindPeakElement\obj\Debug\FindPeakElement.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MinimumAbsoluteDifferenceInBst\MinimumAbsoluteDifferenceInBst\bin\Debug\MinimumAbsoluteDifferenceInBst.exe
-E:\code\leet-code-problems\MinimumAbsoluteDifferenceInBst\MinimumAbsoluteDifferenceInBst\bin\Debug\MinimumAbsoluteDifferenceInBst.pdb
-E:\code\leet-code-problems\MinimumAbsoluteDifferenceInBst\MinimumAbsoluteDifferenceInBst\obj\Debug\MinimumAbsoluteDifferenceInBst.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MinimumAbsoluteDifferenceInBst\MinimumAbsoluteDifferenceInBst\obj\Debug\MinimumAbsoluteDifferenceInBst.exe
-E:\code\leet-code-problems\MinimumAbsoluteDifferenceInBst\MinimumAbsoluteDifferenceInBst\obj\Debug\MinimumAbsoluteDifferenceInBst.pdb

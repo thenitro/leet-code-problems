@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe
-E:\code\leet-code-problems\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.pdb
-E:\code\leet-code-problems\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.exe
-E:\code\leet-code-problems\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.pdb

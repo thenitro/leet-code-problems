@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/bin/Debug/MaximumSwap.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/bin/Debug/MaximumSwap.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/obj/Debug/MaximumSwap.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/obj/Debug/MaximumSwap.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/obj/Debug/MaximumSwap.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/MaximumSwap/MaximumSwap/obj/Debug/MaximumSwap.pdb

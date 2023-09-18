@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/bin/Debug/NonOverlapingIntervals.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/bin/Debug/NonOverlapingIntervals.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/obj/Debug/NonOverlapingIntervals.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/obj/Debug/NonOverlapingIntervals.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/obj/Debug/NonOverlapingIntervals.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NonOverlapingIntervals/NonOverlapingIntervals/obj/Debug/NonOverlapingIntervals.pdb

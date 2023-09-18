@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ReverseVowelsOfString\ReverseVowelsOfString\bin\Debug\ReverseVowelsOfString.exe
-E:\code\leet-code-problems\ReverseVowelsOfString\ReverseVowelsOfString\bin\Debug\ReverseVowelsOfString.pdb
-E:\code\leet-code-problems\ReverseVowelsOfString\ReverseVowelsOfString\obj\Debug\ReverseVowelsOfString.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ReverseVowelsOfString\ReverseVowelsOfString\obj\Debug\ReverseVowelsOfString.exe
-E:\code\leet-code-problems\ReverseVowelsOfString\ReverseVowelsOfString\obj\Debug\ReverseVowelsOfString.pdb

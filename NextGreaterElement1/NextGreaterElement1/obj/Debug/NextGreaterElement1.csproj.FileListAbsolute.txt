@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\NextGreaterElement1\NextGreaterElement1\bin\Debug\NextGreaterElement1.exe
-E:\code\leet-code-problems\NextGreaterElement1\NextGreaterElement1\bin\Debug\NextGreaterElement1.pdb
-E:\code\leet-code-problems\NextGreaterElement1\NextGreaterElement1\obj\Debug\NextGreaterElement1.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\NextGreaterElement1\NextGreaterElement1\obj\Debug\NextGreaterElement1.exe
-E:\code\leet-code-problems\NextGreaterElement1\NextGreaterElement1\obj\Debug\NextGreaterElement1.pdb

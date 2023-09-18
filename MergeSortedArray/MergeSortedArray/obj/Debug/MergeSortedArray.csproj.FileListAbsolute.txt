@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.exe
-E:\code\leet-code-problems\MergeSortedArray\MergeSortedArray\bin\Debug\MergeSortedArray.pdb
-E:\code\leet-code-problems\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.exe
-E:\code\leet-code-problems\MergeSortedArray\MergeSortedArray\obj\Debug\MergeSortedArray.pdb

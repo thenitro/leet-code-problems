@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/bin/Debug/MaximumBeauty.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/bin/Debug/MaximumBeauty.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/obj/Debug/MaximumBeauty.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/obj/Debug/MaximumBeauty.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/obj/Debug/MaximumBeauty.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/MaximumBeauty/MaximumBeauty/obj/Debug/MaximumBeauty.pdb

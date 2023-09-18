@@ -1,6 +1,0 @@
-D:\leet-code-problems\CountingBits\CountingBits\obj\Debug\CountingBits.csprojAssemblyReference.cache
-D:\leet-code-problems\CountingBits\CountingBits\obj\Debug\CountingBits.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\CountingBits\CountingBits\bin\Debug\CountingBits.exe
-D:\leet-code-problems\CountingBits\CountingBits\bin\Debug\CountingBits.pdb
-D:\leet-code-problems\CountingBits\CountingBits\obj\Debug\CountingBits.exe
-D:\leet-code-problems\CountingBits\CountingBits\obj\Debug\CountingBits.pdb

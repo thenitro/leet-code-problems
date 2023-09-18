@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PascalsTriangleII\PascalsTriangleII\bin\Debug\PascalsTriangleII.exe
-E:\code\leet-code-problems\PascalsTriangleII\PascalsTriangleII\bin\Debug\PascalsTriangleII.pdb
-E:\code\leet-code-problems\PascalsTriangleII\PascalsTriangleII\obj\Debug\PascalsTriangleII.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PascalsTriangleII\PascalsTriangleII\obj\Debug\PascalsTriangleII.exe
-E:\code\leet-code-problems\PascalsTriangleII\PascalsTriangleII\obj\Debug\PascalsTriangleII.pdb

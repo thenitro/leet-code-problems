@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\RotateArray\RotateArray\bin\Debug\RotateArray.exe
-E:\code\leet-code-problems\RotateArray\RotateArray\bin\Debug\RotateArray.pdb
-E:\code\leet-code-problems\RotateArray\RotateArray\obj\Debug\RotateArray.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\RotateArray\RotateArray\obj\Debug\RotateArray.exe
-E:\code\leet-code-problems\RotateArray\RotateArray\obj\Debug\RotateArray.pdb

@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/bin/Debug/AccountsMerge.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/bin/Debug/AccountsMerge.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/obj/Debug/AccountsMerge.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/obj/Debug/AccountsMerge.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/obj/Debug/AccountsMerge.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/AccountsMerge/AccountsMerge/obj/Debug/AccountsMerge.pdb

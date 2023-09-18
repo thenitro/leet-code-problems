@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MajorityElement\MajorityElement\bin\Debug\MajorityElement.exe
-E:\code\leet-code-problems\MajorityElement\MajorityElement\bin\Debug\MajorityElement.pdb
-E:\code\leet-code-problems\MajorityElement\MajorityElement\obj\Debug\MajorityElement.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MajorityElement\MajorityElement\obj\Debug\MajorityElement.exe
-E:\code\leet-code-problems\MajorityElement\MajorityElement\obj\Debug\MajorityElement.pdb

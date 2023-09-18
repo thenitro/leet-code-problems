@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BinaryTreeRightSideView\BinaryTreeRightSideView\bin\Debug\BinaryTreeRightSideView.exe
-E:\code\leet-code-problems\BinaryTreeRightSideView\BinaryTreeRightSideView\bin\Debug\BinaryTreeRightSideView.pdb
-E:\code\leet-code-problems\BinaryTreeRightSideView\BinaryTreeRightSideView\obj\Debug\BinaryTreeRightSideView.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BinaryTreeRightSideView\BinaryTreeRightSideView\obj\Debug\BinaryTreeRightSideView.exe
-E:\code\leet-code-problems\BinaryTreeRightSideView\BinaryTreeRightSideView\obj\Debug\BinaryTreeRightSideView.pdb

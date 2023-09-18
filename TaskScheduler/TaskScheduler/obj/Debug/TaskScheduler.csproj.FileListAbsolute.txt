@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
-E:\code\leet-code-problems\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
-E:\code\leet-code-problems\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
-E:\code\leet-code-problems\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb

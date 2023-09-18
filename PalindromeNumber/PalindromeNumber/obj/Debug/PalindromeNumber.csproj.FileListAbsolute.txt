@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.exe
-E:\code\leet-code-problems\PalindromeNumber\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
-E:\code\leet-code-problems\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.exe
-E:\code\leet-code-problems\PalindromeNumber\PalindromeNumber\obj\Debug\PalindromeNumber.pdb

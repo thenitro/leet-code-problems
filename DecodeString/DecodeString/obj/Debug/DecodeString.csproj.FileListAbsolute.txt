@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\DecodeString\DecodeString\bin\Debug\DecodeString.exe
-E:\code\leet-code-problems\DecodeString\DecodeString\bin\Debug\DecodeString.pdb
-E:\code\leet-code-problems\DecodeString\DecodeString\obj\Debug\DecodeString.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\DecodeString\DecodeString\obj\Debug\DecodeString.exe
-E:\code\leet-code-problems\DecodeString\DecodeString\obj\Debug\DecodeString.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\SumOfTwoIntegers\SumOfTwoIntegers\obj\Debug\SumOfTwoIntegers.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\SumOfTwoIntegers\SumOfTwoIntegers\bin\Debug\SumOfTwoIntegers.exe
-E:\code\leet-code-problems\SumOfTwoIntegers\SumOfTwoIntegers\bin\Debug\SumOfTwoIntegers.pdb
-E:\code\leet-code-problems\SumOfTwoIntegers\SumOfTwoIntegers\obj\Debug\SumOfTwoIntegers.exe
-E:\code\leet-code-problems\SumOfTwoIntegers\SumOfTwoIntegers\obj\Debug\SumOfTwoIntegers.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BinaryTreeLevelOrderTraversal2\BinaryTreeLevelOrderTraversal2\obj\Debug\BinaryTreeLevelOrderTraversal2.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BinaryTreeLevelOrderTraversal2\BinaryTreeLevelOrderTraversal2\bin\Debug\BinaryTreeLevelOrderTraversal2.exe
-E:\code\leet-code-problems\BinaryTreeLevelOrderTraversal2\BinaryTreeLevelOrderTraversal2\bin\Debug\BinaryTreeLevelOrderTraversal2.pdb
-E:\code\leet-code-problems\BinaryTreeLevelOrderTraversal2\BinaryTreeLevelOrderTraversal2\obj\Debug\BinaryTreeLevelOrderTraversal2.exe
-E:\code\leet-code-problems\BinaryTreeLevelOrderTraversal2\BinaryTreeLevelOrderTraversal2\obj\Debug\BinaryTreeLevelOrderTraversal2.pdb

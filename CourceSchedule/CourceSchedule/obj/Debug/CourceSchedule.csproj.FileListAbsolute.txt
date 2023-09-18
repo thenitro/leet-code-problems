@@ -1,6 +1,0 @@
-D:\leet-code-problems\CourceSchedule\CourceSchedule\bin\Debug\CourceSchedule.exe
-D:\leet-code-problems\CourceSchedule\CourceSchedule\bin\Debug\CourceSchedule.pdb
-D:\leet-code-problems\CourceSchedule\CourceSchedule\obj\Debug\CourceSchedule.csprojAssemblyReference.cache
-D:\leet-code-problems\CourceSchedule\CourceSchedule\obj\Debug\CourceSchedule.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\CourceSchedule\CourceSchedule\obj\Debug\CourceSchedule.exe
-D:\leet-code-problems\CourceSchedule\CourceSchedule\obj\Debug\CourceSchedule.pdb

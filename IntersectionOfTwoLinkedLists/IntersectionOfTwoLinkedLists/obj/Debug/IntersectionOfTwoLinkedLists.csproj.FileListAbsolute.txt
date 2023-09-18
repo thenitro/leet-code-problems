@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists\bin\Debug\IntersectionOfTwoLinkedLists.exe
-E:\code\leet-code-problems\IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists\bin\Debug\IntersectionOfTwoLinkedLists.pdb
-E:\code\leet-code-problems\IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists\obj\Debug\IntersectionOfTwoLinkedLists.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists\obj\Debug\IntersectionOfTwoLinkedLists.exe
-E:\code\leet-code-problems\IntersectionOfTwoLinkedLists\IntersectionOfTwoLinkedLists\obj\Debug\IntersectionOfTwoLinkedLists.pdb

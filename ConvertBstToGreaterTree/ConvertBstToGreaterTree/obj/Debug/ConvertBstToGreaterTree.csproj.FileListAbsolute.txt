@@ -1,6 +1,0 @@
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\bin\Debug\ConvertBstToGreaterTree.exe
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\bin\Debug\ConvertBstToGreaterTree.pdb
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\obj\Debug\ConvertBstToGreaterTree.csprojAssemblyReference.cache
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\obj\Debug\ConvertBstToGreaterTree.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\obj\Debug\ConvertBstToGreaterTree.exe
-D:\leet-code-problems\ConvertBstToGreaterTree\ConvertBstToGreaterTree\obj\Debug\ConvertBstToGreaterTree.pdb

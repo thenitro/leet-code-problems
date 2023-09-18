@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\WordPattern\WordPattern\bin\Debug\WordPattern.exe
-E:\code\leet-code-problems\WordPattern\WordPattern\bin\Debug\WordPattern.pdb
-E:\code\leet-code-problems\WordPattern\WordPattern\obj\Debug\WordPattern.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\WordPattern\WordPattern\obj\Debug\WordPattern.exe
-E:\code\leet-code-problems\WordPattern\WordPattern\obj\Debug\WordPattern.pdb

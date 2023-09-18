@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\RemoveLinkedListElements\RemoveLinkedListElements\bin\Debug\RemoveLinkedListElements.exe
-E:\code\leet-code-problems\RemoveLinkedListElements\RemoveLinkedListElements\bin\Debug\RemoveLinkedListElements.pdb
-E:\code\leet-code-problems\RemoveLinkedListElements\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\RemoveLinkedListElements\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.exe
-E:\code\leet-code-problems\RemoveLinkedListElements\RemoveLinkedListElements\obj\Debug\RemoveLinkedListElements.pdb

@@ -1,6 +1,0 @@
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\obj\Debug\SuperPalindromes.csprojAssemblyReference.cache
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\obj\Debug\SuperPalindromes.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\bin\Debug\SuperPalindromes.exe
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\bin\Debug\SuperPalindromes.pdb
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\obj\Debug\SuperPalindromes.exe
-D:\leet-code-problems\SuperPalindromes\SuperPalindromes\obj\Debug\SuperPalindromes.pdb

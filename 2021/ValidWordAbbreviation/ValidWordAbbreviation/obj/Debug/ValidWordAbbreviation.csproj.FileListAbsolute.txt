@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/bin/Debug/ValidWordAbbreviation.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/bin/Debug/ValidWordAbbreviation.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/obj/Debug/ValidWordAbbreviation.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/obj/Debug/ValidWordAbbreviation.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/obj/Debug/ValidWordAbbreviation.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ValidWordAbbreviation/ValidWordAbbreviation/obj/Debug/ValidWordAbbreviation.pdb

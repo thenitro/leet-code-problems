@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/bin/Debug/GreatestCommonDivisorOfStrings.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/bin/Debug/GreatestCommonDivisorOfStrings.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/obj/Debug/GreatestCommonDivisorOfStrings.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/obj/Debug/GreatestCommonDivisorOfStrings.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/obj/Debug/GreatestCommonDivisorOfStrings.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/GreatestCommonDivisorOfStrings/GreatestCommonDivisorOfStrings/obj/Debug/GreatestCommonDivisorOfStrings.pdb

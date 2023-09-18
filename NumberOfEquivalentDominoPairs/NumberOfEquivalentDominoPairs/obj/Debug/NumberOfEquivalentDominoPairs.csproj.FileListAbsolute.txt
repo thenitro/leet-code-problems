@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs\bin\Debug\NumberOfEquivalentDominoPairs.exe
-E:\code\leet-code-problems\NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs\bin\Debug\NumberOfEquivalentDominoPairs.pdb
-E:\code\leet-code-problems\NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs\obj\Debug\NumberOfEquivalentDominoPairs.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs\obj\Debug\NumberOfEquivalentDominoPairs.exe
-E:\code\leet-code-problems\NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs\obj\Debug\NumberOfEquivalentDominoPairs.pdb

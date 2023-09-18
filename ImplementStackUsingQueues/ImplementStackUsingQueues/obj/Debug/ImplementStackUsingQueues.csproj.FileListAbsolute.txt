@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ImplementStackUsingQueues\ImplementStackUsingQueues\bin\Debug\ImplementStackUsingQueues.exe
-E:\code\leet-code-problems\ImplementStackUsingQueues\ImplementStackUsingQueues\bin\Debug\ImplementStackUsingQueues.pdb
-E:\code\leet-code-problems\ImplementStackUsingQueues\ImplementStackUsingQueues\obj\Debug\ImplementStackUsingQueues.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ImplementStackUsingQueues\ImplementStackUsingQueues\obj\Debug\ImplementStackUsingQueues.exe
-E:\code\leet-code-problems\ImplementStackUsingQueues\ImplementStackUsingQueues\obj\Debug\ImplementStackUsingQueues.pdb

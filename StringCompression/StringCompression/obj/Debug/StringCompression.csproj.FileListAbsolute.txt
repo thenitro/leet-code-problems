@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\StringCompression\StringCompression\bin\Debug\StringCompression.exe
-E:\code\leet-code-problems\StringCompression\StringCompression\bin\Debug\StringCompression.pdb
-E:\code\leet-code-problems\StringCompression\StringCompression\obj\Debug\StringCompression.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\StringCompression\StringCompression\obj\Debug\StringCompression.exe
-E:\code\leet-code-problems\StringCompression\StringCompression\obj\Debug\StringCompression.pdb

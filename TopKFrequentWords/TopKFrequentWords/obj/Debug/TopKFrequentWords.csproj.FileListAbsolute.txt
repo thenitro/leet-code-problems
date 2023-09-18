@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\TopKFrequentWords\TopKFrequentWords\bin\Debug\TopKFrequentWords.exe
-E:\code\leet-code-problems\TopKFrequentWords\TopKFrequentWords\bin\Debug\TopKFrequentWords.pdb
-E:\code\leet-code-problems\TopKFrequentWords\TopKFrequentWords\obj\Debug\TopKFrequentWords.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\TopKFrequentWords\TopKFrequentWords\obj\Debug\TopKFrequentWords.exe
-E:\code\leet-code-problems\TopKFrequentWords\TopKFrequentWords\obj\Debug\TopKFrequentWords.pdb

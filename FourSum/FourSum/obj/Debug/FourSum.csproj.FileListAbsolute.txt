@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FourSum\FourSum\obj\Debug\FourSum.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FourSum\FourSum\bin\Debug\FourSum.exe
-E:\code\leet-code-problems\FourSum\FourSum\bin\Debug\FourSum.pdb
-E:\code\leet-code-problems\FourSum\FourSum\obj\Debug\FourSum.exe
-E:\code\leet-code-problems\FourSum\FourSum\obj\Debug\FourSum.pdb

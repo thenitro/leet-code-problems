@@ -1,6 +1,0 @@
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\bin\Debug\FindMedianFromDataStream.exe
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\bin\Debug\FindMedianFromDataStream.pdb
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\obj\Debug\FindMedianFromDataStream.csprojAssemblyReference.cache
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\obj\Debug\FindMedianFromDataStream.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\obj\Debug\FindMedianFromDataStream.exe
-D:\leet-code-problems\FindMedianFromDataStream\FindMedianFromDataStream\obj\Debug\FindMedianFromDataStream.pdb

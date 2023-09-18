@@ -1,6 +1,0 @@
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\bin\Debug\LargestRectangleInHistogram.exe
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\bin\Debug\LargestRectangleInHistogram.pdb
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.csprojAssemblyReference.cache
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.exe
-D:\leet-code-problems\LargestRectangleInHistogram\LargestRectangleInHistogram\obj\Debug\LargestRectangleInHistogram.pdb

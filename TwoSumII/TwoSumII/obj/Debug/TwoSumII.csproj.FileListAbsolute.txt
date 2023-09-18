@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\TwoSumII\TwoSumII\obj\Debug\TwoSumII.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\TwoSumII\TwoSumII\bin\Debug\TwoSumII.exe
-E:\code\leet-code-problems\TwoSumII\TwoSumII\bin\Debug\TwoSumII.pdb
-E:\code\leet-code-problems\TwoSumII\TwoSumII\obj\Debug\TwoSumII.exe
-E:\code\leet-code-problems\TwoSumII\TwoSumII\obj\Debug\TwoSumII.pdb

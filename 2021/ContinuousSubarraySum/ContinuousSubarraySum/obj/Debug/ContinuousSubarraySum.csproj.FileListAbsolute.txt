@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/bin/Debug/ContinuousSubarraySum.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/bin/Debug/ContinuousSubarraySum.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/obj/Debug/ContinuousSubarraySum.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/obj/Debug/ContinuousSubarraySum.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/obj/Debug/ContinuousSubarraySum.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/ContinuousSubarraySum/ContinuousSubarraySum/obj/Debug/ContinuousSubarraySum.pdb

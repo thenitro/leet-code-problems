@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MaximumDepthOfBinaryTree\MaximumDepthOfBinaryTree\bin\Debug\MaximumDepthOfBinaryTree.exe
-E:\code\leet-code-problems\MaximumDepthOfBinaryTree\MaximumDepthOfBinaryTree\bin\Debug\MaximumDepthOfBinaryTree.pdb
-E:\code\leet-code-problems\MaximumDepthOfBinaryTree\MaximumDepthOfBinaryTree\obj\Debug\MaximumDepthOfBinaryTree.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MaximumDepthOfBinaryTree\MaximumDepthOfBinaryTree\obj\Debug\MaximumDepthOfBinaryTree.exe
-E:\code\leet-code-problems\MaximumDepthOfBinaryTree\MaximumDepthOfBinaryTree\obj\Debug\MaximumDepthOfBinaryTree.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock\bin\Debug\BestTimeToBuyAndSellStock.exe
-E:\code\leet-code-problems\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock\bin\Debug\BestTimeToBuyAndSellStock.pdb
-E:\code\leet-code-problems\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock\obj\Debug\BestTimeToBuyAndSellStock.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock\obj\Debug\BestTimeToBuyAndSellStock.exe
-E:\code\leet-code-problems\BestTimeToBuyAndSellStock\BestTimeToBuyAndSellStock\obj\Debug\BestTimeToBuyAndSellStock.pdb

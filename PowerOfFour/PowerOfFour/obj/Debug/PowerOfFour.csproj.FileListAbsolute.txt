@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PowerOfFour\PowerOfFour\bin\Debug\PowerOfFour.exe
-E:\code\leet-code-problems\PowerOfFour\PowerOfFour\bin\Debug\PowerOfFour.pdb
-E:\code\leet-code-problems\PowerOfFour\PowerOfFour\obj\Debug\PowerOfFour.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PowerOfFour\PowerOfFour\obj\Debug\PowerOfFour.exe
-E:\code\leet-code-problems\PowerOfFour\PowerOfFour\obj\Debug\PowerOfFour.pdb

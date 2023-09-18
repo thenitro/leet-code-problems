@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
-E:\code\leet-code-problems\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
-E:\code\leet-code-problems\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
-E:\code\leet-code-problems\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb

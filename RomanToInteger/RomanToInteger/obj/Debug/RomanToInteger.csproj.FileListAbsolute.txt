@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.exe
-E:\code\leet-code-problems\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.pdb
-E:\code\leet-code-problems\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.exe
-E:\code\leet-code-problems\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.pdb

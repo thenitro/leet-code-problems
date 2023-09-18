@@ -1,6 +1,0 @@
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\bin\Debug\BestTimeToBuyAndSellStockIV.exe
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\bin\Debug\BestTimeToBuyAndSellStockIV.pdb
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\obj\Debug\BestTimeToBuyAndSellStockIV.csprojAssemblyReference.cache
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\obj\Debug\BestTimeToBuyAndSellStockIV.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\obj\Debug\BestTimeToBuyAndSellStockIV.exe
-D:\leet-code-problems\BestTimeToBuyAndSellStockIV\BestTimeToBuyAndSellStockIV\obj\Debug\BestTimeToBuyAndSellStockIV.pdb

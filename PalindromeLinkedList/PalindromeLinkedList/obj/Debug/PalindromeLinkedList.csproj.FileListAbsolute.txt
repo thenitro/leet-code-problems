@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.exe
-E:\code\leet-code-problems\PalindromeLinkedList\PalindromeLinkedList\bin\Debug\PalindromeLinkedList.pdb
-E:\code\leet-code-problems\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.exe
-E:\code\leet-code-problems\PalindromeLinkedList\PalindromeLinkedList\obj\Debug\PalindromeLinkedList.pdb

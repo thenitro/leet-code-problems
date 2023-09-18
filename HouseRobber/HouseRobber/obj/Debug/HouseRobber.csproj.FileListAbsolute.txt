@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\HouseRobber\HouseRobber\bin\Debug\HouseRobber.exe
-E:\code\leet-code-problems\HouseRobber\HouseRobber\bin\Debug\HouseRobber.pdb
-E:\code\leet-code-problems\HouseRobber\HouseRobber\obj\Debug\HouseRobber.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\HouseRobber\HouseRobber\obj\Debug\HouseRobber.exe
-E:\code\leet-code-problems\HouseRobber\HouseRobber\obj\Debug\HouseRobber.pdb

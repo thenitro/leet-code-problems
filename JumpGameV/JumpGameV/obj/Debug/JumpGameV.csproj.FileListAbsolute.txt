@@ -1,6 +1,0 @@
-D:\leet-code-problems\JumpGameV\JumpGameV\bin\Debug\JumpGameV.exe
-D:\leet-code-problems\JumpGameV\JumpGameV\bin\Debug\JumpGameV.pdb
-D:\leet-code-problems\JumpGameV\JumpGameV\obj\Debug\JumpGameV.csprojAssemblyReference.cache
-D:\leet-code-problems\JumpGameV\JumpGameV\obj\Debug\JumpGameV.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\JumpGameV\JumpGameV\obj\Debug\JumpGameV.exe
-D:\leet-code-problems\JumpGameV\JumpGameV\obj\Debug\JumpGameV.pdb

@@ -1,6 +1,0 @@
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\bin\Debug\VerifyingAlienDictionary.exe
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\bin\Debug\VerifyingAlienDictionary.pdb
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\obj\Debug\VerifyingAlienDictionary.csprojAssemblyReference.cache
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\obj\Debug\VerifyingAlienDictionary.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\obj\Debug\VerifyingAlienDictionary.exe
-D:\leet-code-problems\VerifyingAlienDictionary\VerifyingAlienDictionary\obj\Debug\VerifyingAlienDictionary.pdb

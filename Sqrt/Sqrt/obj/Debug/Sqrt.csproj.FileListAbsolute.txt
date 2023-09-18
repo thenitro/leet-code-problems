@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\Sqrt\Sqrt\bin\Debug\Sqrt.exe
-E:\code\leet-code-problems\Sqrt\Sqrt\bin\Debug\Sqrt.pdb
-E:\code\leet-code-problems\Sqrt\Sqrt\obj\Debug\Sqrt.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\Sqrt\Sqrt\obj\Debug\Sqrt.exe
-E:\code\leet-code-problems\Sqrt\Sqrt\obj\Debug\Sqrt.pdb

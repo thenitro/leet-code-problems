@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\DiceRollSimulation\DiceRollSimulation\bin\Debug\DiceRollSimulation.exe
-E:\code\leet-code-problems\DiceRollSimulation\DiceRollSimulation\bin\Debug\DiceRollSimulation.pdb
-E:\code\leet-code-problems\DiceRollSimulation\DiceRollSimulation\obj\Debug\DiceRollSimulation.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\DiceRollSimulation\DiceRollSimulation\obj\Debug\DiceRollSimulation.exe
-E:\code\leet-code-problems\DiceRollSimulation\DiceRollSimulation\obj\Debug\DiceRollSimulation.pdb

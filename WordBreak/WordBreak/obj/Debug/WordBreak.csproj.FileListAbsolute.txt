@@ -1,6 +1,0 @@
-D:\leet-code-problems\WordBreak\WordBreak\bin\Debug\WordBreak.exe
-D:\leet-code-problems\WordBreak\WordBreak\bin\Debug\WordBreak.pdb
-D:\leet-code-problems\WordBreak\WordBreak\obj\Debug\WordBreak.csprojAssemblyReference.cache
-D:\leet-code-problems\WordBreak\WordBreak\obj\Debug\WordBreak.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\WordBreak\WordBreak\obj\Debug\WordBreak.exe
-D:\leet-code-problems\WordBreak\WordBreak\obj\Debug\WordBreak.pdb

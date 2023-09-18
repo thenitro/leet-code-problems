@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FindTheDuplicateNumber\FindTheDuplicateNumber\bin\Debug\FindTheDuplicateNumber.exe
-E:\code\leet-code-problems\FindTheDuplicateNumber\FindTheDuplicateNumber\bin\Debug\FindTheDuplicateNumber.pdb
-E:\code\leet-code-problems\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.exe
-E:\code\leet-code-problems\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\FindTheDuplicateNumber.pdb

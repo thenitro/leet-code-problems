@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/bin/Debug/SumInAMatrix.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/bin/Debug/SumInAMatrix.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/obj/Debug/SumInAMatrix.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/obj/Debug/SumInAMatrix.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/obj/Debug/SumInAMatrix.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SumInAMatrix/SumInAMatrix/obj/Debug/SumInAMatrix.pdb

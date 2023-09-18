@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/bin/Debug/FindNthDigit.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/bin/Debug/FindNthDigit.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/obj/Debug/FindNthDigit.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/obj/Debug/FindNthDigit.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/obj/Debug/FindNthDigit.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/FindNthDigit/FindNthDigit/obj/Debug/FindNthDigit.pdb

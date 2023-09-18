@@ -1,6 +1,0 @@
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/bin/Debug/RestoreIpAddresses.exe
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/bin/Debug/RestoreIpAddresses.pdb
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/obj/Debug/RestoreIpAddresses.csprojAssemblyReference.cache
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/obj/Debug/RestoreIpAddresses.csproj.CoreCompileInputs.cache
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/obj/Debug/RestoreIpAddresses.exe
-/Users/User/Personal/leet-code-problems/2021/RestoreIpAddresses/RestoreIpAddresses/obj/Debug/RestoreIpAddresses.pdb

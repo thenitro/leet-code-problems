@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\AllNodesDistanceKinBinaryTree\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-E:\code\leet-code-problems\AllNodesDistanceKinBinaryTree\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-E:\code\leet-code-problems\AllNodesDistanceKinBinaryTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\AllNodesDistanceKinBinaryTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-E:\code\leet-code-problems\AllNodesDistanceKinBinaryTree\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

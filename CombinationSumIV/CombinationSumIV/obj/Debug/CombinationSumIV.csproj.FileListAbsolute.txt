@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\CombinationSumIV\CombinationSumIV\bin\Debug\CombinationSumIV.exe
-E:\code\leet-code-problems\CombinationSumIV\CombinationSumIV\bin\Debug\CombinationSumIV.pdb
-E:\code\leet-code-problems\CombinationSumIV\CombinationSumIV\obj\Debug\CombinationSumIV.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\CombinationSumIV\CombinationSumIV\obj\Debug\CombinationSumIV.exe
-E:\code\leet-code-problems\CombinationSumIV\CombinationSumIV\obj\Debug\CombinationSumIV.pdb

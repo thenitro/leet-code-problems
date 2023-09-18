@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
-E:\code\leet-code-problems\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
-E:\code\leet-code-problems\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.exe
-E:\code\leet-code-problems\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\Permutations2\Permutations2\bin\Debug\Permutations2.exe
-E:\code\leet-code-problems\Permutations2\Permutations2\bin\Debug\Permutations2.pdb
-E:\code\leet-code-problems\Permutations2\Permutations2\obj\Debug\Permutations2.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\Permutations2\Permutations2\obj\Debug\Permutations2.exe
-E:\code\leet-code-problems\Permutations2\Permutations2\obj\Debug\Permutations2.pdb

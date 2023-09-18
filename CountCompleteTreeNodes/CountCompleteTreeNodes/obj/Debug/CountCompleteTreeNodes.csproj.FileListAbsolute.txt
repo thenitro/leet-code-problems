@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\CountCompleteTreeNodes\CountCompleteTreeNodes\bin\Debug\CountCompleteTreeNodes.exe
-E:\code\leet-code-problems\CountCompleteTreeNodes\CountCompleteTreeNodes\bin\Debug\CountCompleteTreeNodes.pdb
-E:\code\leet-code-problems\CountCompleteTreeNodes\CountCompleteTreeNodes\obj\Debug\CountCompleteTreeNodes.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\CountCompleteTreeNodes\CountCompleteTreeNodes\obj\Debug\CountCompleteTreeNodes.exe
-E:\code\leet-code-problems\CountCompleteTreeNodes\CountCompleteTreeNodes\obj\Debug\CountCompleteTreeNodes.pdb

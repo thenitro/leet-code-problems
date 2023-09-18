@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BinaryTreeInorderTraversal\BinaryTreeInorderTraversal\bin\Debug\BinaryTreeInorderTraversal.exe
-E:\code\leet-code-problems\BinaryTreeInorderTraversal\BinaryTreeInorderTraversal\bin\Debug\BinaryTreeInorderTraversal.pdb
-E:\code\leet-code-problems\BinaryTreeInorderTraversal\BinaryTreeInorderTraversal\obj\Debug\BinaryTreeInorderTraversal.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BinaryTreeInorderTraversal\BinaryTreeInorderTraversal\obj\Debug\BinaryTreeInorderTraversal.exe
-E:\code\leet-code-problems\BinaryTreeInorderTraversal\BinaryTreeInorderTraversal\obj\Debug\BinaryTreeInorderTraversal.pdb

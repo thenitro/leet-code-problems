@@ -1,6 +1,0 @@
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\bin\Debug\PrintWordsVertically.exe
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\bin\Debug\PrintWordsVertically.pdb
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\obj\Debug\PrintWordsVertically.csprojAssemblyReference.cache
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\obj\Debug\PrintWordsVertically.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\obj\Debug\PrintWordsVertically.exe
-D:\leet-code-problems\PrintWordsVertically\PrintWordsVertically\obj\Debug\PrintWordsVertically.pdb

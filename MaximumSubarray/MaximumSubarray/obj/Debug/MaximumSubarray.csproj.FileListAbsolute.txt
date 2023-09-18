@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MaximumSubarray\MaximumSubarray\bin\Debug\MaximumSubarray.exe
-E:\code\leet-code-problems\MaximumSubarray\MaximumSubarray\bin\Debug\MaximumSubarray.pdb
-E:\code\leet-code-problems\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.exe
-E:\code\leet-code-problems\MaximumSubarray\MaximumSubarray\obj\Debug\MaximumSubarray.pdb

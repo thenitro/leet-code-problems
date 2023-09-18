@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\MinMovesToEqualArrayElemnts\MinMovesToEqualArrayElemnts\bin\Debug\MinMovesToEqualArrayElemnts.exe
-E:\code\leet-code-problems\MinMovesToEqualArrayElemnts\MinMovesToEqualArrayElemnts\bin\Debug\MinMovesToEqualArrayElemnts.pdb
-E:\code\leet-code-problems\MinMovesToEqualArrayElemnts\MinMovesToEqualArrayElemnts\obj\Debug\MinMovesToEqualArrayElemnts.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\MinMovesToEqualArrayElemnts\MinMovesToEqualArrayElemnts\obj\Debug\MinMovesToEqualArrayElemnts.exe
-E:\code\leet-code-problems\MinMovesToEqualArrayElemnts\MinMovesToEqualArrayElemnts\obj\Debug\MinMovesToEqualArrayElemnts.pdb

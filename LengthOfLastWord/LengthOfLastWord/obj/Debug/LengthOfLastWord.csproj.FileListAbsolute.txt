@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\LengthOfLastWord\LengthOfLastWord\bin\Debug\LengthOfLastWord.exe
-E:\code\leet-code-problems\LengthOfLastWord\LengthOfLastWord\bin\Debug\LengthOfLastWord.pdb
-E:\code\leet-code-problems\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.exe
-E:\code\leet-code-problems\LengthOfLastWord\LengthOfLastWord\obj\Debug\LengthOfLastWord.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BinaryNumberWithAlternatingBits\BinaryNumberWithAlternatingBits\bin\Debug\BinaryNumberWithAlternatingBits.exe
-E:\code\leet-code-problems\BinaryNumberWithAlternatingBits\BinaryNumberWithAlternatingBits\bin\Debug\BinaryNumberWithAlternatingBits.pdb
-E:\code\leet-code-problems\BinaryNumberWithAlternatingBits\BinaryNumberWithAlternatingBits\obj\Debug\BinaryNumberWithAlternatingBits.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BinaryNumberWithAlternatingBits\BinaryNumberWithAlternatingBits\obj\Debug\BinaryNumberWithAlternatingBits.exe
-E:\code\leet-code-problems\BinaryNumberWithAlternatingBits\BinaryNumberWithAlternatingBits\obj\Debug\BinaryNumberWithAlternatingBits.pdb

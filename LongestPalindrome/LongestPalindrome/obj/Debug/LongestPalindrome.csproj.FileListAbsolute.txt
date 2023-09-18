@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\LongestPalindrome\LongestPalindrome\bin\Debug\LongestPalindrome.exe
-E:\code\leet-code-problems\LongestPalindrome\LongestPalindrome\bin\Debug\LongestPalindrome.pdb
-E:\code\leet-code-problems\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.exe
-E:\code\leet-code-problems\LongestPalindrome\LongestPalindrome\obj\Debug\LongestPalindrome.pdb

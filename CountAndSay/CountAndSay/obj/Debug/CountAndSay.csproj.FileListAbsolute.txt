@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\CountAndSay\CountAndSay\bin\Debug\CountAndSay.exe
-E:\code\leet-code-problems\CountAndSay\CountAndSay\bin\Debug\CountAndSay.pdb
-E:\code\leet-code-problems\CountAndSay\CountAndSay\obj\Debug\CountAndSay.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\CountAndSay\CountAndSay\obj\Debug\CountAndSay.exe
-E:\code\leet-code-problems\CountAndSay\CountAndSay\obj\Debug\CountAndSay.pdb

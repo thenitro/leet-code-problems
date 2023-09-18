@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\CustomSortString\CustomSortString\bin\Debug\CustomSortString.exe
-E:\code\leet-code-problems\CustomSortString\CustomSortString\bin\Debug\CustomSortString.pdb
-E:\code\leet-code-problems\CustomSortString\CustomSortString\obj\Debug\CustomSortString.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\CustomSortString\CustomSortString\obj\Debug\CustomSortString.exe
-E:\code\leet-code-problems\CustomSortString\CustomSortString\obj\Debug\CustomSortString.pdb

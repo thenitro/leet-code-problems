@@ -1,6 +1,0 @@
-D:\leet-code-problems\New21Game\New21Game\bin\Debug\New21Game.exe
-D:\leet-code-problems\New21Game\New21Game\bin\Debug\New21Game.pdb
-D:\leet-code-problems\New21Game\New21Game\obj\Debug\New21Game.csprojAssemblyReference.cache
-D:\leet-code-problems\New21Game\New21Game\obj\Debug\New21Game.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\New21Game\New21Game\obj\Debug\New21Game.exe
-D:\leet-code-problems\New21Game\New21Game\obj\Debug\New21Game.pdb

@@ -1,6 +1,0 @@
-D:\leet-code-problems\WildcardMatching\WildcardMatching\bin\Debug\WildcardMatching.exe
-D:\leet-code-problems\WildcardMatching\WildcardMatching\bin\Debug\WildcardMatching.pdb
-D:\leet-code-problems\WildcardMatching\WildcardMatching\obj\Debug\WildcardMatching.csprojAssemblyReference.cache
-D:\leet-code-problems\WildcardMatching\WildcardMatching\obj\Debug\WildcardMatching.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\WildcardMatching\WildcardMatching\obj\Debug\WildcardMatching.exe
-D:\leet-code-problems\WildcardMatching\WildcardMatching\obj\Debug\WildcardMatching.pdb

@@ -1,6 +1,0 @@
-D:\leet-code-problems\ShortestBridge\ShortestBridge\bin\Debug\ShortestBridge.exe
-D:\leet-code-problems\ShortestBridge\ShortestBridge\bin\Debug\ShortestBridge.pdb
-D:\leet-code-problems\ShortestBridge\ShortestBridge\obj\Debug\ShortestBridge.csprojAssemblyReference.cache
-D:\leet-code-problems\ShortestBridge\ShortestBridge\obj\Debug\ShortestBridge.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\ShortestBridge\ShortestBridge\obj\Debug\ShortestBridge.exe
-D:\leet-code-problems\ShortestBridge\ShortestBridge\obj\Debug\ShortestBridge.pdb

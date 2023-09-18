@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/bin/Debug/NumberOfBoomerangs.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/bin/Debug/NumberOfBoomerangs.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/obj/Debug/NumberOfBoomerangs.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/obj/Debug/NumberOfBoomerangs.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/obj/Debug/NumberOfBoomerangs.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/NumberOfBoomerangs/NumberOfBoomerangs/obj/Debug/NumberOfBoomerangs.pdb

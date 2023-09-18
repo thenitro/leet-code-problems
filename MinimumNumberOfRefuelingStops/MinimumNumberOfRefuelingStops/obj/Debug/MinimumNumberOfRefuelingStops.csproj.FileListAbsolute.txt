@@ -1,6 +1,0 @@
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\bin\Debug\MinimumNumberOfRefuelingStops.exe
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\bin\Debug\MinimumNumberOfRefuelingStops.pdb
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\obj\Debug\MinimumNumberOfRefuelingStops.csprojAssemblyReference.cache
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\obj\Debug\MinimumNumberOfRefuelingStops.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\obj\Debug\MinimumNumberOfRefuelingStops.exe
-D:\leet-code-problems\MinimumNumberOfRefuelingStops\MinimumNumberOfRefuelingStops\obj\Debug\MinimumNumberOfRefuelingStops.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\RepeatedStringMatch\RepeatedStringMatch\bin\Debug\RepeatedStringMatch.exe
-E:\code\leet-code-problems\RepeatedStringMatch\RepeatedStringMatch\bin\Debug\RepeatedStringMatch.pdb
-E:\code\leet-code-problems\RepeatedStringMatch\RepeatedStringMatch\obj\Debug\RepeatedStringMatch.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\RepeatedStringMatch\RepeatedStringMatch\obj\Debug\RepeatedStringMatch.exe
-E:\code\leet-code-problems\RepeatedStringMatch\RepeatedStringMatch\obj\Debug\RepeatedStringMatch.pdb

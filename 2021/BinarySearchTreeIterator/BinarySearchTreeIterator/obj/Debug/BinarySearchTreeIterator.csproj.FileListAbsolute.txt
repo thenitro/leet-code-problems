@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/bin/Debug/BinarySearchTreeIterator.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/bin/Debug/BinarySearchTreeIterator.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/obj/Debug/BinarySearchTreeIterator.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/obj/Debug/BinarySearchTreeIterator.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/obj/Debug/BinarySearchTreeIterator.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/BinarySearchTreeIterator/BinarySearchTreeIterator/obj/Debug/BinarySearchTreeIterator.pdb

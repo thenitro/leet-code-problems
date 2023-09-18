@@ -1,6 +1,0 @@
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\bin\Debug\FirstBadVersion.exe
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\bin\Debug\FirstBadVersion.pdb
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.csprojAssemblyReference.cache
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.exe
-D:\leet-code-problems\FirstBadVersion\FirstBadVersion\obj\Debug\FirstBadVersion.pdb

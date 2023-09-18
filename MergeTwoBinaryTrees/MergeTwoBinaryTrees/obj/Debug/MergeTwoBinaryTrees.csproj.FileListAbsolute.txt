@@ -1,6 +1,0 @@
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\bin\Debug\MergeTwoBinaryTrees.exe
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\bin\Debug\MergeTwoBinaryTrees.pdb
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\obj\Debug\MergeTwoBinaryTrees.csprojAssemblyReference.cache
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\obj\Debug\MergeTwoBinaryTrees.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\obj\Debug\MergeTwoBinaryTrees.exe
-D:\leet-code-problems\MergeTwoBinaryTrees\MergeTwoBinaryTrees\obj\Debug\MergeTwoBinaryTrees.pdb

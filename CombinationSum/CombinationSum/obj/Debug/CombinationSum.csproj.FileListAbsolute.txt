@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\CombinationSum\CombinationSum\bin\Debug\CombinationSum.exe
-E:\code\leet-code-problems\CombinationSum\CombinationSum\bin\Debug\CombinationSum.pdb
-E:\code\leet-code-problems\CombinationSum\CombinationSum\obj\Debug\CombinationSum.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\CombinationSum\CombinationSum\obj\Debug\CombinationSum.exe
-E:\code\leet-code-problems\CombinationSum\CombinationSum\obj\Debug\CombinationSum.pdb

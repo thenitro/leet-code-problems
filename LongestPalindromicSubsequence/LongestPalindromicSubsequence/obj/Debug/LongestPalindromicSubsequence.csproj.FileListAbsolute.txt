@@ -1,6 +1,0 @@
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\bin\Debug\LongestPalindromicSubsequence.exe
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\bin\Debug\LongestPalindromicSubsequence.pdb
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.csprojAssemblyReference.cache
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.exe
-D:\leet-code-problems\LongestPalindromicSubsequence\LongestPalindromicSubsequence\obj\Debug\LongestPalindromicSubsequence.pdb

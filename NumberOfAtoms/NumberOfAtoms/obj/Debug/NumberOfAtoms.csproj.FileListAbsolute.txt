@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\NumberOfAtoms\NumberOfAtoms\bin\Debug\NumberOfAtoms.exe
-E:\code\leet-code-problems\NumberOfAtoms\NumberOfAtoms\bin\Debug\NumberOfAtoms.pdb
-E:\code\leet-code-problems\NumberOfAtoms\NumberOfAtoms\obj\Debug\NumberOfAtoms.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\NumberOfAtoms\NumberOfAtoms\obj\Debug\NumberOfAtoms.exe
-E:\code\leet-code-problems\NumberOfAtoms\NumberOfAtoms\obj\Debug\NumberOfAtoms.pdb

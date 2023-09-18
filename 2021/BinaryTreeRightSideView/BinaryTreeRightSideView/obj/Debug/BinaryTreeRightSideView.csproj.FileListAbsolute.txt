@@ -1,6 +1,0 @@
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/bin/Debug/BinaryTreeRightSideView.exe
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/bin/Debug/BinaryTreeRightSideView.pdb
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/obj/Debug/BinaryTreeRightSideView.csprojAssemblyReference.cache
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/obj/Debug/BinaryTreeRightSideView.csproj.CoreCompileInputs.cache
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/obj/Debug/BinaryTreeRightSideView.exe
-/Users/User/Personal/leet-code-problems/2021/BinaryTreeRightSideView/BinaryTreeRightSideView/obj/Debug/BinaryTreeRightSideView.pdb

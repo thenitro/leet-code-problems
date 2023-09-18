@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/bin/Debug/ValidateBinarySearchTree.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/bin/Debug/ValidateBinarySearchTree.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/obj/Debug/ValidateBinarySearchTree.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/obj/Debug/ValidateBinarySearchTree.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/obj/Debug/ValidateBinarySearchTree.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/ValidateBinarySearchTree/ValidateBinarySearchTree/obj/Debug/ValidateBinarySearchTree.pdb

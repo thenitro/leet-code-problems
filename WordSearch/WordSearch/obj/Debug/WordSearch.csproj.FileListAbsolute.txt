@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\WordSearch\WordSearch\obj\Debug\WordSearch.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\WordSearch\WordSearch\bin\Debug\WordSearch.exe
-E:\code\leet-code-problems\WordSearch\WordSearch\bin\Debug\WordSearch.pdb
-E:\code\leet-code-problems\WordSearch\WordSearch\obj\Debug\WordSearch.exe
-E:\code\leet-code-problems\WordSearch\WordSearch\obj\Debug\WordSearch.pdb

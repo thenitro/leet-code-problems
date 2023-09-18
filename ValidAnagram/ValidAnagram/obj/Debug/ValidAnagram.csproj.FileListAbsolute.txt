@@ -1,6 +1,0 @@
-D:\leet-code-problems\ValidAnagram\ValidAnagram\bin\Debug\ValidAnagram.exe
-D:\leet-code-problems\ValidAnagram\ValidAnagram\bin\Debug\ValidAnagram.pdb
-D:\leet-code-problems\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.csprojAssemblyReference.cache
-D:\leet-code-problems\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.exe
-D:\leet-code-problems\ValidAnagram\ValidAnagram\obj\Debug\ValidAnagram.pdb

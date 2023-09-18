@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/bin/Debug/PascalsTriangle.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/PascalsTriangle/PascalsTriangle/obj/Debug/PascalsTriangle.pdb

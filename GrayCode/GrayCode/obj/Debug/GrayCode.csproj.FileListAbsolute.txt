@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\GrayCode\GrayCode\bin\Debug\GrayCode.exe
-E:\code\leet-code-problems\GrayCode\GrayCode\bin\Debug\GrayCode.pdb
-E:\code\leet-code-problems\GrayCode\GrayCode\obj\Debug\GrayCode.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\GrayCode\GrayCode\obj\Debug\GrayCode.exe
-E:\code\leet-code-problems\GrayCode\GrayCode\obj\Debug\GrayCode.pdb

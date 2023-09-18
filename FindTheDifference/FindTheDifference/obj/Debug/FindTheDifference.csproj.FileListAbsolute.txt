@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FindTheDifference\FindTheDifference\obj\Debug\FindTheDifference.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FindTheDifference\FindTheDifference\bin\Debug\FindTheDifference.exe
-E:\code\leet-code-problems\FindTheDifference\FindTheDifference\bin\Debug\FindTheDifference.pdb
-E:\code\leet-code-problems\FindTheDifference\FindTheDifference\obj\Debug\FindTheDifference.exe
-E:\code\leet-code-problems\FindTheDifference\FindTheDifference\obj\Debug\FindTheDifference.pdb

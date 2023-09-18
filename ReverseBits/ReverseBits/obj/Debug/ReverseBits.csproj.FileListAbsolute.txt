@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ReverseBits\ReverseBits\bin\Debug\ReverseBits.exe
-E:\code\leet-code-problems\ReverseBits\ReverseBits\bin\Debug\ReverseBits.pdb
-E:\code\leet-code-problems\ReverseBits\ReverseBits\obj\Debug\ReverseBits.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ReverseBits\ReverseBits\obj\Debug\ReverseBits.exe
-E:\code\leet-code-problems\ReverseBits\ReverseBits\obj\Debug\ReverseBits.pdb

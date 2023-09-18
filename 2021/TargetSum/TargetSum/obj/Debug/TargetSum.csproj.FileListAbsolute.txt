@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/bin/Debug/TargetSum.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/bin/Debug/TargetSum.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/obj/Debug/TargetSum.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/obj/Debug/TargetSum.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/obj/Debug/TargetSum.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/TargetSum/TargetSum/obj/Debug/TargetSum.pdb

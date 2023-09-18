@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\WordLadder\WordLadder\bin\Debug\WordLadder.exe
-E:\code\leet-code-problems\WordLadder\WordLadder\bin\Debug\WordLadder.pdb
-E:\code\leet-code-problems\WordLadder\WordLadder\obj\Debug\WordLadder.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\WordLadder\WordLadder\obj\Debug\WordLadder.exe
-E:\code\leet-code-problems\WordLadder\WordLadder\obj\Debug\WordLadder.pdb

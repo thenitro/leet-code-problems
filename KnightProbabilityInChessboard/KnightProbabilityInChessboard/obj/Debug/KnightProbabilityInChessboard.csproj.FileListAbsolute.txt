@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\KnightProbabilityInChessboard\KnightProbabilityInChessboard\bin\Debug\KnightProbabilityInChessboard.exe
-E:\code\leet-code-problems\KnightProbabilityInChessboard\KnightProbabilityInChessboard\bin\Debug\KnightProbabilityInChessboard.pdb
-E:\code\leet-code-problems\KnightProbabilityInChessboard\KnightProbabilityInChessboard\obj\Debug\KnightProbabilityInChessboard.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\KnightProbabilityInChessboard\KnightProbabilityInChessboard\obj\Debug\KnightProbabilityInChessboard.exe
-E:\code\leet-code-problems\KnightProbabilityInChessboard\KnightProbabilityInChessboard\obj\Debug\KnightProbabilityInChessboard.pdb

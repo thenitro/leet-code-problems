@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ValidPalindrome2\ValidPalindrome2\bin\Debug\ValidPalindrome2.exe
-E:\code\leet-code-problems\ValidPalindrome2\ValidPalindrome2\bin\Debug\ValidPalindrome2.pdb
-E:\code\leet-code-problems\ValidPalindrome2\ValidPalindrome2\obj\Debug\ValidPalindrome2.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ValidPalindrome2\ValidPalindrome2\obj\Debug\ValidPalindrome2.exe
-E:\code\leet-code-problems\ValidPalindrome2\ValidPalindrome2\obj\Debug\ValidPalindrome2.pdb

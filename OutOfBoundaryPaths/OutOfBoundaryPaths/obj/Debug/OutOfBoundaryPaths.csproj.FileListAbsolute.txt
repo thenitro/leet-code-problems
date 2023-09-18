@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\OutOfBoundaryPaths\OutOfBoundaryPaths\bin\Debug\OutOfBoundaryPaths.exe
-E:\code\leet-code-problems\OutOfBoundaryPaths\OutOfBoundaryPaths\bin\Debug\OutOfBoundaryPaths.pdb
-E:\code\leet-code-problems\OutOfBoundaryPaths\OutOfBoundaryPaths\obj\Debug\OutOfBoundaryPaths.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\OutOfBoundaryPaths\OutOfBoundaryPaths\obj\Debug\OutOfBoundaryPaths.exe
-E:\code\leet-code-problems\OutOfBoundaryPaths\OutOfBoundaryPaths\obj\Debug\OutOfBoundaryPaths.pdb

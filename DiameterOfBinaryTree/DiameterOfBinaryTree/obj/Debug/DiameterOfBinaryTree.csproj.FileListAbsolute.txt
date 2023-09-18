@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\DiameterOfBinaryTree\DiameterOfBinaryTree\bin\Debug\DiameterOfBinaryTree.exe
-E:\code\leet-code-problems\DiameterOfBinaryTree\DiameterOfBinaryTree\bin\Debug\DiameterOfBinaryTree.pdb
-E:\code\leet-code-problems\DiameterOfBinaryTree\DiameterOfBinaryTree\obj\Debug\DiameterOfBinaryTree.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\DiameterOfBinaryTree\DiameterOfBinaryTree\obj\Debug\DiameterOfBinaryTree.exe
-E:\code\leet-code-problems\DiameterOfBinaryTree\DiameterOfBinaryTree\obj\Debug\DiameterOfBinaryTree.pdb

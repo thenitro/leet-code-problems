@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\SumOfLeftLeaves\SumOfLeftLeaves\bin\Debug\SumOfLeftLeaves.exe
-E:\code\leet-code-problems\SumOfLeftLeaves\SumOfLeftLeaves\bin\Debug\SumOfLeftLeaves.pdb
-E:\code\leet-code-problems\SumOfLeftLeaves\SumOfLeftLeaves\obj\Debug\SumOfLeftLeaves.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\SumOfLeftLeaves\SumOfLeftLeaves\obj\Debug\SumOfLeftLeaves.exe
-E:\code\leet-code-problems\SumOfLeftLeaves\SumOfLeftLeaves\obj\Debug\SumOfLeftLeaves.pdb

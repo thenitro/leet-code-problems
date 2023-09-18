@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\LongestUnivaluePath\LongestUnivaluePath\bin\Debug\LongestUnivaluePath.exe
-E:\code\leet-code-problems\LongestUnivaluePath\LongestUnivaluePath\bin\Debug\LongestUnivaluePath.pdb
-E:\code\leet-code-problems\LongestUnivaluePath\LongestUnivaluePath\obj\Debug\LongestUnivaluePath.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\LongestUnivaluePath\LongestUnivaluePath\obj\Debug\LongestUnivaluePath.exe
-E:\code\leet-code-problems\LongestUnivaluePath\LongestUnivaluePath\obj\Debug\LongestUnivaluePath.pdb

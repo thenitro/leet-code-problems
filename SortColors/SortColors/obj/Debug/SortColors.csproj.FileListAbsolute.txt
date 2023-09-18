@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\SortColors\SortColors\bin\Debug\SortColors.exe
-E:\code\leet-code-problems\SortColors\SortColors\bin\Debug\SortColors.pdb
-E:\code\leet-code-problems\SortColors\SortColors\obj\Debug\SortColors.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\SortColors\SortColors\obj\Debug\SortColors.exe
-E:\code\leet-code-problems\SortColors\SortColors\obj\Debug\SortColors.pdb

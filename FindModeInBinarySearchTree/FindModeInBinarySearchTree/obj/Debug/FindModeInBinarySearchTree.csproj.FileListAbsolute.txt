@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FindModeInBinarySearchTree\FindModeInBinarySearchTree\bin\Debug\FindModeInBinarySearchTree.exe
-E:\code\leet-code-problems\FindModeInBinarySearchTree\FindModeInBinarySearchTree\bin\Debug\FindModeInBinarySearchTree.pdb
-E:\code\leet-code-problems\FindModeInBinarySearchTree\FindModeInBinarySearchTree\obj\Debug\FindModeInBinarySearchTree.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FindModeInBinarySearchTree\FindModeInBinarySearchTree\obj\Debug\FindModeInBinarySearchTree.exe
-E:\code\leet-code-problems\FindModeInBinarySearchTree\FindModeInBinarySearchTree\obj\Debug\FindModeInBinarySearchTree.pdb

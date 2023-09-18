@@ -1,6 +1,0 @@
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\bin\Debug\IslandPerimeter.exe
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\bin\Debug\IslandPerimeter.pdb
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\obj\Debug\IslandPerimeter.csprojAssemblyReference.cache
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\obj\Debug\IslandPerimeter.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\obj\Debug\IslandPerimeter.exe
-D:\leet-code-problems\IslandPerimeter\IslandPerimeter\obj\Debug\IslandPerimeter.pdb

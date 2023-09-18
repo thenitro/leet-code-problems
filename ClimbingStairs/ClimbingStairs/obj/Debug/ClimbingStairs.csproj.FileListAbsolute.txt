@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.exe
-E:\code\leet-code-problems\ClimbingStairs\ClimbingStairs\bin\Debug\ClimbingStairs.pdb
-E:\code\leet-code-problems\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.exe
-E:\code\leet-code-problems\ClimbingStairs\ClimbingStairs\obj\Debug\ClimbingStairs.pdb

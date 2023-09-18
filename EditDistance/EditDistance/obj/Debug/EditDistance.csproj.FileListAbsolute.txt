@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\EditDistance\EditDistance\bin\Debug\EditDistance.exe
-E:\code\leet-code-problems\EditDistance\EditDistance\bin\Debug\EditDistance.pdb
-E:\code\leet-code-problems\EditDistance\EditDistance\obj\Debug\EditDistance.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\EditDistance\EditDistance\obj\Debug\EditDistance.exe
-E:\code\leet-code-problems\EditDistance\EditDistance\obj\Debug\EditDistance.pdb

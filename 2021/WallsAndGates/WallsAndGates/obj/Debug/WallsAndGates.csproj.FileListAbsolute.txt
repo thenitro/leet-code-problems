@@ -1,6 +1,0 @@
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/bin/Debug/WallsAndGates.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/bin/Debug/WallsAndGates.pdb
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/obj/Debug/WallsAndGates.csprojAssemblyReference.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/obj/Debug/WallsAndGates.csproj.CoreCompileInputs.cache
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/obj/Debug/WallsAndGates.exe
-/Users/tymurkoshel/Documents/Personal/leet-code-problems/2021/WallsAndGates/WallsAndGates/obj/Debug/WallsAndGates.pdb

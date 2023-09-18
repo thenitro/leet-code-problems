@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\RotateImage\RotateImage\bin\Debug\RotateImage.exe
-E:\code\leet-code-problems\RotateImage\RotateImage\bin\Debug\RotateImage.pdb
-E:\code\leet-code-problems\RotateImage\RotateImage\obj\Debug\RotateImage.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\RotateImage\RotateImage\obj\Debug\RotateImage.exe
-E:\code\leet-code-problems\RotateImage\RotateImage\obj\Debug\RotateImage.pdb

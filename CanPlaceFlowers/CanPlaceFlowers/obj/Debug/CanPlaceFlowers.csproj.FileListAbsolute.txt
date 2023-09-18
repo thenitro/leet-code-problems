@@ -1,6 +1,0 @@
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\bin\Debug\CanPlaceFlowers.exe
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\bin\Debug\CanPlaceFlowers.pdb
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\obj\Debug\CanPlaceFlowers.csprojAssemblyReference.cache
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\obj\Debug\CanPlaceFlowers.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\obj\Debug\CanPlaceFlowers.exe
-D:\leet-code-problems\CanPlaceFlowers\CanPlaceFlowers\obj\Debug\CanPlaceFlowers.pdb

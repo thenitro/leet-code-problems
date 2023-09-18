@@ -1,6 +1,0 @@
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/bin/Debug/CorporateFlightBookings.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/bin/Debug/CorporateFlightBookings.pdb
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/obj/Debug/CorporateFlightBookings.csproj.AssemblyReference.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/obj/Debug/CorporateFlightBookings.csproj.CoreCompileInputs.cache
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/obj/Debug/CorporateFlightBookings.exe
-/Volumes/Secondary/Work/Personal/leet-code-problems/2023/CorporateFlightBookings/CorporateFlightBookings/obj/Debug/CorporateFlightBookings.pdb

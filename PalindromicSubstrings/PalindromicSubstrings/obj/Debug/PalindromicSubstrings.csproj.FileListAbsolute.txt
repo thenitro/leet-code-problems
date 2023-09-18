@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.exe
-E:\code\leet-code-problems\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\PalindromicSubstrings.pdb
-E:\code\leet-code-problems\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.exe
-E:\code\leet-code-problems\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\PalindromicSubstrings.pdb

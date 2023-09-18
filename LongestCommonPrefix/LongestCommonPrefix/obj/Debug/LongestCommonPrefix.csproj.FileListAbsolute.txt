@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\LongestCommonPrefix.exe
-E:\code\leet-code-problems\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\LongestCommonPrefix.pdb
-E:\code\leet-code-problems\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\LongestCommonPrefix.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\LongestCommonPrefix.exe
-E:\code\leet-code-problems\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\LongestCommonPrefix.pdb

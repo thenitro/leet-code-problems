@@ -1,6 +1,0 @@
-D:\leet-code-problems\MissingNumber\MissingNumber\bin\Debug\MissingNumber.exe
-D:\leet-code-problems\MissingNumber\MissingNumber\bin\Debug\MissingNumber.pdb
-D:\leet-code-problems\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csprojAssemblyReference.cache
-D:\leet-code-problems\MissingNumber\MissingNumber\obj\Debug\MissingNumber.csproj.CoreCompileInputs.cache
-D:\leet-code-problems\MissingNumber\MissingNumber\obj\Debug\MissingNumber.exe
-D:\leet-code-problems\MissingNumber\MissingNumber\obj\Debug\MissingNumber.pdb

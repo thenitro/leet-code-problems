@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\BinaryWatch\BinaryWatch\bin\Debug\BinaryWatch.exe
-E:\code\leet-code-problems\BinaryWatch\BinaryWatch\bin\Debug\BinaryWatch.pdb
-E:\code\leet-code-problems\BinaryWatch\BinaryWatch\obj\Debug\BinaryWatch.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\BinaryWatch\BinaryWatch\obj\Debug\BinaryWatch.exe
-E:\code\leet-code-problems\BinaryWatch\BinaryWatch\obj\Debug\BinaryWatch.pdb

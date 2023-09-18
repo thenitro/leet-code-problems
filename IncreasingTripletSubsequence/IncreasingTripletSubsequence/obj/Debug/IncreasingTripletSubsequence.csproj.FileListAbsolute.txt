@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\IncreasingTripletSubsequence\IncreasingTripletSubsequence\bin\Debug\IncreasingTripletSubsequence.exe
-E:\code\leet-code-problems\IncreasingTripletSubsequence\IncreasingTripletSubsequence\bin\Debug\IncreasingTripletSubsequence.pdb
-E:\code\leet-code-problems\IncreasingTripletSubsequence\IncreasingTripletSubsequence\obj\Debug\IncreasingTripletSubsequence.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\IncreasingTripletSubsequence\IncreasingTripletSubsequence\obj\Debug\IncreasingTripletSubsequence.exe
-E:\code\leet-code-problems\IncreasingTripletSubsequence\IncreasingTripletSubsequence\obj\Debug\IncreasingTripletSubsequence.pdb

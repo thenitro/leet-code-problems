@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FirstUniqueCharacterInString\FirstUniqueCharacterInString\bin\Debug\FirstUniqueCharacterInString.exe
-E:\code\leet-code-problems\FirstUniqueCharacterInString\FirstUniqueCharacterInString\bin\Debug\FirstUniqueCharacterInString.pdb
-E:\code\leet-code-problems\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.exe
-E:\code\leet-code-problems\FirstUniqueCharacterInString\FirstUniqueCharacterInString\obj\Debug\FirstUniqueCharacterInString.pdb

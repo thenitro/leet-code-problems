@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\FlattenBinaryTreeToLinkedList\FlattenBinaryTreeToLinkedList\bin\Debug\FlattenBinaryTreeToLinkedList.exe
-E:\code\leet-code-problems\FlattenBinaryTreeToLinkedList\FlattenBinaryTreeToLinkedList\bin\Debug\FlattenBinaryTreeToLinkedList.pdb
-E:\code\leet-code-problems\FlattenBinaryTreeToLinkedList\FlattenBinaryTreeToLinkedList\obj\Debug\FlattenBinaryTreeToLinkedList.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\FlattenBinaryTreeToLinkedList\FlattenBinaryTreeToLinkedList\obj\Debug\FlattenBinaryTreeToLinkedList.exe
-E:\code\leet-code-problems\FlattenBinaryTreeToLinkedList\FlattenBinaryTreeToLinkedList\obj\Debug\FlattenBinaryTreeToLinkedList.pdb

@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\PlusOne\PlusOne\bin\Debug\PlusOne.exe
-E:\code\leet-code-problems\PlusOne\PlusOne\bin\Debug\PlusOne.pdb
-E:\code\leet-code-problems\PlusOne\PlusOne\obj\Debug\PlusOne.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\PlusOne\PlusOne\obj\Debug\PlusOne.exe
-E:\code\leet-code-problems\PlusOne\PlusOne\obj\Debug\PlusOne.pdb

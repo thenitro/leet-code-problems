@@ -1,5 +1,0 @@
-E:\code\leet-code-problems\AddBinary\AddBinary\bin\Debug\AddBinary.exe
-E:\code\leet-code-problems\AddBinary\AddBinary\bin\Debug\AddBinary.pdb
-E:\code\leet-code-problems\AddBinary\AddBinary\obj\Debug\AddBinary.csprojResolveAssemblyReference.cache
-E:\code\leet-code-problems\AddBinary\AddBinary\obj\Debug\AddBinary.exe
-E:\code\leet-code-problems\AddBinary\AddBinary\obj\Debug\AddBinary.pdb
