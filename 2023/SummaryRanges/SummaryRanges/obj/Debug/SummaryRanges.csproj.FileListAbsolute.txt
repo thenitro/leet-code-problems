@@ -1,0 +1,6 @@
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/bin/Debug/SummaryRanges.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/bin/Debug/SummaryRanges.pdb
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/obj/Debug/SummaryRanges.csproj.AssemblyReference.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/obj/Debug/SummaryRanges.csproj.CoreCompileInputs.cache
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/obj/Debug/SummaryRanges.exe
+/Volumes/Secondary/Work/Personal/leet-code-problems/2023/SummaryRanges/SummaryRanges/obj/Debug/SummaryRanges.pdb
